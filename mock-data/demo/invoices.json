@@ -1,0 +1,23 @@
+[
+  { "InvoiceNo": "INV-1001", "CustomerCode": "C001", "CustomerName": "Alpha Traders", "Email": "accounts@alphatraders.com", "DueDate": "2026-10-10", "Amount": 85000, "Paid": false },
+  { "InvoiceNo": "INV-1002", "CustomerCode": "C002", "CustomerName": "Beta Supplies", "Email": "finance@betasupplies.com", "DueDate": "2026-10-05", "Amount": 42500, "Paid": false },
+  { "InvoiceNo": "INV-1003", "CustomerCode": "C003", "CustomerName": "Gamma Exports", "Email": "billing@gammaexports.com", "DueDate": "2026-09-28", "Amount": 1200000, "Paid": false },
+  { "InvoiceNo": "INV-1004", "CustomerCode": "C004", "CustomerName": "Delta Solutions", "Email": "ap@deltasolutions.com", "DueDate": "2026-10-15", "Amount": 67000, "Paid": false },
+  { "InvoiceNo": "INV-1005", "CustomerCode": "C005", "CustomerName": "Epsilon Corp", "Email": "accounts@epsiloncorp.com", "DueDate": "2026-09-20", "Amount": 310000, "Paid": false },
+  { "InvoiceNo": "INV-1006", "CustomerCode": "C006", "CustomerName": "Zeta Industries", "Email": "finance@zetaindustries.com", "DueDate": "2026-10-20", "Amount": 55000, "Paid": false },
+  { "InvoiceNo": "INV-1007", "CustomerCode": "C007", "CustomerName": "Eta Merchants", "Email": "billing@etamerchants.com", "DueDate": "2026-10-25", "Amount": 92000, "Paid": false },
+  { "InvoiceNo": "INV-1008", "CustomerCode": "C008", "CustomerName": "Theta Retail", "Email": "accounts@thetaretail.com", "DueDate": "2026-11-10", "Amount": 38000, "Paid": false },
+  { "InvoiceNo": "INV-1009", "CustomerCode": "C009", "CustomerName": "Iota Logistics", "Email": "ap@iotalogistics.com", "DueDate": "2026-11-15", "Amount": 145000, "Paid": false },
+  { "InvoiceNo": "INV-1010", "CustomerCode": "C010", "CustomerName": "Kappa Tech", "Email": "finance@kappatech.com", "DueDate": "2026-11-20", "Amount": 275000, "Paid": false },
+  { "InvoiceNo": "INV-1011", "CustomerCode": "C001", "CustomerName": "Alpha Traders", "Email": "accounts@alphatraders.com", "DueDate": "2026-10-01", "Amount": 60000, "Paid": false },
+  { "InvoiceNo": "INV-1012", "CustomerCode": "C003", "CustomerName": "Gamma Exports", "Email": "billing@gammaexports.com", "DueDate": "2026-11-25", "Amount": 88000, "Paid": false },
+  { "InvoiceNo": "INV-1013", "CustomerCode": "C011", "CustomerName": "Lambda Goods", "Email": "accounts@lambdagoods.com", "DueDate": "2026-10-18", "Amount": 33000, "Paid": false },
+  { "InvoiceNo": "INV-1014", "CustomerCode": "C012", "CustomerName": "Mu Trading Co", "Email": "finance@mutrading.com", "DueDate": "2026-11-30", "Amount": 500000, "Paid": false },
+  { "InvoiceNo": "INV-1015", "CustomerCode": "C013", "CustomerName": "Nu Enterprises", "Email": "ap@nuenterprise.com", "DueDate": "2026-10-08", "Amount": 72000, "Paid": false },
+  { "InvoiceNo": "INV-1016", "CustomerCode": "C014", "CustomerName": "Xi Wholesale", "Email": "billing@xiwholesale.com", "DueDate": "2026-12-05", "Amount": 195000, "Paid": false },
+  { "InvoiceNo": "INV-1017", "CustomerCode": "C015", "CustomerName": "Omicron Parts", "Email": "accounts@omicronparts.com", "DueDate": "2026-10-12", "Amount": 48000, "Paid": false },
+  { "InvoiceNo": "INV-1018", "CustomerCode": "C016", "CustomerName": "Pi Components", "Email": "finance@picomponents.com", "DueDate": "2026-12-10", "Amount": 320000, "Paid": false },
+  { "InvoiceNo": "INV-1019", "CustomerCode": "C017", "CustomerName": "Rho Distributors", "Email": "ap@rhodist.com", "DueDate": "2026-10-22", "Amount": 54000, "Paid": false },
+  { "InvoiceNo": "INV-1020", "CustomerCode": "C018", "CustomerName": "Sigma Supplies", "Email": "billing@sigmasupplies.com", "DueDate": "2026-12-15", "Amount": 410000, "Paid": false }
+]
+
