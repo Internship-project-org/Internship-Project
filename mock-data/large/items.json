@@ -1,0 +1,3002 @@
+[
+  {
+    "ItemCode": "ITEM-0001",
+    "ItemName": "Turbo Charger B730",
+    "QtyAvailable": 32,
+    "ReorderLevel": 82
+  },
+  {
+    "ItemCode": "ITEM-0002",
+    "ItemName": "Engine Mount C831",
+    "QtyAvailable": 62,
+    "ReorderLevel": 95
+  },
+  {
+    "ItemCode": "ITEM-0003",
+    "ItemName": "Steel Bearing D545",
+    "QtyAvailable": 108,
+    "ReorderLevel": 64
+  },
+  {
+    "ItemCode": "ITEM-0004",
+    "ItemName": "Gasket Set E515",
+    "QtyAvailable": 65,
+    "ReorderLevel": 46
+  },
+  {
+    "ItemCode": "ITEM-0005",
+    "ItemName": "Coolant Hose F829",
+    "QtyAvailable": 272,
+    "ReorderLevel": 71
+  },
+  {
+    "ItemCode": "ITEM-0006",
+    "ItemName": "Filter Element G368",
+    "QtyAvailable": 180,
+    "ReorderLevel": 64
+  },
+  {
+    "ItemCode": "ITEM-0007",
+    "ItemName": "Turbo Charger H846",
+    "QtyAvailable": 214,
+    "ReorderLevel": 79
+  },
+  {
+    "ItemCode": "ITEM-0008",
+    "ItemName": "Engine Mount I393",
+    "QtyAvailable": 323,
+    "ReorderLevel": 69
+  },
+  {
+    "ItemCode": "ITEM-0009",
+    "ItemName": "Copper Wire J178",
+    "QtyAvailable": 21,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0010",
+    "ItemName": "Hydraulic Pump K582",
+    "QtyAvailable": 80,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0011",
+    "ItemName": "Engine Mount L15",
+    "QtyAvailable": 21,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0012",
+    "ItemName": "Timing Chain M491",
+    "QtyAvailable": 30,
+    "ReorderLevel": 61
+  },
+  {
+    "ItemCode": "ITEM-0013",
+    "ItemName": "Piston Ring N285",
+    "QtyAvailable": 183,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0014",
+    "ItemName": "Spark Plug O618",
+    "QtyAvailable": 230,
+    "ReorderLevel": 55
+  },
+  {
+    "ItemCode": "ITEM-0015",
+    "ItemName": "Gasket Set P423",
+    "QtyAvailable": 193,
+    "ReorderLevel": 46
+  },
+  {
+    "ItemCode": "ITEM-0016",
+    "ItemName": "Air Filter Q531",
+    "QtyAvailable": 212,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0017",
+    "ItemName": "Copper Wire R208",
+    "QtyAvailable": 114,
+    "ReorderLevel": 44
+  },
+  {
+    "ItemCode": "ITEM-0018",
+    "ItemName": "Engine Mount S273",
+    "QtyAvailable": 36,
+    "ReorderLevel": 10
+  },
+  {
+    "ItemCode": "ITEM-0019",
+    "ItemName": "Gasket Set T547",
+    "QtyAvailable": 49,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0020",
+    "ItemName": "Engine Mount U795",
+    "QtyAvailable": 26,
+    "ReorderLevel": 27
+  },
+  {
+    "ItemCode": "ITEM-0021",
+    "ItemName": "Drive Belt V198",
+    "QtyAvailable": 29,
+    "ReorderLevel": 47
+  },
+  {
+    "ItemCode": "ITEM-0022",
+    "ItemName": "Filter Element W447",
+    "QtyAvailable": 38,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0023",
+    "ItemName": "Engine Mount X439",
+    "QtyAvailable": 32,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0024",
+    "ItemName": "Turbo Charger Y424",
+    "QtyAvailable": 30,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0025",
+    "ItemName": "Fuel Injector Z346",
+    "QtyAvailable": 47,
+    "ReorderLevel": 30
+  },
+  {
+    "ItemCode": "ITEM-0026",
+    "ItemName": "Drive Belt A101",
+    "QtyAvailable": 236,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0027",
+    "ItemName": "Filter Element B663",
+    "QtyAvailable": 344,
+    "ReorderLevel": 86
+  },
+  {
+    "ItemCode": "ITEM-0028",
+    "ItemName": "Filter Element C625",
+    "QtyAvailable": 331,
+    "ReorderLevel": 82
+  },
+  {
+    "ItemCode": "ITEM-0029",
+    "ItemName": "Engine Mount D899",
+    "QtyAvailable": 85,
+    "ReorderLevel": 71
+  },
+  {
+    "ItemCode": "ITEM-0030",
+    "ItemName": "Crankshaft Seal E84",
+    "QtyAvailable": 7,
+    "ReorderLevel": 12
+  },
+  {
+    "ItemCode": "ITEM-0031",
+    "ItemName": "Radiator Cap F496",
+    "QtyAvailable": 41,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0032",
+    "ItemName": "Pressure Gauge G376",
+    "QtyAvailable": 35,
+    "ReorderLevel": 56
+  },
+  {
+    "ItemCode": "ITEM-0033",
+    "ItemName": "Air Filter H249",
+    "QtyAvailable": 145,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0034",
+    "ItemName": "Turbo Charger I171",
+    "QtyAvailable": 30,
+    "ReorderLevel": 18
+  },
+  {
+    "ItemCode": "ITEM-0035",
+    "ItemName": "Drive Belt J355",
+    "QtyAvailable": 289,
+    "ReorderLevel": 64
+  },
+  {
+    "ItemCode": "ITEM-0036",
+    "ItemName": "Timing Chain K40",
+    "QtyAvailable": 14,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0037",
+    "ItemName": "Radiator Cap L971",
+    "QtyAvailable": 64,
+    "ReorderLevel": 61
+  },
+  {
+    "ItemCode": "ITEM-0038",
+    "ItemName": "Piston Ring M338",
+    "QtyAvailable": 245,
+    "ReorderLevel": 56
+  },
+  {
+    "ItemCode": "ITEM-0039",
+    "ItemName": "Oil Seal N553",
+    "QtyAvailable": 165,
+    "ReorderLevel": 77
+  },
+  {
+    "ItemCode": "ITEM-0040",
+    "ItemName": "Turbo Charger O803",
+    "QtyAvailable": 50,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0041",
+    "ItemName": "Coolant Hose P373",
+    "QtyAvailable": 74,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0042",
+    "ItemName": "Gasket Set Q880",
+    "QtyAvailable": 25,
+    "ReorderLevel": 61
+  },
+  {
+    "ItemCode": "ITEM-0043",
+    "ItemName": "Oil Seal R437",
+    "QtyAvailable": 251,
+    "ReorderLevel": 77
+  },
+  {
+    "ItemCode": "ITEM-0044",
+    "ItemName": "Copper Wire S802",
+    "QtyAvailable": 223,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0045",
+    "ItemName": "Piston Ring T522",
+    "QtyAvailable": 184,
+    "ReorderLevel": 96
+  },
+  {
+    "ItemCode": "ITEM-0046",
+    "ItemName": "Valve Seat U340",
+    "QtyAvailable": 429,
+    "ReorderLevel": 98
+  },
+  {
+    "ItemCode": "ITEM-0047",
+    "ItemName": "Crankshaft Seal V88",
+    "QtyAvailable": 186,
+    "ReorderLevel": 42
+  },
+  {
+    "ItemCode": "ITEM-0048",
+    "ItemName": "Turbo Charger W915",
+    "QtyAvailable": 440,
+    "ReorderLevel": 99
+  },
+  {
+    "ItemCode": "ITEM-0049",
+    "ItemName": "Fuel Injector X755",
+    "QtyAvailable": 14,
+    "ReorderLevel": 7
+  },
+  {
+    "ItemCode": "ITEM-0050",
+    "ItemName": "Brake Pad Y445",
+    "QtyAvailable": 43,
+    "ReorderLevel": 96
+  },
+  {
+    "ItemCode": "ITEM-0051",
+    "ItemName": "Pressure Gauge Z420",
+    "QtyAvailable": 68,
+    "ReorderLevel": 85
+  },
+  {
+    "ItemCode": "ITEM-0052",
+    "ItemName": "Oil Seal A885",
+    "QtyAvailable": 4,
+    "ReorderLevel": 50
+  },
+  {
+    "ItemCode": "ITEM-0053",
+    "ItemName": "Copper Wire B216",
+    "QtyAvailable": 101,
+    "ReorderLevel": 27
+  },
+  {
+    "ItemCode": "ITEM-0054",
+    "ItemName": "Coolant Hose C311",
+    "QtyAvailable": 65,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0055",
+    "ItemName": "Copper Wire D325",
+    "QtyAvailable": 159,
+    "ReorderLevel": 97
+  },
+  {
+    "ItemCode": "ITEM-0056",
+    "ItemName": "Steel Bearing E928",
+    "QtyAvailable": 29,
+    "ReorderLevel": 24
+  },
+  {
+    "ItemCode": "ITEM-0057",
+    "ItemName": "Filter Element F623",
+    "QtyAvailable": 286,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0058",
+    "ItemName": "Coolant Hose G41",
+    "QtyAvailable": 99,
+    "ReorderLevel": 58
+  },
+  {
+    "ItemCode": "ITEM-0059",
+    "ItemName": "Pressure Gauge H85",
+    "QtyAvailable": 39,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0060",
+    "ItemName": "Timing Chain I302",
+    "QtyAvailable": 32,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0061",
+    "ItemName": "Pressure Gauge J409",
+    "QtyAvailable": 19,
+    "ReorderLevel": 93
+  },
+  {
+    "ItemCode": "ITEM-0062",
+    "ItemName": "Turbo Charger K454",
+    "QtyAvailable": 77,
+    "ReorderLevel": 95
+  },
+  {
+    "ItemCode": "ITEM-0063",
+    "ItemName": "Oil Seal L359",
+    "QtyAvailable": 79,
+    "ReorderLevel": 53
+  },
+  {
+    "ItemCode": "ITEM-0064",
+    "ItemName": "Air Filter M738",
+    "QtyAvailable": 10,
+    "ReorderLevel": 8
+  },
+  {
+    "ItemCode": "ITEM-0065",
+    "ItemName": "Hydraulic Pump N780",
+    "QtyAvailable": 9,
+    "ReorderLevel": 5
+  },
+  {
+    "ItemCode": "ITEM-0066",
+    "ItemName": "Air Filter O41",
+    "QtyAvailable": 106,
+    "ReorderLevel": 53
+  },
+  {
+    "ItemCode": "ITEM-0067",
+    "ItemName": "Engine Mount P641",
+    "QtyAvailable": 154,
+    "ReorderLevel": 64
+  },
+  {
+    "ItemCode": "ITEM-0068",
+    "ItemName": "Air Filter Q610",
+    "QtyAvailable": 322,
+    "ReorderLevel": 70
+  },
+  {
+    "ItemCode": "ITEM-0069",
+    "ItemName": "Valve Seat R55",
+    "QtyAvailable": 44,
+    "ReorderLevel": 31
+  },
+  {
+    "ItemCode": "ITEM-0070",
+    "ItemName": "Steel Bearing S269",
+    "QtyAvailable": 48,
+    "ReorderLevel": 51
+  },
+  {
+    "ItemCode": "ITEM-0071",
+    "ItemName": "Piston Ring T86",
+    "QtyAvailable": 2,
+    "ReorderLevel": 7
+  },
+  {
+    "ItemCode": "ITEM-0072",
+    "ItemName": "Steel Bearing U345",
+    "QtyAvailable": 50,
+    "ReorderLevel": 86
+  },
+  {
+    "ItemCode": "ITEM-0073",
+    "ItemName": "Radiator Cap V501",
+    "QtyAvailable": 163,
+    "ReorderLevel": 50
+  },
+  {
+    "ItemCode": "ITEM-0074",
+    "ItemName": "Piston Ring W322",
+    "QtyAvailable": 193,
+    "ReorderLevel": 92
+  },
+  {
+    "ItemCode": "ITEM-0075",
+    "ItemName": "Spark Plug X53",
+    "QtyAvailable": 361,
+    "ReorderLevel": 80
+  },
+  {
+    "ItemCode": "ITEM-0076",
+    "ItemName": "Piston Ring Y899",
+    "QtyAvailable": 209,
+    "ReorderLevel": 65
+  },
+  {
+    "ItemCode": "ITEM-0077",
+    "ItemName": "Air Filter Z674",
+    "QtyAvailable": 35,
+    "ReorderLevel": 16
+  },
+  {
+    "ItemCode": "ITEM-0078",
+    "ItemName": "Pressure Gauge A592",
+    "QtyAvailable": 29,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0079",
+    "ItemName": "Filter Element B223",
+    "QtyAvailable": 400,
+    "ReorderLevel": 86
+  },
+  {
+    "ItemCode": "ITEM-0080",
+    "ItemName": "Fuel Injector C666",
+    "QtyAvailable": 0,
+    "ReorderLevel": 21
+  },
+  {
+    "ItemCode": "ITEM-0081",
+    "ItemName": "Coolant Hose D226",
+    "QtyAvailable": 91,
+    "ReorderLevel": 96
+  },
+  {
+    "ItemCode": "ITEM-0082",
+    "ItemName": "Fuel Injector E620",
+    "QtyAvailable": 8,
+    "ReorderLevel": 58
+  },
+  {
+    "ItemCode": "ITEM-0083",
+    "ItemName": "Turbo Charger F983",
+    "QtyAvailable": 158,
+    "ReorderLevel": 33
+  },
+  {
+    "ItemCode": "ITEM-0084",
+    "ItemName": "Drive Belt G355",
+    "QtyAvailable": 70,
+    "ReorderLevel": 63
+  },
+  {
+    "ItemCode": "ITEM-0085",
+    "ItemName": "Coolant Hose H588",
+    "QtyAvailable": 309,
+    "ReorderLevel": 100
+  },
+  {
+    "ItemCode": "ITEM-0086",
+    "ItemName": "Crankshaft Seal I745",
+    "QtyAvailable": 18,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0087",
+    "ItemName": "Turbo Charger J478",
+    "QtyAvailable": 255,
+    "ReorderLevel": 94
+  },
+  {
+    "ItemCode": "ITEM-0088",
+    "ItemName": "Engine Mount K275",
+    "QtyAvailable": 81,
+    "ReorderLevel": 38
+  },
+  {
+    "ItemCode": "ITEM-0089",
+    "ItemName": "Crankshaft Seal L386",
+    "QtyAvailable": 330,
+    "ReorderLevel": 73
+  },
+  {
+    "ItemCode": "ITEM-0090",
+    "ItemName": "Turbo Charger M928",
+    "QtyAvailable": 7,
+    "ReorderLevel": 12
+  },
+  {
+    "ItemCode": "ITEM-0091",
+    "ItemName": "Air Filter N34",
+    "QtyAvailable": 44,
+    "ReorderLevel": 46
+  },
+  {
+    "ItemCode": "ITEM-0092",
+    "ItemName": "Brake Pad O811",
+    "QtyAvailable": 27,
+    "ReorderLevel": 84
+  },
+  {
+    "ItemCode": "ITEM-0093",
+    "ItemName": "Turbo Charger P29",
+    "QtyAvailable": 175,
+    "ReorderLevel": 39
+  },
+  {
+    "ItemCode": "ITEM-0094",
+    "ItemName": "Gasket Set Q846",
+    "QtyAvailable": 164,
+    "ReorderLevel": 53
+  },
+  {
+    "ItemCode": "ITEM-0095",
+    "ItemName": "Pressure Gauge R991",
+    "QtyAvailable": 101,
+    "ReorderLevel": 46
+  },
+  {
+    "ItemCode": "ITEM-0096",
+    "ItemName": "Steel Bearing S985",
+    "QtyAvailable": 109,
+    "ReorderLevel": 60
+  },
+  {
+    "ItemCode": "ITEM-0097",
+    "ItemName": "Fuel Injector T839",
+    "QtyAvailable": 25,
+    "ReorderLevel": 5
+  },
+  {
+    "ItemCode": "ITEM-0098",
+    "ItemName": "Steel Bearing U895",
+    "QtyAvailable": 30,
+    "ReorderLevel": 9
+  },
+  {
+    "ItemCode": "ITEM-0099",
+    "ItemName": "Turbo Charger V649",
+    "QtyAvailable": 111,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0100",
+    "ItemName": "Fuel Injector W577",
+    "QtyAvailable": 35,
+    "ReorderLevel": 56
+  },
+  {
+    "ItemCode": "ITEM-0101",
+    "ItemName": "Crankshaft Seal X251",
+    "QtyAvailable": 9,
+    "ReorderLevel": 10
+  },
+  {
+    "ItemCode": "ITEM-0102",
+    "ItemName": "Brake Pad Y445",
+    "QtyAvailable": 6,
+    "ReorderLevel": 96
+  },
+  {
+    "ItemCode": "ITEM-0103",
+    "ItemName": "Gasket Set Z395",
+    "QtyAvailable": 99,
+    "ReorderLevel": 81
+  },
+  {
+    "ItemCode": "ITEM-0104",
+    "ItemName": "Gasket Set A214",
+    "QtyAvailable": 73,
+    "ReorderLevel": 26
+  },
+  {
+    "ItemCode": "ITEM-0105",
+    "ItemName": "Coolant Hose B178",
+    "QtyAvailable": 77,
+    "ReorderLevel": 53
+  },
+  {
+    "ItemCode": "ITEM-0106",
+    "ItemName": "Drive Belt C106",
+    "QtyAvailable": 55,
+    "ReorderLevel": 30
+  },
+  {
+    "ItemCode": "ITEM-0107",
+    "ItemName": "Brake Pad D378",
+    "QtyAvailable": 327,
+    "ReorderLevel": 97
+  },
+  {
+    "ItemCode": "ITEM-0108",
+    "ItemName": "Engine Mount E84",
+    "QtyAvailable": 200,
+    "ReorderLevel": 42
+  },
+  {
+    "ItemCode": "ITEM-0109",
+    "ItemName": "Piston Ring F861",
+    "QtyAvailable": 254,
+    "ReorderLevel": 59
+  },
+  {
+    "ItemCode": "ITEM-0110",
+    "ItemName": "Engine Mount G258",
+    "QtyAvailable": 29,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0111",
+    "ItemName": "Piston Ring H360",
+    "QtyAvailable": 33,
+    "ReorderLevel": 38
+  },
+  {
+    "ItemCode": "ITEM-0112",
+    "ItemName": "Turbo Charger I414",
+    "QtyAvailable": 55,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0113",
+    "ItemName": "Drive Belt J185",
+    "QtyAvailable": 68,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0114",
+    "ItemName": "Gasket Set K417",
+    "QtyAvailable": 74,
+    "ReorderLevel": 35
+  },
+  {
+    "ItemCode": "ITEM-0115",
+    "ItemName": "Pressure Gauge L109",
+    "QtyAvailable": 199,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0116",
+    "ItemName": "Copper Wire M275",
+    "QtyAvailable": 13,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0117",
+    "ItemName": "Coolant Hose N772",
+    "QtyAvailable": 61,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0118",
+    "ItemName": "Coolant Hose O40",
+    "QtyAvailable": 203,
+    "ReorderLevel": 72
+  },
+  {
+    "ItemCode": "ITEM-0119",
+    "ItemName": "Engine Mount P308",
+    "QtyAvailable": 205,
+    "ReorderLevel": 60
+  },
+  {
+    "ItemCode": "ITEM-0120",
+    "ItemName": "Brake Pad Q891",
+    "QtyAvailable": 60,
+    "ReorderLevel": 79
+  },
+  {
+    "ItemCode": "ITEM-0121",
+    "ItemName": "Copper Wire R747",
+    "QtyAvailable": 52,
+    "ReorderLevel": 99
+  },
+  {
+    "ItemCode": "ITEM-0122",
+    "ItemName": "Oil Seal S254",
+    "QtyAvailable": 25,
+    "ReorderLevel": 43
+  },
+  {
+    "ItemCode": "ITEM-0123",
+    "ItemName": "Oil Seal T807",
+    "QtyAvailable": 244,
+    "ReorderLevel": 57
+  },
+  {
+    "ItemCode": "ITEM-0124",
+    "ItemName": "Engine Mount U418",
+    "QtyAvailable": 123,
+    "ReorderLevel": 34
+  },
+  {
+    "ItemCode": "ITEM-0125",
+    "ItemName": "Timing Chain V735",
+    "QtyAvailable": 58,
+    "ReorderLevel": 21
+  },
+  {
+    "ItemCode": "ITEM-0126",
+    "ItemName": "Valve Seat W600",
+    "QtyAvailable": 5,
+    "ReorderLevel": 5
+  },
+  {
+    "ItemCode": "ITEM-0127",
+    "ItemName": "Copper Wire X95",
+    "QtyAvailable": 180,
+    "ReorderLevel": 91
+  },
+  {
+    "ItemCode": "ITEM-0128",
+    "ItemName": "Engine Mount Y216",
+    "QtyAvailable": 92,
+    "ReorderLevel": 33
+  },
+  {
+    "ItemCode": "ITEM-0129",
+    "ItemName": "Steel Bearing Z71",
+    "QtyAvailable": 236,
+    "ReorderLevel": 56
+  },
+  {
+    "ItemCode": "ITEM-0130",
+    "ItemName": "Brake Pad A366",
+    "QtyAvailable": 68,
+    "ReorderLevel": 75
+  },
+  {
+    "ItemCode": "ITEM-0131",
+    "ItemName": "Filter Element B335",
+    "QtyAvailable": 28,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0132",
+    "ItemName": "Air Filter C785",
+    "QtyAvailable": 0,
+    "ReorderLevel": 12
+  },
+  {
+    "ItemCode": "ITEM-0133",
+    "ItemName": "Crankshaft Seal D711",
+    "QtyAvailable": 73,
+    "ReorderLevel": 54
+  },
+  {
+    "ItemCode": "ITEM-0134",
+    "ItemName": "Piston Ring E154",
+    "QtyAvailable": 216,
+    "ReorderLevel": 88
+  },
+  {
+    "ItemCode": "ITEM-0135",
+    "ItemName": "Crankshaft Seal F552",
+    "QtyAvailable": 151,
+    "ReorderLevel": 65
+  },
+  {
+    "ItemCode": "ITEM-0136",
+    "ItemName": "Brake Pad G343",
+    "QtyAvailable": 111,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0137",
+    "ItemName": "Coolant Hose H964",
+    "QtyAvailable": 45,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0138",
+    "ItemName": "Oil Seal I427",
+    "QtyAvailable": 273,
+    "ReorderLevel": 58
+  },
+  {
+    "ItemCode": "ITEM-0139",
+    "ItemName": "Turbo Charger J622",
+    "QtyAvailable": 100,
+    "ReorderLevel": 84
+  },
+  {
+    "ItemCode": "ITEM-0140",
+    "ItemName": "Air Filter K716",
+    "QtyAvailable": 29,
+    "ReorderLevel": 73
+  },
+  {
+    "ItemCode": "ITEM-0141",
+    "ItemName": "Spark Plug L614",
+    "QtyAvailable": 0,
+    "ReorderLevel": 35
+  },
+  {
+    "ItemCode": "ITEM-0142",
+    "ItemName": "Coolant Hose M433",
+    "QtyAvailable": 1,
+    "ReorderLevel": 24
+  },
+  {
+    "ItemCode": "ITEM-0143",
+    "ItemName": "Drive Belt N827",
+    "QtyAvailable": 234,
+    "ReorderLevel": 47
+  },
+  {
+    "ItemCode": "ITEM-0144",
+    "ItemName": "Pressure Gauge O162",
+    "QtyAvailable": 28,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0145",
+    "ItemName": "Turbo Charger P455",
+    "QtyAvailable": 162,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0146",
+    "ItemName": "Gasket Set Q183",
+    "QtyAvailable": 222,
+    "ReorderLevel": 47
+  },
+  {
+    "ItemCode": "ITEM-0147",
+    "ItemName": "Air Filter R513",
+    "QtyAvailable": 46,
+    "ReorderLevel": 14
+  },
+  {
+    "ItemCode": "ITEM-0148",
+    "ItemName": "Radiator Cap S536",
+    "QtyAvailable": 289,
+    "ReorderLevel": 71
+  },
+  {
+    "ItemCode": "ITEM-0149",
+    "ItemName": "Steel Bearing T114",
+    "QtyAvailable": 185,
+    "ReorderLevel": 62
+  },
+  {
+    "ItemCode": "ITEM-0150",
+    "ItemName": "Drive Belt U701",
+    "QtyAvailable": 13,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0151",
+    "ItemName": "Hydraulic Pump V755",
+    "QtyAvailable": 6,
+    "ReorderLevel": 47
+  },
+  {
+    "ItemCode": "ITEM-0152",
+    "ItemName": "Pressure Gauge W631",
+    "QtyAvailable": 50,
+    "ReorderLevel": 72
+  },
+  {
+    "ItemCode": "ITEM-0153",
+    "ItemName": "Filter Element X140",
+    "QtyAvailable": 151,
+    "ReorderLevel": 55
+  },
+  {
+    "ItemCode": "ITEM-0154",
+    "ItemName": "Filter Element Y241",
+    "QtyAvailable": 107,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0155",
+    "ItemName": "Hydraulic Pump Z674",
+    "QtyAvailable": 186,
+    "ReorderLevel": 84
+  },
+  {
+    "ItemCode": "ITEM-0156",
+    "ItemName": "Copper Wire A896",
+    "QtyAvailable": 77,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0157",
+    "ItemName": "Air Filter B830",
+    "QtyAvailable": 10,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0158",
+    "ItemName": "Hydraulic Pump C83",
+    "QtyAvailable": 218,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0159",
+    "ItemName": "Filter Element D584",
+    "QtyAvailable": 80,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0160",
+    "ItemName": "Valve Seat E381",
+    "QtyAvailable": 35,
+    "ReorderLevel": 39
+  },
+  {
+    "ItemCode": "ITEM-0161",
+    "ItemName": "Coolant Hose F918",
+    "QtyAvailable": 7,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0162",
+    "ItemName": "Spark Plug G734",
+    "QtyAvailable": 30,
+    "ReorderLevel": 95
+  },
+  {
+    "ItemCode": "ITEM-0163",
+    "ItemName": "Radiator Cap H174",
+    "QtyAvailable": 114,
+    "ReorderLevel": 54
+  },
+  {
+    "ItemCode": "ITEM-0164",
+    "ItemName": "Filter Element I147",
+    "QtyAvailable": 267,
+    "ReorderLevel": 60
+  },
+  {
+    "ItemCode": "ITEM-0165",
+    "ItemName": "Steel Bearing J599",
+    "QtyAvailable": 142,
+    "ReorderLevel": 67
+  },
+  {
+    "ItemCode": "ITEM-0166",
+    "ItemName": "Pressure Gauge K690",
+    "QtyAvailable": 327,
+    "ReorderLevel": 94
+  },
+  {
+    "ItemCode": "ITEM-0167",
+    "ItemName": "Spark Plug L89",
+    "QtyAvailable": 139,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0168",
+    "ItemName": "Engine Mount M184",
+    "QtyAvailable": 263,
+    "ReorderLevel": 66
+  },
+  {
+    "ItemCode": "ITEM-0169",
+    "ItemName": "Hydraulic Pump N554",
+    "QtyAvailable": 176,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0170",
+    "ItemName": "Air Filter O865",
+    "QtyAvailable": 11,
+    "ReorderLevel": 32
+  },
+  {
+    "ItemCode": "ITEM-0171",
+    "ItemName": "Valve Seat P959",
+    "QtyAvailable": 40,
+    "ReorderLevel": 74
+  },
+  {
+    "ItemCode": "ITEM-0172",
+    "ItemName": "Crankshaft Seal Q606",
+    "QtyAvailable": 5,
+    "ReorderLevel": 7
+  },
+  {
+    "ItemCode": "ITEM-0173",
+    "ItemName": "Timing Chain R142",
+    "QtyAvailable": 109,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0174",
+    "ItemName": "Valve Seat S976",
+    "QtyAvailable": 17,
+    "ReorderLevel": 11
+  },
+  {
+    "ItemCode": "ITEM-0175",
+    "ItemName": "Copper Wire T108",
+    "QtyAvailable": 95,
+    "ReorderLevel": 56
+  },
+  {
+    "ItemCode": "ITEM-0176",
+    "ItemName": "Gasket Set U884",
+    "QtyAvailable": 140,
+    "ReorderLevel": 80
+  },
+  {
+    "ItemCode": "ITEM-0177",
+    "ItemName": "Radiator Cap V915",
+    "QtyAvailable": 61,
+    "ReorderLevel": 58
+  },
+  {
+    "ItemCode": "ITEM-0178",
+    "ItemName": "Hydraulic Pump W557",
+    "QtyAvailable": 255,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0179",
+    "ItemName": "Steel Bearing X183",
+    "QtyAvailable": 82,
+    "ReorderLevel": 22
+  },
+  {
+    "ItemCode": "ITEM-0180",
+    "ItemName": "Crankshaft Seal Y505",
+    "QtyAvailable": 29,
+    "ReorderLevel": 39
+  },
+  {
+    "ItemCode": "ITEM-0181",
+    "ItemName": "Brake Pad Z615",
+    "QtyAvailable": 14,
+    "ReorderLevel": 74
+  },
+  {
+    "ItemCode": "ITEM-0182",
+    "ItemName": "Engine Mount A353",
+    "QtyAvailable": 10,
+    "ReorderLevel": 51
+  },
+  {
+    "ItemCode": "ITEM-0183",
+    "ItemName": "Copper Wire B790",
+    "QtyAvailable": 39,
+    "ReorderLevel": 22
+  },
+  {
+    "ItemCode": "ITEM-0184",
+    "ItemName": "Steel Bearing C715",
+    "QtyAvailable": 167,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0185",
+    "ItemName": "Turbo Charger D838",
+    "QtyAvailable": 112,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0186",
+    "ItemName": "Gasket Set E433",
+    "QtyAvailable": 25,
+    "ReorderLevel": 11
+  },
+  {
+    "ItemCode": "ITEM-0187",
+    "ItemName": "Brake Pad F918",
+    "QtyAvailable": 111,
+    "ReorderLevel": 61
+  },
+  {
+    "ItemCode": "ITEM-0188",
+    "ItemName": "Crankshaft Seal G228",
+    "QtyAvailable": 30,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0189",
+    "ItemName": "Timing Chain H566",
+    "QtyAvailable": 414,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0190",
+    "ItemName": "Turbo Charger I204",
+    "QtyAvailable": 18,
+    "ReorderLevel": 25
+  },
+  {
+    "ItemCode": "ITEM-0191",
+    "ItemName": "Crankshaft Seal J480",
+    "QtyAvailable": 11,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0192",
+    "ItemName": "Air Filter K308",
+    "QtyAvailable": 97,
+    "ReorderLevel": 98
+  },
+  {
+    "ItemCode": "ITEM-0193",
+    "ItemName": "Crankshaft Seal L466",
+    "QtyAvailable": 89,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0194",
+    "ItemName": "Gasket Set M563",
+    "QtyAvailable": 433,
+    "ReorderLevel": 94
+  },
+  {
+    "ItemCode": "ITEM-0195",
+    "ItemName": "Drive Belt N435",
+    "QtyAvailable": 390,
+    "ReorderLevel": 81
+  },
+  {
+    "ItemCode": "ITEM-0196",
+    "ItemName": "Brake Pad O53",
+    "QtyAvailable": 154,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0197",
+    "ItemName": "Oil Seal P228",
+    "QtyAvailable": 67,
+    "ReorderLevel": 18
+  },
+  {
+    "ItemCode": "ITEM-0198",
+    "ItemName": "Brake Pad Q842",
+    "QtyAvailable": 99,
+    "ReorderLevel": 38
+  },
+  {
+    "ItemCode": "ITEM-0199",
+    "ItemName": "Oil Seal R859",
+    "QtyAvailable": 38,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0200",
+    "ItemName": "Steel Bearing S977",
+    "QtyAvailable": 4,
+    "ReorderLevel": 19
+  },
+  {
+    "ItemCode": "ITEM-0201",
+    "ItemName": "Fuel Injector T428",
+    "QtyAvailable": 35,
+    "ReorderLevel": 45
+  },
+  {
+    "ItemCode": "ITEM-0202",
+    "ItemName": "Hydraulic Pump U25",
+    "QtyAvailable": 16,
+    "ReorderLevel": 64
+  },
+  {
+    "ItemCode": "ITEM-0203",
+    "ItemName": "Copper Wire V998",
+    "QtyAvailable": 202,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0204",
+    "ItemName": "Engine Mount W914",
+    "QtyAvailable": 154,
+    "ReorderLevel": 31
+  },
+  {
+    "ItemCode": "ITEM-0205",
+    "ItemName": "Brake Pad X727",
+    "QtyAvailable": 305,
+    "ReorderLevel": 62
+  },
+  {
+    "ItemCode": "ITEM-0206",
+    "ItemName": "Crankshaft Seal Y138",
+    "QtyAvailable": 153,
+    "ReorderLevel": 48
+  },
+  {
+    "ItemCode": "ITEM-0207",
+    "ItemName": "Filter Element Z263",
+    "QtyAvailable": 193,
+    "ReorderLevel": 46
+  },
+  {
+    "ItemCode": "ITEM-0208",
+    "ItemName": "Piston Ring A223",
+    "QtyAvailable": 151,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0209",
+    "ItemName": "Valve Seat B966",
+    "QtyAvailable": 18,
+    "ReorderLevel": 7
+  },
+  {
+    "ItemCode": "ITEM-0210",
+    "ItemName": "Engine Mount C307",
+    "QtyAvailable": 46,
+    "ReorderLevel": 98
+  },
+  {
+    "ItemCode": "ITEM-0211",
+    "ItemName": "Steel Bearing D887",
+    "QtyAvailable": 35,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0212",
+    "ItemName": "Valve Seat E99",
+    "QtyAvailable": 42,
+    "ReorderLevel": 65
+  },
+  {
+    "ItemCode": "ITEM-0213",
+    "ItemName": "Gasket Set F175",
+    "QtyAvailable": 154,
+    "ReorderLevel": 78
+  },
+  {
+    "ItemCode": "ITEM-0214",
+    "ItemName": "Filter Element G876",
+    "QtyAvailable": 98,
+    "ReorderLevel": 96
+  },
+  {
+    "ItemCode": "ITEM-0215",
+    "ItemName": "Radiator Cap H804",
+    "QtyAvailable": 187,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0216",
+    "ItemName": "Crankshaft Seal I828",
+    "QtyAvailable": 48,
+    "ReorderLevel": 10
+  },
+  {
+    "ItemCode": "ITEM-0217",
+    "ItemName": "Spark Plug J36",
+    "QtyAvailable": 87,
+    "ReorderLevel": 80
+  },
+  {
+    "ItemCode": "ITEM-0218",
+    "ItemName": "Valve Seat K733",
+    "QtyAvailable": 223,
+    "ReorderLevel": 48
+  },
+  {
+    "ItemCode": "ITEM-0219",
+    "ItemName": "Spark Plug L397",
+    "QtyAvailable": 289,
+    "ReorderLevel": 66
+  },
+  {
+    "ItemCode": "ITEM-0220",
+    "ItemName": "Coolant Hose M19",
+    "QtyAvailable": 38,
+    "ReorderLevel": 61
+  },
+  {
+    "ItemCode": "ITEM-0221",
+    "ItemName": "Spark Plug N328",
+    "QtyAvailable": 12,
+    "ReorderLevel": 93
+  },
+  {
+    "ItemCode": "ITEM-0222",
+    "ItemName": "Piston Ring O555",
+    "QtyAvailable": 12,
+    "ReorderLevel": 47
+  },
+  {
+    "ItemCode": "ITEM-0223",
+    "ItemName": "Coolant Hose P403",
+    "QtyAvailable": 155,
+    "ReorderLevel": 73
+  },
+  {
+    "ItemCode": "ITEM-0224",
+    "ItemName": "Air Filter Q935",
+    "QtyAvailable": 18,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0225",
+    "ItemName": "Oil Seal R969",
+    "QtyAvailable": 22,
+    "ReorderLevel": 7
+  },
+  {
+    "ItemCode": "ITEM-0226",
+    "ItemName": "Turbo Charger S976",
+    "QtyAvailable": 411,
+    "ReorderLevel": 89
+  },
+  {
+    "ItemCode": "ITEM-0227",
+    "ItemName": "Gasket Set T980",
+    "QtyAvailable": 83,
+    "ReorderLevel": 38
+  },
+  {
+    "ItemCode": "ITEM-0228",
+    "ItemName": "Crankshaft Seal U258",
+    "QtyAvailable": 114,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0229",
+    "ItemName": "Turbo Charger V644",
+    "QtyAvailable": 56,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0230",
+    "ItemName": "Piston Ring W978",
+    "QtyAvailable": 68,
+    "ReorderLevel": 79
+  },
+  {
+    "ItemCode": "ITEM-0231",
+    "ItemName": "Piston Ring X60",
+    "QtyAvailable": 3,
+    "ReorderLevel": 42
+  },
+  {
+    "ItemCode": "ITEM-0232",
+    "ItemName": "Fuel Injector Y563",
+    "QtyAvailable": 1,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0233",
+    "ItemName": "Crankshaft Seal Z314",
+    "QtyAvailable": 322,
+    "ReorderLevel": 67
+  },
+  {
+    "ItemCode": "ITEM-0234",
+    "ItemName": "Crankshaft Seal A359",
+    "QtyAvailable": 43,
+    "ReorderLevel": 31
+  },
+  {
+    "ItemCode": "ITEM-0235",
+    "ItemName": "Coolant Hose B244",
+    "QtyAvailable": 87,
+    "ReorderLevel": 58
+  },
+  {
+    "ItemCode": "ITEM-0236",
+    "ItemName": "Filter Element C655",
+    "QtyAvailable": 46,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0237",
+    "ItemName": "Coolant Hose D21",
+    "QtyAvailable": 109,
+    "ReorderLevel": 46
+  },
+  {
+    "ItemCode": "ITEM-0238",
+    "ItemName": "Piston Ring E569",
+    "QtyAvailable": 197,
+    "ReorderLevel": 71
+  },
+  {
+    "ItemCode": "ITEM-0239",
+    "ItemName": "Radiator Cap F94",
+    "QtyAvailable": 206,
+    "ReorderLevel": 84
+  },
+  {
+    "ItemCode": "ITEM-0240",
+    "ItemName": "Oil Seal G319",
+    "QtyAvailable": 7,
+    "ReorderLevel": 81
+  },
+  {
+    "ItemCode": "ITEM-0241",
+    "ItemName": "Pressure Gauge H165",
+    "QtyAvailable": 9,
+    "ReorderLevel": 16
+  },
+  {
+    "ItemCode": "ITEM-0242",
+    "ItemName": "Copper Wire I659",
+    "QtyAvailable": 68,
+    "ReorderLevel": 84
+  },
+  {
+    "ItemCode": "ITEM-0243",
+    "ItemName": "Oil Seal J788",
+    "QtyAvailable": 142,
+    "ReorderLevel": 91
+  },
+  {
+    "ItemCode": "ITEM-0244",
+    "ItemName": "Pressure Gauge K580",
+    "QtyAvailable": 136,
+    "ReorderLevel": 80
+  },
+  {
+    "ItemCode": "ITEM-0245",
+    "ItemName": "Oil Seal L511",
+    "QtyAvailable": 92,
+    "ReorderLevel": 36
+  },
+  {
+    "ItemCode": "ITEM-0246",
+    "ItemName": "Piston Ring M330",
+    "QtyAvailable": 198,
+    "ReorderLevel": 80
+  },
+  {
+    "ItemCode": "ITEM-0247",
+    "ItemName": "Drive Belt N51",
+    "QtyAvailable": 83,
+    "ReorderLevel": 57
+  },
+  {
+    "ItemCode": "ITEM-0248",
+    "ItemName": "Coolant Hose O862",
+    "QtyAvailable": 182,
+    "ReorderLevel": 54
+  },
+  {
+    "ItemCode": "ITEM-0249",
+    "ItemName": "Air Filter P281",
+    "QtyAvailable": 171,
+    "ReorderLevel": 47
+  },
+  {
+    "ItemCode": "ITEM-0250",
+    "ItemName": "Radiator Cap Q696",
+    "QtyAvailable": 29,
+    "ReorderLevel": 71
+  },
+  {
+    "ItemCode": "ITEM-0251",
+    "ItemName": "Crankshaft Seal R806",
+    "QtyAvailable": 8,
+    "ReorderLevel": 43
+  },
+  {
+    "ItemCode": "ITEM-0252",
+    "ItemName": "Pressure Gauge S46",
+    "QtyAvailable": 54,
+    "ReorderLevel": 73
+  },
+  {
+    "ItemCode": "ITEM-0253",
+    "ItemName": "Spark Plug T378",
+    "QtyAvailable": 185,
+    "ReorderLevel": 57
+  },
+  {
+    "ItemCode": "ITEM-0254",
+    "ItemName": "Filter Element U702",
+    "QtyAvailable": 71,
+    "ReorderLevel": 57
+  },
+  {
+    "ItemCode": "ITEM-0255",
+    "ItemName": "Fuel Injector V503",
+    "QtyAvailable": 478,
+    "ReorderLevel": 96
+  },
+  {
+    "ItemCode": "ITEM-0256",
+    "ItemName": "Crankshaft Seal W922",
+    "QtyAvailable": 197,
+    "ReorderLevel": 48
+  },
+  {
+    "ItemCode": "ITEM-0257",
+    "ItemName": "Copper Wire X239",
+    "QtyAvailable": 244,
+    "ReorderLevel": 93
+  },
+  {
+    "ItemCode": "ITEM-0258",
+    "ItemName": "Brake Pad Y206",
+    "QtyAvailable": 110,
+    "ReorderLevel": 24
+  },
+  {
+    "ItemCode": "ITEM-0259",
+    "ItemName": "Steel Bearing Z219",
+    "QtyAvailable": 83,
+    "ReorderLevel": 80
+  },
+  {
+    "ItemCode": "ITEM-0260",
+    "ItemName": "Steel Bearing A129",
+    "QtyAvailable": 60,
+    "ReorderLevel": 64
+  },
+  {
+    "ItemCode": "ITEM-0261",
+    "ItemName": "Valve Seat B296",
+    "QtyAvailable": 80,
+    "ReorderLevel": 100
+  },
+  {
+    "ItemCode": "ITEM-0262",
+    "ItemName": "Engine Mount C17",
+    "QtyAvailable": 12,
+    "ReorderLevel": 42
+  },
+  {
+    "ItemCode": "ITEM-0263",
+    "ItemName": "Spark Plug D947",
+    "QtyAvailable": 144,
+    "ReorderLevel": 32
+  },
+  {
+    "ItemCode": "ITEM-0264",
+    "ItemName": "Gasket Set E822",
+    "QtyAvailable": 92,
+    "ReorderLevel": 22
+  },
+  {
+    "ItemCode": "ITEM-0265",
+    "ItemName": "Oil Seal F213",
+    "QtyAvailable": 149,
+    "ReorderLevel": 44
+  },
+  {
+    "ItemCode": "ITEM-0266",
+    "ItemName": "Piston Ring G626",
+    "QtyAvailable": 22,
+    "ReorderLevel": 7
+  },
+  {
+    "ItemCode": "ITEM-0267",
+    "ItemName": "Oil Seal H355",
+    "QtyAvailable": 112,
+    "ReorderLevel": 63
+  },
+  {
+    "ItemCode": "ITEM-0268",
+    "ItemName": "Piston Ring I989",
+    "QtyAvailable": 240,
+    "ReorderLevel": 60
+  },
+  {
+    "ItemCode": "ITEM-0269",
+    "ItemName": "Valve Seat J169",
+    "QtyAvailable": 18,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0270",
+    "ItemName": "Piston Ring K821",
+    "QtyAvailable": 5,
+    "ReorderLevel": 31
+  },
+  {
+    "ItemCode": "ITEM-0271",
+    "ItemName": "Turbo Charger L815",
+    "QtyAvailable": 67,
+    "ReorderLevel": 84
+  },
+  {
+    "ItemCode": "ITEM-0272",
+    "ItemName": "Air Filter M802",
+    "QtyAvailable": 73,
+    "ReorderLevel": 97
+  },
+  {
+    "ItemCode": "ITEM-0273",
+    "ItemName": "Oil Seal N442",
+    "QtyAvailable": 354,
+    "ReorderLevel": 77
+  },
+  {
+    "ItemCode": "ITEM-0274",
+    "ItemName": "Valve Seat O459",
+    "QtyAvailable": 73,
+    "ReorderLevel": 26
+  },
+  {
+    "ItemCode": "ITEM-0275",
+    "ItemName": "Brake Pad P513",
+    "QtyAvailable": 354,
+    "ReorderLevel": 81
+  },
+  {
+    "ItemCode": "ITEM-0276",
+    "ItemName": "Timing Chain Q440",
+    "QtyAvailable": 127,
+    "ReorderLevel": 77
+  },
+  {
+    "ItemCode": "ITEM-0277",
+    "ItemName": "Oil Seal R968",
+    "QtyAvailable": 148,
+    "ReorderLevel": 31
+  },
+  {
+    "ItemCode": "ITEM-0278",
+    "ItemName": "Valve Seat S435",
+    "QtyAvailable": 108,
+    "ReorderLevel": 24
+  },
+  {
+    "ItemCode": "ITEM-0279",
+    "ItemName": "Filter Element T367",
+    "QtyAvailable": 34,
+    "ReorderLevel": 8
+  },
+  {
+    "ItemCode": "ITEM-0280",
+    "ItemName": "Spark Plug U458",
+    "QtyAvailable": 8,
+    "ReorderLevel": 28
+  },
+  {
+    "ItemCode": "ITEM-0281",
+    "ItemName": "Air Filter V780",
+    "QtyAvailable": 1,
+    "ReorderLevel": 69
+  },
+  {
+    "ItemCode": "ITEM-0282",
+    "ItemName": "Radiator Cap W900",
+    "QtyAvailable": 1,
+    "ReorderLevel": 53
+  },
+  {
+    "ItemCode": "ITEM-0283",
+    "ItemName": "Valve Seat X841",
+    "QtyAvailable": 220,
+    "ReorderLevel": 49
+  },
+  {
+    "ItemCode": "ITEM-0284",
+    "ItemName": "Oil Seal Y931",
+    "QtyAvailable": 250,
+    "ReorderLevel": 63
+  },
+  {
+    "ItemCode": "ITEM-0285",
+    "ItemName": "Drive Belt Z153",
+    "QtyAvailable": 115,
+    "ReorderLevel": 31
+  },
+  {
+    "ItemCode": "ITEM-0286",
+    "ItemName": "Air Filter A822",
+    "QtyAvailable": 132,
+    "ReorderLevel": 43
+  },
+  {
+    "ItemCode": "ITEM-0287",
+    "ItemName": "Pressure Gauge B612",
+    "QtyAvailable": 66,
+    "ReorderLevel": 14
+  },
+  {
+    "ItemCode": "ITEM-0288",
+    "ItemName": "Spark Plug C390",
+    "QtyAvailable": 372,
+    "ReorderLevel": 89
+  },
+  {
+    "ItemCode": "ITEM-0289",
+    "ItemName": "Air Filter D782",
+    "QtyAvailable": 261,
+    "ReorderLevel": 95
+  },
+  {
+    "ItemCode": "ITEM-0290",
+    "ItemName": "Gasket Set E92",
+    "QtyAvailable": 42,
+    "ReorderLevel": 72
+  },
+  {
+    "ItemCode": "ITEM-0291",
+    "ItemName": "Spark Plug F913",
+    "QtyAvailable": 54,
+    "ReorderLevel": 88
+  },
+  {
+    "ItemCode": "ITEM-0292",
+    "ItemName": "Turbo Charger G465",
+    "QtyAvailable": 24,
+    "ReorderLevel": 78
+  },
+  {
+    "ItemCode": "ITEM-0293",
+    "ItemName": "Copper Wire H784",
+    "QtyAvailable": 167,
+    "ReorderLevel": 37
+  },
+  {
+    "ItemCode": "ITEM-0294",
+    "ItemName": "Pressure Gauge I960",
+    "QtyAvailable": 79,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0295",
+    "ItemName": "Filter Element J85",
+    "QtyAvailable": 421,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0296",
+    "ItemName": "Pressure Gauge K358",
+    "QtyAvailable": 76,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0297",
+    "ItemName": "Oil Seal L11",
+    "QtyAvailable": 156,
+    "ReorderLevel": 89
+  },
+  {
+    "ItemCode": "ITEM-0298",
+    "ItemName": "Hydraulic Pump M788",
+    "QtyAvailable": 174,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0299",
+    "ItemName": "Filter Element N679",
+    "QtyAvailable": 225,
+    "ReorderLevel": 51
+  },
+  {
+    "ItemCode": "ITEM-0300",
+    "ItemName": "Crankshaft Seal O717",
+    "QtyAvailable": 35,
+    "ReorderLevel": 98
+  },
+  {
+    "ItemCode": "ITEM-0301",
+    "ItemName": "Timing Chain P662",
+    "QtyAvailable": 16,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0302",
+    "ItemName": "Drive Belt Q995",
+    "QtyAvailable": 48,
+    "ReorderLevel": 50
+  },
+  {
+    "ItemCode": "ITEM-0303",
+    "ItemName": "Radiator Cap R221",
+    "QtyAvailable": 200,
+    "ReorderLevel": 53
+  },
+  {
+    "ItemCode": "ITEM-0304",
+    "ItemName": "Spark Plug S552",
+    "QtyAvailable": 163,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0305",
+    "ItemName": "Timing Chain T419",
+    "QtyAvailable": 263,
+    "ReorderLevel": 62
+  },
+  {
+    "ItemCode": "ITEM-0306",
+    "ItemName": "Valve Seat U287",
+    "QtyAvailable": 207,
+    "ReorderLevel": 51
+  },
+  {
+    "ItemCode": "ITEM-0307",
+    "ItemName": "Filter Element V221",
+    "QtyAvailable": 217,
+    "ReorderLevel": 94
+  },
+  {
+    "ItemCode": "ITEM-0308",
+    "ItemName": "Air Filter W883",
+    "QtyAvailable": 246,
+    "ReorderLevel": 50
+  },
+  {
+    "ItemCode": "ITEM-0309",
+    "ItemName": "Engine Mount X853",
+    "QtyAvailable": 19,
+    "ReorderLevel": 5
+  },
+  {
+    "ItemCode": "ITEM-0310",
+    "ItemName": "Valve Seat Y710",
+    "QtyAvailable": 2,
+    "ReorderLevel": 9
+  },
+  {
+    "ItemCode": "ITEM-0311",
+    "ItemName": "Piston Ring Z441",
+    "QtyAvailable": 56,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0312",
+    "ItemName": "Timing Chain A407",
+    "QtyAvailable": 57,
+    "ReorderLevel": 64
+  },
+  {
+    "ItemCode": "ITEM-0313",
+    "ItemName": "Engine Mount B667",
+    "QtyAvailable": 376,
+    "ReorderLevel": 89
+  },
+  {
+    "ItemCode": "ITEM-0314",
+    "ItemName": "Gasket Set C907",
+    "QtyAvailable": 93,
+    "ReorderLevel": 49
+  },
+  {
+    "ItemCode": "ITEM-0315",
+    "ItemName": "Valve Seat D246",
+    "QtyAvailable": 53,
+    "ReorderLevel": 11
+  },
+  {
+    "ItemCode": "ITEM-0316",
+    "ItemName": "Fuel Injector E876",
+    "QtyAvailable": 67,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0317",
+    "ItemName": "Crankshaft Seal F964",
+    "QtyAvailable": 165,
+    "ReorderLevel": 66
+  },
+  {
+    "ItemCode": "ITEM-0318",
+    "ItemName": "Steel Bearing G962",
+    "QtyAvailable": 127,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0319",
+    "ItemName": "Filter Element H755",
+    "QtyAvailable": 131,
+    "ReorderLevel": 31
+  },
+  {
+    "ItemCode": "ITEM-0320",
+    "ItemName": "Steel Bearing I222",
+    "QtyAvailable": 4,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0321",
+    "ItemName": "Gasket Set J52",
+    "QtyAvailable": 11,
+    "ReorderLevel": 71
+  },
+  {
+    "ItemCode": "ITEM-0322",
+    "ItemName": "Timing Chain K17",
+    "QtyAvailable": 35,
+    "ReorderLevel": 62
+  },
+  {
+    "ItemCode": "ITEM-0323",
+    "ItemName": "Pressure Gauge L675",
+    "QtyAvailable": 134,
+    "ReorderLevel": 84
+  },
+  {
+    "ItemCode": "ITEM-0324",
+    "ItemName": "Piston Ring M427",
+    "QtyAvailable": 76,
+    "ReorderLevel": 63
+  },
+  {
+    "ItemCode": "ITEM-0325",
+    "ItemName": "Drive Belt N908",
+    "QtyAvailable": 120,
+    "ReorderLevel": 24
+  },
+  {
+    "ItemCode": "ITEM-0326",
+    "ItemName": "Oil Seal O447",
+    "QtyAvailable": 375,
+    "ReorderLevel": 98
+  },
+  {
+    "ItemCode": "ITEM-0327",
+    "ItemName": "Timing Chain P46",
+    "QtyAvailable": 132,
+    "ReorderLevel": 73
+  },
+  {
+    "ItemCode": "ITEM-0328",
+    "ItemName": "Pressure Gauge Q106",
+    "QtyAvailable": 24,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0329",
+    "ItemName": "Hydraulic Pump R676",
+    "QtyAvailable": 215,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0330",
+    "ItemName": "Hydraulic Pump S498",
+    "QtyAvailable": 64,
+    "ReorderLevel": 66
+  },
+  {
+    "ItemCode": "ITEM-0331",
+    "ItemName": "Steel Bearing T121",
+    "QtyAvailable": 9,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0332",
+    "ItemName": "Radiator Cap U738",
+    "QtyAvailable": 5,
+    "ReorderLevel": 46
+  },
+  {
+    "ItemCode": "ITEM-0333",
+    "ItemName": "Timing Chain V79",
+    "QtyAvailable": 192,
+    "ReorderLevel": 66
+  },
+  {
+    "ItemCode": "ITEM-0334",
+    "ItemName": "Steel Bearing W562",
+    "QtyAvailable": 311,
+    "ReorderLevel": 86
+  },
+  {
+    "ItemCode": "ITEM-0335",
+    "ItemName": "Fuel Injector X777",
+    "QtyAvailable": 275,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0336",
+    "ItemName": "Crankshaft Seal Y454",
+    "QtyAvailable": 478,
+    "ReorderLevel": 96
+  },
+  {
+    "ItemCode": "ITEM-0337",
+    "ItemName": "Drive Belt Z608",
+    "QtyAvailable": 44,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0338",
+    "ItemName": "Coolant Hose A185",
+    "QtyAvailable": 324,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0339",
+    "ItemName": "Steel Bearing B782",
+    "QtyAvailable": 24,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0340",
+    "ItemName": "Brake Pad C963",
+    "QtyAvailable": 0,
+    "ReorderLevel": 49
+  },
+  {
+    "ItemCode": "ITEM-0341",
+    "ItemName": "Pressure Gauge D170",
+    "QtyAvailable": 11,
+    "ReorderLevel": 21
+  },
+  {
+    "ItemCode": "ITEM-0342",
+    "ItemName": "Pressure Gauge E989",
+    "QtyAvailable": 52,
+    "ReorderLevel": 81
+  },
+  {
+    "ItemCode": "ITEM-0343",
+    "ItemName": "Pressure Gauge F791",
+    "QtyAvailable": 14,
+    "ReorderLevel": 14
+  },
+  {
+    "ItemCode": "ITEM-0344",
+    "ItemName": "Copper Wire G855",
+    "QtyAvailable": 57,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0345",
+    "ItemName": "Brake Pad H874",
+    "QtyAvailable": 97,
+    "ReorderLevel": 27
+  },
+  {
+    "ItemCode": "ITEM-0346",
+    "ItemName": "Air Filter I825",
+    "QtyAvailable": 146,
+    "ReorderLevel": 39
+  },
+  {
+    "ItemCode": "ITEM-0347",
+    "ItemName": "Drive Belt J845",
+    "QtyAvailable": 377,
+    "ReorderLevel": 86
+  },
+  {
+    "ItemCode": "ITEM-0348",
+    "ItemName": "Radiator Cap K888",
+    "QtyAvailable": 123,
+    "ReorderLevel": 89
+  },
+  {
+    "ItemCode": "ITEM-0349",
+    "ItemName": "Radiator Cap L519",
+    "QtyAvailable": 178,
+    "ReorderLevel": 70
+  },
+  {
+    "ItemCode": "ITEM-0350",
+    "ItemName": "Filter Element M671",
+    "QtyAvailable": 4,
+    "ReorderLevel": 18
+  },
+  {
+    "ItemCode": "ITEM-0351",
+    "ItemName": "Coolant Hose N82",
+    "QtyAvailable": 0,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0352",
+    "ItemName": "Drive Belt O348",
+    "QtyAvailable": 1,
+    "ReorderLevel": 73
+  },
+  {
+    "ItemCode": "ITEM-0353",
+    "ItemName": "Valve Seat P594",
+    "QtyAvailable": 129,
+    "ReorderLevel": 73
+  },
+  {
+    "ItemCode": "ITEM-0354",
+    "ItemName": "Hydraulic Pump Q780",
+    "QtyAvailable": 96,
+    "ReorderLevel": 43
+  },
+  {
+    "ItemCode": "ITEM-0355",
+    "ItemName": "Steel Bearing R510",
+    "QtyAvailable": 145,
+    "ReorderLevel": 88
+  },
+  {
+    "ItemCode": "ITEM-0356",
+    "ItemName": "Drive Belt S974",
+    "QtyAvailable": 196,
+    "ReorderLevel": 56
+  },
+  {
+    "ItemCode": "ITEM-0357",
+    "ItemName": "Hydraulic Pump T338",
+    "QtyAvailable": 101,
+    "ReorderLevel": 27
+  },
+  {
+    "ItemCode": "ITEM-0358",
+    "ItemName": "Fuel Injector U369",
+    "QtyAvailable": 54,
+    "ReorderLevel": 21
+  },
+  {
+    "ItemCode": "ITEM-0359",
+    "ItemName": "Drive Belt V587",
+    "QtyAvailable": 51,
+    "ReorderLevel": 49
+  },
+  {
+    "ItemCode": "ITEM-0360",
+    "ItemName": "Valve Seat W29",
+    "QtyAvailable": 28,
+    "ReorderLevel": 78
+  },
+  {
+    "ItemCode": "ITEM-0361",
+    "ItemName": "Engine Mount X426",
+    "QtyAvailable": 8,
+    "ReorderLevel": 25
+  },
+  {
+    "ItemCode": "ITEM-0362",
+    "ItemName": "Piston Ring Y716",
+    "QtyAvailable": 21,
+    "ReorderLevel": 100
+  },
+  {
+    "ItemCode": "ITEM-0363",
+    "ItemName": "Drive Belt Z694",
+    "QtyAvailable": 40,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0364",
+    "ItemName": "Pressure Gauge A295",
+    "QtyAvailable": 76,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0365",
+    "ItemName": "Oil Seal B465",
+    "QtyAvailable": 150,
+    "ReorderLevel": 57
+  },
+  {
+    "ItemCode": "ITEM-0366",
+    "ItemName": "Coolant Hose C901",
+    "QtyAvailable": 160,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0367",
+    "ItemName": "Timing Chain D248",
+    "QtyAvailable": 53,
+    "ReorderLevel": 44
+  },
+  {
+    "ItemCode": "ITEM-0368",
+    "ItemName": "Engine Mount E316",
+    "QtyAvailable": 97,
+    "ReorderLevel": 22
+  },
+  {
+    "ItemCode": "ITEM-0369",
+    "ItemName": "Air Filter F530",
+    "QtyAvailable": 27,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0370",
+    "ItemName": "Timing Chain G154",
+    "QtyAvailable": 21,
+    "ReorderLevel": 50
+  },
+  {
+    "ItemCode": "ITEM-0371",
+    "ItemName": "Radiator Cap H260",
+    "QtyAvailable": 52,
+    "ReorderLevel": 91
+  },
+  {
+    "ItemCode": "ITEM-0372",
+    "ItemName": "Hydraulic Pump I226",
+    "QtyAvailable": 57,
+    "ReorderLevel": 59
+  },
+  {
+    "ItemCode": "ITEM-0373",
+    "ItemName": "Coolant Hose J452",
+    "QtyAvailable": 55,
+    "ReorderLevel": 11
+  },
+  {
+    "ItemCode": "ITEM-0374",
+    "ItemName": "Coolant Hose K437",
+    "QtyAvailable": 104,
+    "ReorderLevel": 35
+  },
+  {
+    "ItemCode": "ITEM-0375",
+    "ItemName": "Radiator Cap L194",
+    "QtyAvailable": 58,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0376",
+    "ItemName": "Gasket Set M386",
+    "QtyAvailable": 209,
+    "ReorderLevel": 51
+  },
+  {
+    "ItemCode": "ITEM-0377",
+    "ItemName": "Hydraulic Pump N727",
+    "QtyAvailable": 28,
+    "ReorderLevel": 11
+  },
+  {
+    "ItemCode": "ITEM-0378",
+    "ItemName": "Engine Mount O293",
+    "QtyAvailable": 16,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0379",
+    "ItemName": "Gasket Set P699",
+    "QtyAvailable": 91,
+    "ReorderLevel": 45
+  },
+  {
+    "ItemCode": "ITEM-0380",
+    "ItemName": "Radiator Cap Q91",
+    "QtyAvailable": 0,
+    "ReorderLevel": 49
+  },
+  {
+    "ItemCode": "ITEM-0381",
+    "ItemName": "Filter Element R351",
+    "QtyAvailable": 33,
+    "ReorderLevel": 69
+  },
+  {
+    "ItemCode": "ITEM-0382",
+    "ItemName": "Timing Chain S843",
+    "QtyAvailable": 55,
+    "ReorderLevel": 99
+  },
+  {
+    "ItemCode": "ITEM-0383",
+    "ItemName": "Piston Ring T487",
+    "QtyAvailable": 35,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0384",
+    "ItemName": "Radiator Cap U966",
+    "QtyAvailable": 219,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0385",
+    "ItemName": "Hydraulic Pump V130",
+    "QtyAvailable": 240,
+    "ReorderLevel": 51
+  },
+  {
+    "ItemCode": "ITEM-0386",
+    "ItemName": "Steel Bearing W975",
+    "QtyAvailable": 73,
+    "ReorderLevel": 25
+  },
+  {
+    "ItemCode": "ITEM-0387",
+    "ItemName": "Copper Wire X407",
+    "QtyAvailable": 60,
+    "ReorderLevel": 16
+  },
+  {
+    "ItemCode": "ITEM-0388",
+    "ItemName": "Coolant Hose Y120",
+    "QtyAvailable": 351,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0389",
+    "ItemName": "Turbo Charger Z90",
+    "QtyAvailable": 120,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0390",
+    "ItemName": "Air Filter A546",
+    "QtyAvailable": 24,
+    "ReorderLevel": 35
+  },
+  {
+    "ItemCode": "ITEM-0391",
+    "ItemName": "Copper Wire B645",
+    "QtyAvailable": 1,
+    "ReorderLevel": 100
+  },
+  {
+    "ItemCode": "ITEM-0392",
+    "ItemName": "Coolant Hose C342",
+    "QtyAvailable": 27,
+    "ReorderLevel": 61
+  },
+  {
+    "ItemCode": "ITEM-0393",
+    "ItemName": "Air Filter D357",
+    "QtyAvailable": 143,
+    "ReorderLevel": 66
+  },
+  {
+    "ItemCode": "ITEM-0394",
+    "ItemName": "Drive Belt E902",
+    "QtyAvailable": 169,
+    "ReorderLevel": 57
+  },
+  {
+    "ItemCode": "ITEM-0395",
+    "ItemName": "Turbo Charger F481",
+    "QtyAvailable": 22,
+    "ReorderLevel": 11
+  },
+  {
+    "ItemCode": "ITEM-0396",
+    "ItemName": "Copper Wire G601",
+    "QtyAvailable": 69,
+    "ReorderLevel": 28
+  },
+  {
+    "ItemCode": "ITEM-0397",
+    "ItemName": "Turbo Charger H405",
+    "QtyAvailable": 152,
+    "ReorderLevel": 63
+  },
+  {
+    "ItemCode": "ITEM-0398",
+    "ItemName": "Oil Seal I720",
+    "QtyAvailable": 55,
+    "ReorderLevel": 55
+  },
+  {
+    "ItemCode": "ITEM-0399",
+    "ItemName": "Crankshaft Seal J919",
+    "QtyAvailable": 135,
+    "ReorderLevel": 62
+  },
+  {
+    "ItemCode": "ITEM-0400",
+    "ItemName": "Coolant Hose K986",
+    "QtyAvailable": 10,
+    "ReorderLevel": 22
+  },
+  {
+    "ItemCode": "ITEM-0401",
+    "ItemName": "Filter Element L204",
+    "QtyAvailable": 82,
+    "ReorderLevel": 93
+  },
+  {
+    "ItemCode": "ITEM-0402",
+    "ItemName": "Copper Wire M730",
+    "QtyAvailable": 18,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0403",
+    "ItemName": "Timing Chain N529",
+    "QtyAvailable": 265,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0404",
+    "ItemName": "Copper Wire O567",
+    "QtyAvailable": 168,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0405",
+    "ItemName": "Radiator Cap P734",
+    "QtyAvailable": 22,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0406",
+    "ItemName": "Copper Wire Q872",
+    "QtyAvailable": 402,
+    "ReorderLevel": 100
+  },
+  {
+    "ItemCode": "ITEM-0407",
+    "ItemName": "Engine Mount R814",
+    "QtyAvailable": 234,
+    "ReorderLevel": 66
+  },
+  {
+    "ItemCode": "ITEM-0408",
+    "ItemName": "Turbo Charger S229",
+    "QtyAvailable": 151,
+    "ReorderLevel": 38
+  },
+  {
+    "ItemCode": "ITEM-0409",
+    "ItemName": "Engine Mount T959",
+    "QtyAvailable": 153,
+    "ReorderLevel": 49
+  },
+  {
+    "ItemCode": "ITEM-0410",
+    "ItemName": "Spark Plug U115",
+    "QtyAvailable": 2,
+    "ReorderLevel": 33
+  },
+  {
+    "ItemCode": "ITEM-0411",
+    "ItemName": "Steel Bearing V730",
+    "QtyAvailable": 10,
+    "ReorderLevel": 16
+  },
+  {
+    "ItemCode": "ITEM-0412",
+    "ItemName": "Brake Pad W276",
+    "QtyAvailable": 16,
+    "ReorderLevel": 84
+  },
+  {
+    "ItemCode": "ITEM-0413",
+    "ItemName": "Air Filter X846",
+    "QtyAvailable": 114,
+    "ReorderLevel": 47
+  },
+  {
+    "ItemCode": "ITEM-0414",
+    "ItemName": "Timing Chain Y373",
+    "QtyAvailable": 36,
+    "ReorderLevel": 16
+  },
+  {
+    "ItemCode": "ITEM-0415",
+    "ItemName": "Crankshaft Seal Z550",
+    "QtyAvailable": 388,
+    "ReorderLevel": 96
+  },
+  {
+    "ItemCode": "ITEM-0416",
+    "ItemName": "Piston Ring A389",
+    "QtyAvailable": 267,
+    "ReorderLevel": 71
+  },
+  {
+    "ItemCode": "ITEM-0417",
+    "ItemName": "Turbo Charger B323",
+    "QtyAvailable": 107,
+    "ReorderLevel": 32
+  },
+  {
+    "ItemCode": "ITEM-0418",
+    "ItemName": "Crankshaft Seal C464",
+    "QtyAvailable": 125,
+    "ReorderLevel": 62
+  },
+  {
+    "ItemCode": "ITEM-0419",
+    "ItemName": "Coolant Hose D314",
+    "QtyAvailable": 27,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0420",
+    "ItemName": "Timing Chain E94",
+    "QtyAvailable": 27,
+    "ReorderLevel": 40
+  },
+  {
+    "ItemCode": "ITEM-0421",
+    "ItemName": "Copper Wire F670",
+    "QtyAvailable": 6,
+    "ReorderLevel": 32
+  },
+  {
+    "ItemCode": "ITEM-0422",
+    "ItemName": "Fuel Injector G248",
+    "QtyAvailable": 13,
+    "ReorderLevel": 85
+  },
+  {
+    "ItemCode": "ITEM-0423",
+    "ItemName": "Turbo Charger H765",
+    "QtyAvailable": 266,
+    "ReorderLevel": 60
+  },
+  {
+    "ItemCode": "ITEM-0424",
+    "ItemName": "Radiator Cap I504",
+    "QtyAvailable": 271,
+    "ReorderLevel": 95
+  },
+  {
+    "ItemCode": "ITEM-0425",
+    "ItemName": "Timing Chain J42",
+    "QtyAvailable": 168,
+    "ReorderLevel": 34
+  },
+  {
+    "ItemCode": "ITEM-0426",
+    "ItemName": "Oil Seal K821",
+    "QtyAvailable": 70,
+    "ReorderLevel": 23
+  },
+  {
+    "ItemCode": "ITEM-0427",
+    "ItemName": "Gasket Set L738",
+    "QtyAvailable": 104,
+    "ReorderLevel": 48
+  },
+  {
+    "ItemCode": "ITEM-0428",
+    "ItemName": "Crankshaft Seal M843",
+    "QtyAvailable": 85,
+    "ReorderLevel": 75
+  },
+  {
+    "ItemCode": "ITEM-0429",
+    "ItemName": "Turbo Charger N243",
+    "QtyAvailable": 202,
+    "ReorderLevel": 89
+  },
+  {
+    "ItemCode": "ITEM-0430",
+    "ItemName": "Steel Bearing O421",
+    "QtyAvailable": 2,
+    "ReorderLevel": 55
+  },
+  {
+    "ItemCode": "ITEM-0431",
+    "ItemName": "Piston Ring P322",
+    "QtyAvailable": 34,
+    "ReorderLevel": 71
+  },
+  {
+    "ItemCode": "ITEM-0432",
+    "ItemName": "Steel Bearing Q55",
+    "QtyAvailable": 0,
+    "ReorderLevel": 90
+  },
+  {
+    "ItemCode": "ITEM-0433",
+    "ItemName": "Steel Bearing R618",
+    "QtyAvailable": 296,
+    "ReorderLevel": 60
+  },
+  {
+    "ItemCode": "ITEM-0434",
+    "ItemName": "Drive Belt S517",
+    "QtyAvailable": 46,
+    "ReorderLevel": 28
+  },
+  {
+    "ItemCode": "ITEM-0435",
+    "ItemName": "Coolant Hose T569",
+    "QtyAvailable": 35,
+    "ReorderLevel": 33
+  },
+  {
+    "ItemCode": "ITEM-0436",
+    "ItemName": "Hydraulic Pump U949",
+    "QtyAvailable": 102,
+    "ReorderLevel": 26
+  },
+  {
+    "ItemCode": "ITEM-0437",
+    "ItemName": "Air Filter V266",
+    "QtyAvailable": 13,
+    "ReorderLevel": 8
+  },
+  {
+    "ItemCode": "ITEM-0438",
+    "ItemName": "Hydraulic Pump W806",
+    "QtyAvailable": 398,
+    "ReorderLevel": 86
+  },
+  {
+    "ItemCode": "ITEM-0439",
+    "ItemName": "Crankshaft Seal X155",
+    "QtyAvailable": 27,
+    "ReorderLevel": 7
+  },
+  {
+    "ItemCode": "ITEM-0440",
+    "ItemName": "Crankshaft Seal Y473",
+    "QtyAvailable": 19,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0441",
+    "ItemName": "Piston Ring Z665",
+    "QtyAvailable": 10,
+    "ReorderLevel": 100
+  },
+  {
+    "ItemCode": "ITEM-0442",
+    "ItemName": "Turbo Charger A541",
+    "QtyAvailable": 17,
+    "ReorderLevel": 58
+  },
+  {
+    "ItemCode": "ITEM-0443",
+    "ItemName": "Fuel Injector B159",
+    "QtyAvailable": 263,
+    "ReorderLevel": 57
+  },
+  {
+    "ItemCode": "ITEM-0444",
+    "ItemName": "Valve Seat C511",
+    "QtyAvailable": 36,
+    "ReorderLevel": 10
+  },
+  {
+    "ItemCode": "ITEM-0445",
+    "ItemName": "Drive Belt D689",
+    "QtyAvailable": 39,
+    "ReorderLevel": 19
+  },
+  {
+    "ItemCode": "ITEM-0446",
+    "ItemName": "Crankshaft Seal E297",
+    "QtyAvailable": 50,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0447",
+    "ItemName": "Crankshaft Seal F329",
+    "QtyAvailable": 245,
+    "ReorderLevel": 57
+  },
+  {
+    "ItemCode": "ITEM-0448",
+    "ItemName": "Fuel Injector G866",
+    "QtyAvailable": 166,
+    "ReorderLevel": 77
+  },
+  {
+    "ItemCode": "ITEM-0449",
+    "ItemName": "Piston Ring H364",
+    "QtyAvailable": 87,
+    "ReorderLevel": 87
+  },
+  {
+    "ItemCode": "ITEM-0450",
+    "ItemName": "Brake Pad I655",
+    "QtyAvailable": 34,
+    "ReorderLevel": 65
+  },
+  {
+    "ItemCode": "ITEM-0451",
+    "ItemName": "Engine Mount J318",
+    "QtyAvailable": 8,
+    "ReorderLevel": 75
+  },
+  {
+    "ItemCode": "ITEM-0452",
+    "ItemName": "Timing Chain K265",
+    "QtyAvailable": 18,
+    "ReorderLevel": 27
+  },
+  {
+    "ItemCode": "ITEM-0453",
+    "ItemName": "Spark Plug L244",
+    "QtyAvailable": 292,
+    "ReorderLevel": 91
+  },
+  {
+    "ItemCode": "ITEM-0454",
+    "ItemName": "Oil Seal M139",
+    "QtyAvailable": 209,
+    "ReorderLevel": 64
+  },
+  {
+    "ItemCode": "ITEM-0455",
+    "ItemName": "Hydraulic Pump N935",
+    "QtyAvailable": 23,
+    "ReorderLevel": 20
+  },
+  {
+    "ItemCode": "ITEM-0456",
+    "ItemName": "Timing Chain O243",
+    "QtyAvailable": 260,
+    "ReorderLevel": 100
+  },
+  {
+    "ItemCode": "ITEM-0457",
+    "ItemName": "Filter Element P713",
+    "QtyAvailable": 325,
+    "ReorderLevel": 92
+  },
+  {
+    "ItemCode": "ITEM-0458",
+    "ItemName": "Turbo Charger Q578",
+    "QtyAvailable": 418,
+    "ReorderLevel": 87
+  },
+  {
+    "ItemCode": "ITEM-0459",
+    "ItemName": "Air Filter R756",
+    "QtyAvailable": 71,
+    "ReorderLevel": 41
+  },
+  {
+    "ItemCode": "ITEM-0460",
+    "ItemName": "Hydraulic Pump S816",
+    "QtyAvailable": 55,
+    "ReorderLevel": 87
+  },
+  {
+    "ItemCode": "ITEM-0461",
+    "ItemName": "Filter Element T633",
+    "QtyAvailable": 23,
+    "ReorderLevel": 29
+  },
+  {
+    "ItemCode": "ITEM-0462",
+    "ItemName": "Hydraulic Pump U932",
+    "QtyAvailable": 78,
+    "ReorderLevel": 95
+  },
+  {
+    "ItemCode": "ITEM-0463",
+    "ItemName": "Spark Plug V371",
+    "QtyAvailable": 216,
+    "ReorderLevel": 61
+  },
+  {
+    "ItemCode": "ITEM-0464",
+    "ItemName": "Valve Seat W245",
+    "QtyAvailable": 21,
+    "ReorderLevel": 17
+  },
+  {
+    "ItemCode": "ITEM-0465",
+    "ItemName": "Gasket Set X518",
+    "QtyAvailable": 20,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0466",
+    "ItemName": "Hydraulic Pump Y430",
+    "QtyAvailable": 85,
+    "ReorderLevel": 30
+  },
+  {
+    "ItemCode": "ITEM-0467",
+    "ItemName": "Filter Element Z732",
+    "QtyAvailable": 69,
+    "ReorderLevel": 15
+  },
+  {
+    "ItemCode": "ITEM-0468",
+    "ItemName": "Turbo Charger A296",
+    "QtyAvailable": 204,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0469",
+    "ItemName": "Hydraulic Pump B806",
+    "QtyAvailable": 93,
+    "ReorderLevel": 27
+  },
+  {
+    "ItemCode": "ITEM-0470",
+    "ItemName": "Copper Wire C962",
+    "QtyAvailable": 34,
+    "ReorderLevel": 44
+  },
+  {
+    "ItemCode": "ITEM-0471",
+    "ItemName": "Brake Pad D346",
+    "QtyAvailable": 12,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0472",
+    "ItemName": "Copper Wire E276",
+    "QtyAvailable": 78,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0473",
+    "ItemName": "Pressure Gauge F737",
+    "QtyAvailable": 281,
+    "ReorderLevel": 68
+  },
+  {
+    "ItemCode": "ITEM-0474",
+    "ItemName": "Brake Pad G911",
+    "QtyAvailable": 166,
+    "ReorderLevel": 53
+  },
+  {
+    "ItemCode": "ITEM-0475",
+    "ItemName": "Pressure Gauge H182",
+    "QtyAvailable": 25,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0476",
+    "ItemName": "Coolant Hose I369",
+    "QtyAvailable": 98,
+    "ReorderLevel": 47
+  },
+  {
+    "ItemCode": "ITEM-0477",
+    "ItemName": "Turbo Charger J132",
+    "QtyAvailable": 120,
+    "ReorderLevel": 28
+  },
+  {
+    "ItemCode": "ITEM-0478",
+    "ItemName": "Pressure Gauge K898",
+    "QtyAvailable": 70,
+    "ReorderLevel": 53
+  },
+  {
+    "ItemCode": "ITEM-0479",
+    "ItemName": "Engine Mount L316",
+    "QtyAvailable": 255,
+    "ReorderLevel": 60
+  },
+  {
+    "ItemCode": "ITEM-0480",
+    "ItemName": "Brake Pad M57",
+    "QtyAvailable": 50,
+    "ReorderLevel": 76
+  },
+  {
+    "ItemCode": "ITEM-0481",
+    "ItemName": "Gasket Set N84",
+    "QtyAvailable": 15,
+    "ReorderLevel": 52
+  },
+  {
+    "ItemCode": "ITEM-0482",
+    "ItemName": "Engine Mount O417",
+    "QtyAvailable": 4,
+    "ReorderLevel": 6
+  },
+  {
+    "ItemCode": "ITEM-0483",
+    "ItemName": "Turbo Charger P308",
+    "QtyAvailable": 123,
+    "ReorderLevel": 82
+  },
+  {
+    "ItemCode": "ITEM-0484",
+    "ItemName": "Pressure Gauge Q901",
+    "QtyAvailable": 172,
+    "ReorderLevel": 70
+  },
+  {
+    "ItemCode": "ITEM-0485",
+    "ItemName": "Coolant Hose R952",
+    "QtyAvailable": 106,
+    "ReorderLevel": 36
+  },
+  {
+    "ItemCode": "ITEM-0486",
+    "ItemName": "Gasket Set S447",
+    "QtyAvailable": 337,
+    "ReorderLevel": 77
+  },
+  {
+    "ItemCode": "ITEM-0487",
+    "ItemName": "Copper Wire T941",
+    "QtyAvailable": 295,
+    "ReorderLevel": 83
+  },
+  {
+    "ItemCode": "ITEM-0488",
+    "ItemName": "Coolant Hose U340",
+    "QtyAvailable": 106,
+    "ReorderLevel": 26
+  },
+  {
+    "ItemCode": "ITEM-0489",
+    "ItemName": "Pressure Gauge V467",
+    "QtyAvailable": 236,
+    "ReorderLevel": 48
+  },
+  {
+    "ItemCode": "ITEM-0490",
+    "ItemName": "Spark Plug W441",
+    "QtyAvailable": 16,
+    "ReorderLevel": 34
+  },
+  {
+    "ItemCode": "ITEM-0491",
+    "ItemName": "Turbo Charger X879",
+    "QtyAvailable": 36,
+    "ReorderLevel": 44
+  },
+  {
+    "ItemCode": "ITEM-0492",
+    "ItemName": "Spark Plug Y87",
+    "QtyAvailable": 21,
+    "ReorderLevel": 44
+  },
+  {
+    "ItemCode": "ITEM-0493",
+    "ItemName": "Hydraulic Pump Z270",
+    "QtyAvailable": 200,
+    "ReorderLevel": 93
+  },
+  {
+    "ItemCode": "ITEM-0494",
+    "ItemName": "Radiator Cap A144",
+    "QtyAvailable": 122,
+    "ReorderLevel": 54
+  },
+  {
+    "ItemCode": "ITEM-0495",
+    "ItemName": "Air Filter B472",
+    "QtyAvailable": 220,
+    "ReorderLevel": 92
+  },
+  {
+    "ItemCode": "ITEM-0496",
+    "ItemName": "Hydraulic Pump C196",
+    "QtyAvailable": 120,
+    "ReorderLevel": 24
+  },
+  {
+    "ItemCode": "ITEM-0497",
+    "ItemName": "Piston Ring D462",
+    "QtyAvailable": 84,
+    "ReorderLevel": 74
+  },
+  {
+    "ItemCode": "ITEM-0498",
+    "ItemName": "Filter Element E879",
+    "QtyAvailable": 128,
+    "ReorderLevel": 49
+  },
+  {
+    "ItemCode": "ITEM-0499",
+    "ItemName": "Air Filter F710",
+    "QtyAvailable": 182,
+    "ReorderLevel": 92
+  },
+  {
+    "ItemCode": "ITEM-0500",
+    "ItemName": "Gasket Set G762",
+    "QtyAvailable": 3,
+    "ReorderLevel": 16
+  }
+]

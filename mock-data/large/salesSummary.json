@@ -1,0 +1,7202 @@
+[
+  {
+    "Date": "2025-10-01",
+    "Branch": "Chennai",
+    "TotalSales": 725370,
+    "Orders": 69
+  },
+  {
+    "Date": "2025-10-01",
+    "Branch": "Bangalore",
+    "TotalSales": 360301,
+    "Orders": 87
+  },
+  {
+    "Date": "2025-10-01",
+    "Branch": "Mumbai",
+    "TotalSales": 339196,
+    "Orders": 51
+  },
+  {
+    "Date": "2025-10-02",
+    "Branch": "Chennai",
+    "TotalSales": 351891,
+    "Orders": 61
+  },
+  {
+    "Date": "2025-10-02",
+    "Branch": "Bangalore",
+    "TotalSales": 356412,
+    "Orders": 88
+  },
+  {
+    "Date": "2025-10-02",
+    "Branch": "Mumbai",
+    "TotalSales": 402709,
+    "Orders": 70
+  },
+  {
+    "Date": "2025-10-03",
+    "Branch": "Chennai",
+    "TotalSales": 464769,
+    "Orders": 83
+  },
+  {
+    "Date": "2025-10-03",
+    "Branch": "Bangalore",
+    "TotalSales": 763044,
+    "Orders": 35
+  },
+  {
+    "Date": "2025-10-03",
+    "Branch": "Mumbai",
+    "TotalSales": 631097,
+    "Orders": 90
+  },
+  {
+    "Date": "2025-10-04",
+    "Branch": "Chennai",
+    "TotalSales": 101947,
+    "Orders": 23
+  },
+  {
+    "Date": "2025-10-04",
+    "Branch": "Bangalore",
+    "TotalSales": 236010,
+    "Orders": 36
+  },
+  {
+    "Date": "2025-10-04",
+    "Branch": "Mumbai",
+    "TotalSales": 251109,
+    "Orders": 23
+  },
+  {
+    "Date": "2025-10-05",
+    "Branch": "Chennai",
+    "TotalSales": 101832,
+    "Orders": 24
+  },
+  {
+    "Date": "2025-10-05",
+    "Branch": "Bangalore",
+    "TotalSales": 327488,
+    "Orders": 31
+  },
+  {
+    "Date": "2025-10-05",
+    "Branch": "Mumbai",
+    "TotalSales": 178719,
+    "Orders": 42
+  },
+  {
+    "Date": "2025-10-06",
+    "Branch": "Chennai",
+    "TotalSales": 429323,
+    "Orders": 70
+  },
+  {
+    "Date": "2025-10-06",
+    "Branch": "Bangalore",
+    "TotalSales": 411287,
+    "Orders": 90
+  },
+  {
+    "Date": "2025-10-06",
+    "Branch": "Mumbai",
+    "TotalSales": 515986,
+    "Orders": 88
+  },
+  {
+    "Date": "2025-10-07",
+    "Branch": "Chennai",
+    "TotalSales": 777752,
+    "Orders": 87
+  },
+  {
+    "Date": "2025-10-07",
+    "Branch": "Bangalore",
+    "TotalSales": 335306,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-10-07",
+    "Branch": "Mumbai",
+    "TotalSales": 659586,
+    "Orders": 40
+  },
+  {
+    "Date": "2025-10-08",
+    "Branch": "Chennai",
+    "TotalSales": 311303,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-10-08",
+    "Branch": "Bangalore",
+    "TotalSales": 545309,
+    "Orders": 65
+  },
+  {
+    "Date": "2025-10-08",
+    "Branch": "Mumbai",
+    "TotalSales": 469849,
+    "Orders": 85
+  },
+  {
+    "Date": "2025-10-09",
+    "Branch": "Chennai",
+    "TotalSales": 662405,
+    "Orders": 66
+  },
+  {
+    "Date": "2025-10-09",
+    "Branch": "Bangalore",
+    "TotalSales": 609668,
+    "Orders": 47
+  },
+  {
+    "Date": "2025-10-09",
+    "Branch": "Mumbai",
+    "TotalSales": 698737,
+    "Orders": 37
+  },
+  {
+    "Date": "2025-10-10",
+    "Branch": "Chennai",
+    "TotalSales": 349126,
+    "Orders": 37
+  },
+  {
+    "Date": "2025-10-10",
+    "Branch": "Bangalore",
+    "TotalSales": 566276,
+    "Orders": 64
+  },
+  {
+    "Date": "2025-10-10",
+    "Branch": "Mumbai",
+    "TotalSales": 685884,
+    "Orders": 70
+  },
+  {
+    "Date": "2025-10-11",
+    "Branch": "Chennai",
+    "TotalSales": 341350,
+    "Orders": 30
+  },
+  {
+    "Date": "2025-10-11",
+    "Branch": "Bangalore",
+    "TotalSales": 219143,
+    "Orders": 38
+  },
+  {
+    "Date": "2025-10-11",
+    "Branch": "Mumbai",
+    "TotalSales": 146615,
+    "Orders": 39
+  },
+  {
+    "Date": "2025-10-12",
+    "Branch": "Chennai",
+    "TotalSales": 255732,
+    "Orders": 42
+  },
+  {
+    "Date": "2025-10-12",
+    "Branch": "Bangalore",
+    "TotalSales": 224446,
+    "Orders": 21
+  },
+  {
+    "Date": "2025-10-12",
+    "Branch": "Mumbai",
+    "TotalSales": 208822,
+    "Orders": 24
+  },
+  {
+    "Date": "2025-10-13",
+    "Branch": "Chennai",
+    "TotalSales": 666791,
+    "Orders": 54
+  },
+  {
+    "Date": "2025-10-13",
+    "Branch": "Bangalore",
+    "TotalSales": 746217,
+    "Orders": 88
+  },
+  {
+    "Date": "2025-10-13",
+    "Branch": "Mumbai",
+    "TotalSales": 703715,
+    "Orders": 39
+  },
+  {
+    "Date": "2025-10-14",
+    "Branch": "Chennai",
+    "TotalSales": 399719,
+    "Orders": 79
+  },
+  {
+    "Date": "2025-10-14",
+    "Branch": "Bangalore",
+    "TotalSales": 643988,
+    "Orders": 60
+  },
+  {
+    "Date": "2025-10-14",
+    "Branch": "Mumbai",
+    "TotalSales": 597825,
+    "Orders": 51
+  },
+  {
+    "Date": "2025-10-15",
+    "Branch": "Chennai",
+    "TotalSales": 470797,
+    "Orders": 62
+  },
+  {
+    "Date": "2025-10-15",
+    "Branch": "Bangalore",
+    "TotalSales": 439584,
+    "Orders": 82
+  },
+  {
+    "Date": "2025-10-15",
+    "Branch": "Mumbai",
+    "TotalSales": 697358,
+    "Orders": 87
+  },
+  {
+    "Date": "2025-10-16",
+    "Branch": "Chennai",
+    "TotalSales": 471090,
+    "Orders": 51
+  },
+  {
+    "Date": "2025-10-16",
+    "Branch": "Bangalore",
+    "TotalSales": 671079,
+    "Orders": 84
+  },
+  {
+    "Date": "2025-10-16",
+    "Branch": "Mumbai",
+    "TotalSales": 782450,
+    "Orders": 51
+  },
+  {
+    "Date": "2025-10-17",
+    "Branch": "Chennai",
+    "TotalSales": 717055,
+    "Orders": 48
+  },
+  {
+    "Date": "2025-10-17",
+    "Branch": "Bangalore",
+    "TotalSales": 413055,
+    "Orders": 77
+  },
+  {
+    "Date": "2025-10-17",
+    "Branch": "Mumbai",
+    "TotalSales": 761775,
+    "Orders": 56
+  },
+  {
+    "Date": "2025-10-18",
+    "Branch": "Chennai",
+    "TotalSales": 322222,
+    "Orders": 25
+  },
+  {
+    "Date": "2025-10-18",
+    "Branch": "Bangalore",
+    "TotalSales": 208092,
+    "Orders": 24
+  },
+  {
+    "Date": "2025-10-18",
+    "Branch": "Mumbai",
+    "TotalSales": 170559,
+    "Orders": 42
+  },
+  {
+    "Date": "2025-10-19",
+    "Branch": "Chennai",
+    "TotalSales": 313885,
+    "Orders": 19
+  },
+  {
+    "Date": "2025-10-19",
+    "Branch": "Bangalore",
+    "TotalSales": 227015,
+    "Orders": 42
+  },
+  {
+    "Date": "2025-10-19",
+    "Branch": "Mumbai",
+    "TotalSales": 259099,
+    "Orders": 37
+  },
+  {
+    "Date": "2025-10-20",
+    "Branch": "Chennai",
+    "TotalSales": 525677,
+    "Orders": 46
+  },
+  {
+    "Date": "2025-10-20",
+    "Branch": "Bangalore",
+    "TotalSales": 634871,
+    "Orders": 35
+  },
+  {
+    "Date": "2025-10-20",
+    "Branch": "Mumbai",
+    "TotalSales": 268111,
+    "Orders": 40
+  },
+  {
+    "Date": "2025-10-21",
+    "Branch": "Chennai",
+    "TotalSales": 462885,
+    "Orders": 35
+  },
+  {
+    "Date": "2025-10-21",
+    "Branch": "Bangalore",
+    "TotalSales": 350545,
+    "Orders": 38
+  },
+  {
+    "Date": "2025-10-21",
+    "Branch": "Mumbai",
+    "TotalSales": 696329,
+    "Orders": 66
+  },
+  {
+    "Date": "2025-10-22",
+    "Branch": "Chennai",
+    "TotalSales": 770452,
+    "Orders": 47
+  },
+  {
+    "Date": "2025-10-22",
+    "Branch": "Bangalore",
+    "TotalSales": 433240,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-10-22",
+    "Branch": "Mumbai",
+    "TotalSales": 393133,
+    "Orders": 73
+  },
+  {
+    "Date": "2025-10-23",
+    "Branch": "Chennai",
+    "TotalSales": 278745,
+    "Orders": 78
+  },
+  {
+    "Date": "2025-10-23",
+    "Branch": "Bangalore",
+    "TotalSales": 378801,
+    "Orders": 61
+  },
+  {
+    "Date": "2025-10-23",
+    "Branch": "Mumbai",
+    "TotalSales": 724163,
+    "Orders": 89
+  },
+  {
+    "Date": "2025-10-24",
+    "Branch": "Chennai",
+    "TotalSales": 542244,
+    "Orders": 42
+  },
+  {
+    "Date": "2025-10-24",
+    "Branch": "Bangalore",
+    "TotalSales": 640002,
+    "Orders": 56
+  },
+  {
+    "Date": "2025-10-24",
+    "Branch": "Mumbai",
+    "TotalSales": 771049,
+    "Orders": 75
+  },
+  {
+    "Date": "2025-10-25",
+    "Branch": "Chennai",
+    "TotalSales": 343558,
+    "Orders": 30
+  },
+  {
+    "Date": "2025-10-25",
+    "Branch": "Bangalore",
+    "TotalSales": 167852,
+    "Orders": 24
+  },
+  {
+    "Date": "2025-10-25",
+    "Branch": "Mumbai",
+    "TotalSales": 341671,
+    "Orders": 23
+  },
+  {
+    "Date": "2025-10-26",
+    "Branch": "Chennai",
+    "TotalSales": 151725,
+    "Orders": 27
+  },
+  {
+    "Date": "2025-10-26",
+    "Branch": "Bangalore",
+    "TotalSales": 337919,
+    "Orders": 30
+  },
+  {
+    "Date": "2025-10-26",
+    "Branch": "Mumbai",
+    "TotalSales": 102272,
+    "Orders": 28
+  },
+  {
+    "Date": "2025-10-27",
+    "Branch": "Chennai",
+    "TotalSales": 455040,
+    "Orders": 66
+  },
+  {
+    "Date": "2025-10-27",
+    "Branch": "Bangalore",
+    "TotalSales": 599188,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-10-27",
+    "Branch": "Mumbai",
+    "TotalSales": 633327,
+    "Orders": 45
+  },
+  {
+    "Date": "2025-10-28",
+    "Branch": "Chennai",
+    "TotalSales": 488697,
+    "Orders": 71
+  },
+  {
+    "Date": "2025-10-28",
+    "Branch": "Bangalore",
+    "TotalSales": 766185,
+    "Orders": 61
+  },
+  {
+    "Date": "2025-10-28",
+    "Branch": "Mumbai",
+    "TotalSales": 749865,
+    "Orders": 71
+  },
+  {
+    "Date": "2025-10-29",
+    "Branch": "Chennai",
+    "TotalSales": 797185,
+    "Orders": 41
+  },
+  {
+    "Date": "2025-10-29",
+    "Branch": "Bangalore",
+    "TotalSales": 700365,
+    "Orders": 65
+  },
+  {
+    "Date": "2025-10-29",
+    "Branch": "Mumbai",
+    "TotalSales": 507812,
+    "Orders": 49
+  },
+  {
+    "Date": "2025-10-30",
+    "Branch": "Chennai",
+    "TotalSales": 481085,
+    "Orders": 80
+  },
+  {
+    "Date": "2025-10-30",
+    "Branch": "Bangalore",
+    "TotalSales": 734755,
+    "Orders": 59
+  },
+  {
+    "Date": "2025-10-30",
+    "Branch": "Mumbai",
+    "TotalSales": 510791,
+    "Orders": 59
+  },
+  {
+    "Date": "2025-10-31",
+    "Branch": "Chennai",
+    "TotalSales": 484411,
+    "Orders": 62
+  },
+  {
+    "Date": "2025-10-31",
+    "Branch": "Bangalore",
+    "TotalSales": 525842,
+    "Orders": 71
+  },
+  {
+    "Date": "2025-10-31",
+    "Branch": "Mumbai",
+    "TotalSales": 436092,
+    "Orders": 57
+  },
+  {
+    "Date": "2025-11-01",
+    "Branch": "Chennai",
+    "TotalSales": 168433,
+    "Orders": 43
+  },
+  {
+    "Date": "2025-11-01",
+    "Branch": "Bangalore",
+    "TotalSales": 189711,
+    "Orders": 43
+  },
+  {
+    "Date": "2025-11-01",
+    "Branch": "Mumbai",
+    "TotalSales": 163472,
+    "Orders": 25
+  },
+  {
+    "Date": "2025-11-02",
+    "Branch": "Chennai",
+    "TotalSales": 257777,
+    "Orders": 36
+  },
+  {
+    "Date": "2025-11-02",
+    "Branch": "Bangalore",
+    "TotalSales": 342870,
+    "Orders": 34
+  },
+  {
+    "Date": "2025-11-02",
+    "Branch": "Mumbai",
+    "TotalSales": 295451,
+    "Orders": 15
+  },
+  {
+    "Date": "2025-11-03",
+    "Branch": "Chennai",
+    "TotalSales": 796123,
+    "Orders": 47
+  },
+  {
+    "Date": "2025-11-03",
+    "Branch": "Bangalore",
+    "TotalSales": 792974,
+    "Orders": 86
+  },
+  {
+    "Date": "2025-11-03",
+    "Branch": "Mumbai",
+    "TotalSales": 685842,
+    "Orders": 44
+  },
+  {
+    "Date": "2025-11-04",
+    "Branch": "Chennai",
+    "TotalSales": 416547,
+    "Orders": 64
+  },
+  {
+    "Date": "2025-11-04",
+    "Branch": "Bangalore",
+    "TotalSales": 280803,
+    "Orders": 73
+  },
+  {
+    "Date": "2025-11-04",
+    "Branch": "Mumbai",
+    "TotalSales": 705418,
+    "Orders": 54
+  },
+  {
+    "Date": "2025-11-05",
+    "Branch": "Chennai",
+    "TotalSales": 399395,
+    "Orders": 88
+  },
+  {
+    "Date": "2025-11-05",
+    "Branch": "Bangalore",
+    "TotalSales": 560810,
+    "Orders": 63
+  },
+  {
+    "Date": "2025-11-05",
+    "Branch": "Mumbai",
+    "TotalSales": 760092,
+    "Orders": 59
+  },
+  {
+    "Date": "2025-11-06",
+    "Branch": "Chennai",
+    "TotalSales": 637564,
+    "Orders": 43
+  },
+  {
+    "Date": "2025-11-06",
+    "Branch": "Bangalore",
+    "TotalSales": 331168,
+    "Orders": 71
+  },
+  {
+    "Date": "2025-11-06",
+    "Branch": "Mumbai",
+    "TotalSales": 508889,
+    "Orders": 64
+  },
+  {
+    "Date": "2025-11-07",
+    "Branch": "Chennai",
+    "TotalSales": 647571,
+    "Orders": 72
+  },
+  {
+    "Date": "2025-11-07",
+    "Branch": "Bangalore",
+    "TotalSales": 576677,
+    "Orders": 73
+  },
+  {
+    "Date": "2025-11-07",
+    "Branch": "Mumbai",
+    "TotalSales": 258244,
+    "Orders": 63
+  },
+  {
+    "Date": "2025-11-08",
+    "Branch": "Chennai",
+    "TotalSales": 219581,
+    "Orders": 21
+  },
+  {
+    "Date": "2025-11-08",
+    "Branch": "Bangalore",
+    "TotalSales": 279888,
+    "Orders": 30
+  },
+  {
+    "Date": "2025-11-08",
+    "Branch": "Mumbai",
+    "TotalSales": 299847,
+    "Orders": 33
+  },
+  {
+    "Date": "2025-11-09",
+    "Branch": "Chennai",
+    "TotalSales": 342519,
+    "Orders": 33
+  },
+  {
+    "Date": "2025-11-09",
+    "Branch": "Bangalore",
+    "TotalSales": 154154,
+    "Orders": 20
+  },
+  {
+    "Date": "2025-11-09",
+    "Branch": "Mumbai",
+    "TotalSales": 103881,
+    "Orders": 25
+  },
+  {
+    "Date": "2025-11-10",
+    "Branch": "Chennai",
+    "TotalSales": 253411,
+    "Orders": 80
+  },
+  {
+    "Date": "2025-11-10",
+    "Branch": "Bangalore",
+    "TotalSales": 599675,
+    "Orders": 58
+  },
+  {
+    "Date": "2025-11-10",
+    "Branch": "Mumbai",
+    "TotalSales": 389496,
+    "Orders": 77
+  },
+  {
+    "Date": "2025-11-11",
+    "Branch": "Chennai",
+    "TotalSales": 425533,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-11-11",
+    "Branch": "Bangalore",
+    "TotalSales": 364274,
+    "Orders": 39
+  },
+  {
+    "Date": "2025-11-11",
+    "Branch": "Mumbai",
+    "TotalSales": 693284,
+    "Orders": 88
+  },
+  {
+    "Date": "2025-11-12",
+    "Branch": "Chennai",
+    "TotalSales": 351928,
+    "Orders": 38
+  },
+  {
+    "Date": "2025-11-12",
+    "Branch": "Bangalore",
+    "TotalSales": 791426,
+    "Orders": 83
+  },
+  {
+    "Date": "2025-11-12",
+    "Branch": "Mumbai",
+    "TotalSales": 635627,
+    "Orders": 58
+  },
+  {
+    "Date": "2025-11-13",
+    "Branch": "Chennai",
+    "TotalSales": 785595,
+    "Orders": 69
+  },
+  {
+    "Date": "2025-11-13",
+    "Branch": "Bangalore",
+    "TotalSales": 629635,
+    "Orders": 82
+  },
+  {
+    "Date": "2025-11-13",
+    "Branch": "Mumbai",
+    "TotalSales": 457877,
+    "Orders": 65
+  },
+  {
+    "Date": "2025-11-14",
+    "Branch": "Chennai",
+    "TotalSales": 694444,
+    "Orders": 50
+  },
+  {
+    "Date": "2025-11-14",
+    "Branch": "Bangalore",
+    "TotalSales": 286772,
+    "Orders": 58
+  },
+  {
+    "Date": "2025-11-14",
+    "Branch": "Mumbai",
+    "TotalSales": 748383,
+    "Orders": 35
+  },
+  {
+    "Date": "2025-11-15",
+    "Branch": "Chennai",
+    "TotalSales": 312419,
+    "Orders": 28
+  },
+  {
+    "Date": "2025-11-15",
+    "Branch": "Bangalore",
+    "TotalSales": 338279,
+    "Orders": 32
+  },
+  {
+    "Date": "2025-11-15",
+    "Branch": "Mumbai",
+    "TotalSales": 248737,
+    "Orders": 35
+  },
+  {
+    "Date": "2025-11-16",
+    "Branch": "Chennai",
+    "TotalSales": 187370,
+    "Orders": 29
+  },
+  {
+    "Date": "2025-11-16",
+    "Branch": "Bangalore",
+    "TotalSales": 304126,
+    "Orders": 22
+  },
+  {
+    "Date": "2025-11-16",
+    "Branch": "Mumbai",
+    "TotalSales": 186316,
+    "Orders": 45
+  },
+  {
+    "Date": "2025-11-17",
+    "Branch": "Chennai",
+    "TotalSales": 331756,
+    "Orders": 49
+  },
+  {
+    "Date": "2025-11-17",
+    "Branch": "Bangalore",
+    "TotalSales": 723175,
+    "Orders": 46
+  },
+  {
+    "Date": "2025-11-17",
+    "Branch": "Mumbai",
+    "TotalSales": 774968,
+    "Orders": 38
+  },
+  {
+    "Date": "2025-11-18",
+    "Branch": "Chennai",
+    "TotalSales": 266107,
+    "Orders": 62
+  },
+  {
+    "Date": "2025-11-18",
+    "Branch": "Bangalore",
+    "TotalSales": 455892,
+    "Orders": 41
+  },
+  {
+    "Date": "2025-11-18",
+    "Branch": "Mumbai",
+    "TotalSales": 365830,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-11-19",
+    "Branch": "Chennai",
+    "TotalSales": 440023,
+    "Orders": 53
+  },
+  {
+    "Date": "2025-11-19",
+    "Branch": "Bangalore",
+    "TotalSales": 533100,
+    "Orders": 90
+  },
+  {
+    "Date": "2025-11-19",
+    "Branch": "Mumbai",
+    "TotalSales": 751203,
+    "Orders": 38
+  },
+  {
+    "Date": "2025-11-20",
+    "Branch": "Chennai",
+    "TotalSales": 653005,
+    "Orders": 52
+  },
+  {
+    "Date": "2025-11-20",
+    "Branch": "Bangalore",
+    "TotalSales": 779983,
+    "Orders": 64
+  },
+  {
+    "Date": "2025-11-20",
+    "Branch": "Mumbai",
+    "TotalSales": 582286,
+    "Orders": 83
+  },
+  {
+    "Date": "2025-11-21",
+    "Branch": "Chennai",
+    "TotalSales": 508597,
+    "Orders": 74
+  },
+  {
+    "Date": "2025-11-21",
+    "Branch": "Bangalore",
+    "TotalSales": 678048,
+    "Orders": 88
+  },
+  {
+    "Date": "2025-11-21",
+    "Branch": "Mumbai",
+    "TotalSales": 322302,
+    "Orders": 80
+  },
+  {
+    "Date": "2025-11-22",
+    "Branch": "Chennai",
+    "TotalSales": 146823,
+    "Orders": 37
+  },
+  {
+    "Date": "2025-11-22",
+    "Branch": "Bangalore",
+    "TotalSales": 121360,
+    "Orders": 22
+  },
+  {
+    "Date": "2025-11-22",
+    "Branch": "Mumbai",
+    "TotalSales": 236217,
+    "Orders": 44
+  },
+  {
+    "Date": "2025-11-23",
+    "Branch": "Chennai",
+    "TotalSales": 275294,
+    "Orders": 43
+  },
+  {
+    "Date": "2025-11-23",
+    "Branch": "Bangalore",
+    "TotalSales": 193642,
+    "Orders": 17
+  },
+  {
+    "Date": "2025-11-23",
+    "Branch": "Mumbai",
+    "TotalSales": 285968,
+    "Orders": 38
+  },
+  {
+    "Date": "2025-11-24",
+    "Branch": "Chennai",
+    "TotalSales": 389331,
+    "Orders": 51
+  },
+  {
+    "Date": "2025-11-24",
+    "Branch": "Bangalore",
+    "TotalSales": 537742,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-11-24",
+    "Branch": "Mumbai",
+    "TotalSales": 616601,
+    "Orders": 77
+  },
+  {
+    "Date": "2025-11-25",
+    "Branch": "Chennai",
+    "TotalSales": 649414,
+    "Orders": 41
+  },
+  {
+    "Date": "2025-11-25",
+    "Branch": "Bangalore",
+    "TotalSales": 432453,
+    "Orders": 57
+  },
+  {
+    "Date": "2025-11-25",
+    "Branch": "Mumbai",
+    "TotalSales": 323064,
+    "Orders": 76
+  },
+  {
+    "Date": "2025-11-26",
+    "Branch": "Chennai",
+    "TotalSales": 468786,
+    "Orders": 40
+  },
+  {
+    "Date": "2025-11-26",
+    "Branch": "Bangalore",
+    "TotalSales": 510771,
+    "Orders": 67
+  },
+  {
+    "Date": "2025-11-26",
+    "Branch": "Mumbai",
+    "TotalSales": 575567,
+    "Orders": 65
+  },
+  {
+    "Date": "2025-11-27",
+    "Branch": "Chennai",
+    "TotalSales": 590866,
+    "Orders": 55
+  },
+  {
+    "Date": "2025-11-27",
+    "Branch": "Bangalore",
+    "TotalSales": 529953,
+    "Orders": 56
+  },
+  {
+    "Date": "2025-11-27",
+    "Branch": "Mumbai",
+    "TotalSales": 694514,
+    "Orders": 54
+  },
+  {
+    "Date": "2025-11-28",
+    "Branch": "Chennai",
+    "TotalSales": 608361,
+    "Orders": 51
+  },
+  {
+    "Date": "2025-11-28",
+    "Branch": "Bangalore",
+    "TotalSales": 514736,
+    "Orders": 52
+  },
+  {
+    "Date": "2025-11-28",
+    "Branch": "Mumbai",
+    "TotalSales": 627811,
+    "Orders": 63
+  },
+  {
+    "Date": "2025-11-29",
+    "Branch": "Chennai",
+    "TotalSales": 310072,
+    "Orders": 31
+  },
+  {
+    "Date": "2025-11-29",
+    "Branch": "Bangalore",
+    "TotalSales": 329044,
+    "Orders": 45
+  },
+  {
+    "Date": "2025-11-29",
+    "Branch": "Mumbai",
+    "TotalSales": 158379,
+    "Orders": 35
+  },
+  {
+    "Date": "2025-11-30",
+    "Branch": "Chennai",
+    "TotalSales": 320620,
+    "Orders": 39
+  },
+  {
+    "Date": "2025-11-30",
+    "Branch": "Bangalore",
+    "TotalSales": 216539,
+    "Orders": 32
+  },
+  {
+    "Date": "2025-11-30",
+    "Branch": "Mumbai",
+    "TotalSales": 236988,
+    "Orders": 42
+  },
+  {
+    "Date": "2025-12-01",
+    "Branch": "Chennai",
+    "TotalSales": 698976,
+    "Orders": 59
+  },
+  {
+    "Date": "2025-12-01",
+    "Branch": "Bangalore",
+    "TotalSales": 696689,
+    "Orders": 46
+  },
+  {
+    "Date": "2025-12-01",
+    "Branch": "Mumbai",
+    "TotalSales": 743689,
+    "Orders": 86
+  },
+  {
+    "Date": "2025-12-02",
+    "Branch": "Chennai",
+    "TotalSales": 690214,
+    "Orders": 41
+  },
+  {
+    "Date": "2025-12-02",
+    "Branch": "Bangalore",
+    "TotalSales": 374353,
+    "Orders": 75
+  },
+  {
+    "Date": "2025-12-02",
+    "Branch": "Mumbai",
+    "TotalSales": 600362,
+    "Orders": 85
+  },
+  {
+    "Date": "2025-12-03",
+    "Branch": "Chennai",
+    "TotalSales": 406408,
+    "Orders": 39
+  },
+  {
+    "Date": "2025-12-03",
+    "Branch": "Bangalore",
+    "TotalSales": 441440,
+    "Orders": 66
+  },
+  {
+    "Date": "2025-12-03",
+    "Branch": "Mumbai",
+    "TotalSales": 266852,
+    "Orders": 56
+  },
+  {
+    "Date": "2025-12-04",
+    "Branch": "Chennai",
+    "TotalSales": 763960,
+    "Orders": 49
+  },
+  {
+    "Date": "2025-12-04",
+    "Branch": "Bangalore",
+    "TotalSales": 602416,
+    "Orders": 55
+  },
+  {
+    "Date": "2025-12-04",
+    "Branch": "Mumbai",
+    "TotalSales": 358175,
+    "Orders": 87
+  },
+  {
+    "Date": "2025-12-05",
+    "Branch": "Chennai",
+    "TotalSales": 494177,
+    "Orders": 53
+  },
+  {
+    "Date": "2025-12-05",
+    "Branch": "Bangalore",
+    "TotalSales": 476957,
+    "Orders": 51
+  },
+  {
+    "Date": "2025-12-05",
+    "Branch": "Mumbai",
+    "TotalSales": 561428,
+    "Orders": 36
+  },
+  {
+    "Date": "2025-12-06",
+    "Branch": "Chennai",
+    "TotalSales": 187653,
+    "Orders": 33
+  },
+  {
+    "Date": "2025-12-06",
+    "Branch": "Bangalore",
+    "TotalSales": 268182,
+    "Orders": 45
+  },
+  {
+    "Date": "2025-12-06",
+    "Branch": "Mumbai",
+    "TotalSales": 218994,
+    "Orders": 37
+  },
+  {
+    "Date": "2025-12-07",
+    "Branch": "Chennai",
+    "TotalSales": 262695,
+    "Orders": 23
+  },
+  {
+    "Date": "2025-12-07",
+    "Branch": "Bangalore",
+    "TotalSales": 279159,
+    "Orders": 27
+  },
+  {
+    "Date": "2025-12-07",
+    "Branch": "Mumbai",
+    "TotalSales": 169652,
+    "Orders": 44
+  },
+  {
+    "Date": "2025-12-08",
+    "Branch": "Chennai",
+    "TotalSales": 642738,
+    "Orders": 72
+  },
+  {
+    "Date": "2025-12-08",
+    "Branch": "Bangalore",
+    "TotalSales": 556812,
+    "Orders": 54
+  },
+  {
+    "Date": "2025-12-08",
+    "Branch": "Mumbai",
+    "TotalSales": 725218,
+    "Orders": 59
+  },
+  {
+    "Date": "2025-12-09",
+    "Branch": "Chennai",
+    "TotalSales": 776767,
+    "Orders": 49
+  },
+  {
+    "Date": "2025-12-09",
+    "Branch": "Bangalore",
+    "TotalSales": 263449,
+    "Orders": 64
+  },
+  {
+    "Date": "2025-12-09",
+    "Branch": "Mumbai",
+    "TotalSales": 400963,
+    "Orders": 75
+  },
+  {
+    "Date": "2025-12-10",
+    "Branch": "Chennai",
+    "TotalSales": 358120,
+    "Orders": 75
+  },
+  {
+    "Date": "2025-12-10",
+    "Branch": "Bangalore",
+    "TotalSales": 461500,
+    "Orders": 69
+  },
+  {
+    "Date": "2025-12-10",
+    "Branch": "Mumbai",
+    "TotalSales": 488010,
+    "Orders": 84
+  },
+  {
+    "Date": "2025-12-11",
+    "Branch": "Chennai",
+    "TotalSales": 557963,
+    "Orders": 73
+  },
+  {
+    "Date": "2025-12-11",
+    "Branch": "Bangalore",
+    "TotalSales": 355894,
+    "Orders": 39
+  },
+  {
+    "Date": "2025-12-11",
+    "Branch": "Mumbai",
+    "TotalSales": 281602,
+    "Orders": 42
+  },
+  {
+    "Date": "2025-12-12",
+    "Branch": "Chennai",
+    "TotalSales": 742290,
+    "Orders": 73
+  },
+  {
+    "Date": "2025-12-12",
+    "Branch": "Bangalore",
+    "TotalSales": 467126,
+    "Orders": 37
+  },
+  {
+    "Date": "2025-12-12",
+    "Branch": "Mumbai",
+    "TotalSales": 621472,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-12-13",
+    "Branch": "Chennai",
+    "TotalSales": 164758,
+    "Orders": 43
+  },
+  {
+    "Date": "2025-12-13",
+    "Branch": "Bangalore",
+    "TotalSales": 175742,
+    "Orders": 18
+  },
+  {
+    "Date": "2025-12-13",
+    "Branch": "Mumbai",
+    "TotalSales": 283236,
+    "Orders": 27
+  },
+  {
+    "Date": "2025-12-14",
+    "Branch": "Chennai",
+    "TotalSales": 159041,
+    "Orders": 44
+  },
+  {
+    "Date": "2025-12-14",
+    "Branch": "Bangalore",
+    "TotalSales": 150505,
+    "Orders": 30
+  },
+  {
+    "Date": "2025-12-14",
+    "Branch": "Mumbai",
+    "TotalSales": 192370,
+    "Orders": 31
+  },
+  {
+    "Date": "2025-12-15",
+    "Branch": "Chennai",
+    "TotalSales": 291476,
+    "Orders": 69
+  },
+  {
+    "Date": "2025-12-15",
+    "Branch": "Bangalore",
+    "TotalSales": 259029,
+    "Orders": 44
+  },
+  {
+    "Date": "2025-12-15",
+    "Branch": "Mumbai",
+    "TotalSales": 781866,
+    "Orders": 87
+  },
+  {
+    "Date": "2025-12-16",
+    "Branch": "Chennai",
+    "TotalSales": 578568,
+    "Orders": 45
+  },
+  {
+    "Date": "2025-12-16",
+    "Branch": "Bangalore",
+    "TotalSales": 590673,
+    "Orders": 76
+  },
+  {
+    "Date": "2025-12-16",
+    "Branch": "Mumbai",
+    "TotalSales": 537934,
+    "Orders": 77
+  },
+  {
+    "Date": "2025-12-17",
+    "Branch": "Chennai",
+    "TotalSales": 753047,
+    "Orders": 41
+  },
+  {
+    "Date": "2025-12-17",
+    "Branch": "Bangalore",
+    "TotalSales": 424175,
+    "Orders": 68
+  },
+  {
+    "Date": "2025-12-17",
+    "Branch": "Mumbai",
+    "TotalSales": 326279,
+    "Orders": 35
+  },
+  {
+    "Date": "2025-12-18",
+    "Branch": "Chennai",
+    "TotalSales": 727723,
+    "Orders": 74
+  },
+  {
+    "Date": "2025-12-18",
+    "Branch": "Bangalore",
+    "TotalSales": 783467,
+    "Orders": 90
+  },
+  {
+    "Date": "2025-12-18",
+    "Branch": "Mumbai",
+    "TotalSales": 654705,
+    "Orders": 46
+  },
+  {
+    "Date": "2025-12-19",
+    "Branch": "Chennai",
+    "TotalSales": 308190,
+    "Orders": 74
+  },
+  {
+    "Date": "2025-12-19",
+    "Branch": "Bangalore",
+    "TotalSales": 344090,
+    "Orders": 82
+  },
+  {
+    "Date": "2025-12-19",
+    "Branch": "Mumbai",
+    "TotalSales": 711583,
+    "Orders": 35
+  },
+  {
+    "Date": "2025-12-20",
+    "Branch": "Chennai",
+    "TotalSales": 292513,
+    "Orders": 19
+  },
+  {
+    "Date": "2025-12-20",
+    "Branch": "Bangalore",
+    "TotalSales": 277337,
+    "Orders": 41
+  },
+  {
+    "Date": "2025-12-20",
+    "Branch": "Mumbai",
+    "TotalSales": 316184,
+    "Orders": 22
+  },
+  {
+    "Date": "2025-12-21",
+    "Branch": "Chennai",
+    "TotalSales": 262899,
+    "Orders": 26
+  },
+  {
+    "Date": "2025-12-21",
+    "Branch": "Bangalore",
+    "TotalSales": 197354,
+    "Orders": 24
+  },
+  {
+    "Date": "2025-12-21",
+    "Branch": "Mumbai",
+    "TotalSales": 337524,
+    "Orders": 18
+  },
+  {
+    "Date": "2025-12-22",
+    "Branch": "Chennai",
+    "TotalSales": 301447,
+    "Orders": 54
+  },
+  {
+    "Date": "2025-12-22",
+    "Branch": "Bangalore",
+    "TotalSales": 571682,
+    "Orders": 49
+  },
+  {
+    "Date": "2025-12-22",
+    "Branch": "Mumbai",
+    "TotalSales": 632388,
+    "Orders": 89
+  },
+  {
+    "Date": "2025-12-23",
+    "Branch": "Chennai",
+    "TotalSales": 430072,
+    "Orders": 81
+  },
+  {
+    "Date": "2025-12-23",
+    "Branch": "Bangalore",
+    "TotalSales": 357618,
+    "Orders": 52
+  },
+  {
+    "Date": "2025-12-23",
+    "Branch": "Mumbai",
+    "TotalSales": 546990,
+    "Orders": 40
+  },
+  {
+    "Date": "2025-12-24",
+    "Branch": "Chennai",
+    "TotalSales": 370479,
+    "Orders": 80
+  },
+  {
+    "Date": "2025-12-24",
+    "Branch": "Bangalore",
+    "TotalSales": 534860,
+    "Orders": 83
+  },
+  {
+    "Date": "2025-12-24",
+    "Branch": "Mumbai",
+    "TotalSales": 345045,
+    "Orders": 77
+  },
+  {
+    "Date": "2025-12-25",
+    "Branch": "Chennai",
+    "TotalSales": 376555,
+    "Orders": 46
+  },
+  {
+    "Date": "2025-12-25",
+    "Branch": "Bangalore",
+    "TotalSales": 616228,
+    "Orders": 57
+  },
+  {
+    "Date": "2025-12-25",
+    "Branch": "Mumbai",
+    "TotalSales": 642012,
+    "Orders": 47
+  },
+  {
+    "Date": "2025-12-26",
+    "Branch": "Chennai",
+    "TotalSales": 657247,
+    "Orders": 39
+  },
+  {
+    "Date": "2025-12-26",
+    "Branch": "Bangalore",
+    "TotalSales": 650143,
+    "Orders": 39
+  },
+  {
+    "Date": "2025-12-26",
+    "Branch": "Mumbai",
+    "TotalSales": 338782,
+    "Orders": 44
+  },
+  {
+    "Date": "2025-12-27",
+    "Branch": "Chennai",
+    "TotalSales": 295146,
+    "Orders": 28
+  },
+  {
+    "Date": "2025-12-27",
+    "Branch": "Bangalore",
+    "TotalSales": 327562,
+    "Orders": 22
+  },
+  {
+    "Date": "2025-12-27",
+    "Branch": "Mumbai",
+    "TotalSales": 274826,
+    "Orders": 28
+  },
+  {
+    "Date": "2025-12-28",
+    "Branch": "Chennai",
+    "TotalSales": 302276,
+    "Orders": 31
+  },
+  {
+    "Date": "2025-12-28",
+    "Branch": "Bangalore",
+    "TotalSales": 223022,
+    "Orders": 18
+  },
+  {
+    "Date": "2025-12-28",
+    "Branch": "Mumbai",
+    "TotalSales": 157642,
+    "Orders": 45
+  },
+  {
+    "Date": "2025-12-29",
+    "Branch": "Chennai",
+    "TotalSales": 707716,
+    "Orders": 41
+  },
+  {
+    "Date": "2025-12-29",
+    "Branch": "Bangalore",
+    "TotalSales": 302015,
+    "Orders": 80
+  },
+  {
+    "Date": "2025-12-29",
+    "Branch": "Mumbai",
+    "TotalSales": 439296,
+    "Orders": 78
+  },
+  {
+    "Date": "2025-12-30",
+    "Branch": "Chennai",
+    "TotalSales": 672641,
+    "Orders": 66
+  },
+  {
+    "Date": "2025-12-30",
+    "Branch": "Bangalore",
+    "TotalSales": 431616,
+    "Orders": 66
+  },
+  {
+    "Date": "2025-12-30",
+    "Branch": "Mumbai",
+    "TotalSales": 768172,
+    "Orders": 60
+  },
+  {
+    "Date": "2025-12-31",
+    "Branch": "Chennai",
+    "TotalSales": 392661,
+    "Orders": 77
+  },
+  {
+    "Date": "2025-12-31",
+    "Branch": "Bangalore",
+    "TotalSales": 419766,
+    "Orders": 90
+  },
+  {
+    "Date": "2025-12-31",
+    "Branch": "Mumbai",
+    "TotalSales": 588674,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-01-01",
+    "Branch": "Chennai",
+    "TotalSales": 768253,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-01-01",
+    "Branch": "Bangalore",
+    "TotalSales": 264583,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-01-01",
+    "Branch": "Mumbai",
+    "TotalSales": 665250,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-01-02",
+    "Branch": "Chennai",
+    "TotalSales": 533068,
+    "Orders": 61
+  },
+  {
+    "Date": "2026-01-02",
+    "Branch": "Bangalore",
+    "TotalSales": 765745,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-01-02",
+    "Branch": "Mumbai",
+    "TotalSales": 769845,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-01-03",
+    "Branch": "Chennai",
+    "TotalSales": 304286,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-01-03",
+    "Branch": "Bangalore",
+    "TotalSales": 214051,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-01-03",
+    "Branch": "Mumbai",
+    "TotalSales": 133471,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-01-04",
+    "Branch": "Chennai",
+    "TotalSales": 180056,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-01-04",
+    "Branch": "Bangalore",
+    "TotalSales": 226502,
+    "Orders": 24
+  },
+  {
+    "Date": "2026-01-04",
+    "Branch": "Mumbai",
+    "TotalSales": 106144,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-01-05",
+    "Branch": "Chennai",
+    "TotalSales": 749947,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-01-05",
+    "Branch": "Bangalore",
+    "TotalSales": 353850,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-01-05",
+    "Branch": "Mumbai",
+    "TotalSales": 644860,
+    "Orders": 57
+  },
+  {
+    "Date": "2026-01-06",
+    "Branch": "Chennai",
+    "TotalSales": 420916,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-01-06",
+    "Branch": "Bangalore",
+    "TotalSales": 354964,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-01-06",
+    "Branch": "Mumbai",
+    "TotalSales": 546283,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-01-07",
+    "Branch": "Chennai",
+    "TotalSales": 383101,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-01-07",
+    "Branch": "Bangalore",
+    "TotalSales": 363536,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-01-07",
+    "Branch": "Mumbai",
+    "TotalSales": 460387,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-01-08",
+    "Branch": "Chennai",
+    "TotalSales": 657713,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-01-08",
+    "Branch": "Bangalore",
+    "TotalSales": 743779,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-01-08",
+    "Branch": "Mumbai",
+    "TotalSales": 272352,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-01-09",
+    "Branch": "Chennai",
+    "TotalSales": 495846,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-01-09",
+    "Branch": "Bangalore",
+    "TotalSales": 403919,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-01-09",
+    "Branch": "Mumbai",
+    "TotalSales": 760041,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-01-10",
+    "Branch": "Chennai",
+    "TotalSales": 256063,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-01-10",
+    "Branch": "Bangalore",
+    "TotalSales": 178271,
+    "Orders": 15
+  },
+  {
+    "Date": "2026-01-10",
+    "Branch": "Mumbai",
+    "TotalSales": 133949,
+    "Orders": 33
+  },
+  {
+    "Date": "2026-01-11",
+    "Branch": "Chennai",
+    "TotalSales": 236206,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-01-11",
+    "Branch": "Bangalore",
+    "TotalSales": 312435,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-01-11",
+    "Branch": "Mumbai",
+    "TotalSales": 119502,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-01-12",
+    "Branch": "Chennai",
+    "TotalSales": 546767,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-01-12",
+    "Branch": "Bangalore",
+    "TotalSales": 549303,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-01-12",
+    "Branch": "Mumbai",
+    "TotalSales": 628511,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-01-13",
+    "Branch": "Chennai",
+    "TotalSales": 443128,
+    "Orders": 68
+  },
+  {
+    "Date": "2026-01-13",
+    "Branch": "Bangalore",
+    "TotalSales": 707936,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-01-13",
+    "Branch": "Mumbai",
+    "TotalSales": 503171,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-01-14",
+    "Branch": "Chennai",
+    "TotalSales": 517158,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-01-14",
+    "Branch": "Bangalore",
+    "TotalSales": 567032,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-01-14",
+    "Branch": "Mumbai",
+    "TotalSales": 715275,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-01-15",
+    "Branch": "Chennai",
+    "TotalSales": 345786,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-01-15",
+    "Branch": "Bangalore",
+    "TotalSales": 686805,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-01-15",
+    "Branch": "Mumbai",
+    "TotalSales": 356747,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-01-16",
+    "Branch": "Chennai",
+    "TotalSales": 637590,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-01-16",
+    "Branch": "Bangalore",
+    "TotalSales": 373514,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-01-16",
+    "Branch": "Mumbai",
+    "TotalSales": 322736,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-01-17",
+    "Branch": "Chennai",
+    "TotalSales": 194358,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-01-17",
+    "Branch": "Bangalore",
+    "TotalSales": 201135,
+    "Orders": 29
+  },
+  {
+    "Date": "2026-01-17",
+    "Branch": "Mumbai",
+    "TotalSales": 221183,
+    "Orders": 33
+  },
+  {
+    "Date": "2026-01-18",
+    "Branch": "Chennai",
+    "TotalSales": 139941,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-01-18",
+    "Branch": "Bangalore",
+    "TotalSales": 124234,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-01-18",
+    "Branch": "Mumbai",
+    "TotalSales": 121959,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-01-19",
+    "Branch": "Chennai",
+    "TotalSales": 744972,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-01-19",
+    "Branch": "Bangalore",
+    "TotalSales": 754879,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-01-19",
+    "Branch": "Mumbai",
+    "TotalSales": 477651,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-01-20",
+    "Branch": "Chennai",
+    "TotalSales": 298754,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-01-20",
+    "Branch": "Bangalore",
+    "TotalSales": 760400,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-01-20",
+    "Branch": "Mumbai",
+    "TotalSales": 414820,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-01-21",
+    "Branch": "Chennai",
+    "TotalSales": 408092,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-01-21",
+    "Branch": "Bangalore",
+    "TotalSales": 528456,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-01-21",
+    "Branch": "Mumbai",
+    "TotalSales": 773748,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-01-22",
+    "Branch": "Chennai",
+    "TotalSales": 299811,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-01-22",
+    "Branch": "Bangalore",
+    "TotalSales": 257368,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-01-22",
+    "Branch": "Mumbai",
+    "TotalSales": 416878,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-01-23",
+    "Branch": "Chennai",
+    "TotalSales": 722052,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-01-23",
+    "Branch": "Bangalore",
+    "TotalSales": 457054,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-01-23",
+    "Branch": "Mumbai",
+    "TotalSales": 392652,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-01-24",
+    "Branch": "Chennai",
+    "TotalSales": 284575,
+    "Orders": 15
+  },
+  {
+    "Date": "2026-01-24",
+    "Branch": "Bangalore",
+    "TotalSales": 238928,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-01-24",
+    "Branch": "Mumbai",
+    "TotalSales": 124315,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-01-25",
+    "Branch": "Chennai",
+    "TotalSales": 134784,
+    "Orders": 27
+  },
+  {
+    "Date": "2026-01-25",
+    "Branch": "Bangalore",
+    "TotalSales": 284605,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-01-25",
+    "Branch": "Mumbai",
+    "TotalSales": 189551,
+    "Orders": 30
+  },
+  {
+    "Date": "2026-01-26",
+    "Branch": "Chennai",
+    "TotalSales": 611408,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-01-26",
+    "Branch": "Bangalore",
+    "TotalSales": 632635,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-01-26",
+    "Branch": "Mumbai",
+    "TotalSales": 566032,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-01-27",
+    "Branch": "Chennai",
+    "TotalSales": 271060,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-01-27",
+    "Branch": "Bangalore",
+    "TotalSales": 379728,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-01-27",
+    "Branch": "Mumbai",
+    "TotalSales": 702545,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-01-28",
+    "Branch": "Chennai",
+    "TotalSales": 260453,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-01-28",
+    "Branch": "Bangalore",
+    "TotalSales": 715066,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-01-28",
+    "Branch": "Mumbai",
+    "TotalSales": 485056,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-01-29",
+    "Branch": "Chennai",
+    "TotalSales": 747013,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-01-29",
+    "Branch": "Bangalore",
+    "TotalSales": 457843,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-01-29",
+    "Branch": "Mumbai",
+    "TotalSales": 552665,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-01-30",
+    "Branch": "Chennai",
+    "TotalSales": 635499,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-01-30",
+    "Branch": "Bangalore",
+    "TotalSales": 557736,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-01-30",
+    "Branch": "Mumbai",
+    "TotalSales": 793422,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-01-31",
+    "Branch": "Chennai",
+    "TotalSales": 292634,
+    "Orders": 22
+  },
+  {
+    "Date": "2026-01-31",
+    "Branch": "Bangalore",
+    "TotalSales": 125809,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-01-31",
+    "Branch": "Mumbai",
+    "TotalSales": 243681,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-02-01",
+    "Branch": "Chennai",
+    "TotalSales": 160932,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-02-01",
+    "Branch": "Bangalore",
+    "TotalSales": 348691,
+    "Orders": 21
+  },
+  {
+    "Date": "2026-02-01",
+    "Branch": "Mumbai",
+    "TotalSales": 255369,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-02-02",
+    "Branch": "Chennai",
+    "TotalSales": 368948,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-02-02",
+    "Branch": "Bangalore",
+    "TotalSales": 735747,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-02-02",
+    "Branch": "Mumbai",
+    "TotalSales": 393950,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-02-03",
+    "Branch": "Chennai",
+    "TotalSales": 287920,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-02-03",
+    "Branch": "Bangalore",
+    "TotalSales": 349015,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-02-03",
+    "Branch": "Mumbai",
+    "TotalSales": 798401,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-02-04",
+    "Branch": "Chennai",
+    "TotalSales": 737526,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-02-04",
+    "Branch": "Bangalore",
+    "TotalSales": 629793,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-02-04",
+    "Branch": "Mumbai",
+    "TotalSales": 728169,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-02-05",
+    "Branch": "Chennai",
+    "TotalSales": 460753,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-02-05",
+    "Branch": "Bangalore",
+    "TotalSales": 487707,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-02-05",
+    "Branch": "Mumbai",
+    "TotalSales": 653315,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-02-06",
+    "Branch": "Chennai",
+    "TotalSales": 593320,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-02-06",
+    "Branch": "Bangalore",
+    "TotalSales": 294095,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-02-06",
+    "Branch": "Mumbai",
+    "TotalSales": 735449,
+    "Orders": 70
+  },
+  {
+    "Date": "2026-02-07",
+    "Branch": "Chennai",
+    "TotalSales": 129165,
+    "Orders": 24
+  },
+  {
+    "Date": "2026-02-07",
+    "Branch": "Bangalore",
+    "TotalSales": 252821,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-02-07",
+    "Branch": "Mumbai",
+    "TotalSales": 249904,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-02-08",
+    "Branch": "Chennai",
+    "TotalSales": 349981,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-02-08",
+    "Branch": "Bangalore",
+    "TotalSales": 341780,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-02-08",
+    "Branch": "Mumbai",
+    "TotalSales": 240302,
+    "Orders": 24
+  },
+  {
+    "Date": "2026-02-09",
+    "Branch": "Chennai",
+    "TotalSales": 471717,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-02-09",
+    "Branch": "Bangalore",
+    "TotalSales": 534447,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-02-09",
+    "Branch": "Mumbai",
+    "TotalSales": 730618,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-02-10",
+    "Branch": "Chennai",
+    "TotalSales": 375145,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-02-10",
+    "Branch": "Bangalore",
+    "TotalSales": 781057,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-02-10",
+    "Branch": "Mumbai",
+    "TotalSales": 260795,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-02-11",
+    "Branch": "Chennai",
+    "TotalSales": 737576,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-02-11",
+    "Branch": "Bangalore",
+    "TotalSales": 397994,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-02-11",
+    "Branch": "Mumbai",
+    "TotalSales": 605211,
+    "Orders": 77
+  },
+  {
+    "Date": "2026-02-12",
+    "Branch": "Chennai",
+    "TotalSales": 351811,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-02-12",
+    "Branch": "Bangalore",
+    "TotalSales": 666681,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-02-12",
+    "Branch": "Mumbai",
+    "TotalSales": 652564,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-02-13",
+    "Branch": "Chennai",
+    "TotalSales": 731982,
+    "Orders": 66
+  },
+  {
+    "Date": "2026-02-13",
+    "Branch": "Bangalore",
+    "TotalSales": 420227,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-02-13",
+    "Branch": "Mumbai",
+    "TotalSales": 264795,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-02-14",
+    "Branch": "Chennai",
+    "TotalSales": 239282,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-02-14",
+    "Branch": "Bangalore",
+    "TotalSales": 281401,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-02-14",
+    "Branch": "Mumbai",
+    "TotalSales": 250823,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-02-15",
+    "Branch": "Chennai",
+    "TotalSales": 258968,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-02-15",
+    "Branch": "Bangalore",
+    "TotalSales": 242468,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-02-15",
+    "Branch": "Mumbai",
+    "TotalSales": 108107,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-02-16",
+    "Branch": "Chennai",
+    "TotalSales": 497728,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-02-16",
+    "Branch": "Bangalore",
+    "TotalSales": 649371,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-02-16",
+    "Branch": "Mumbai",
+    "TotalSales": 364695,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-02-17",
+    "Branch": "Chennai",
+    "TotalSales": 711953,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-02-17",
+    "Branch": "Bangalore",
+    "TotalSales": 689091,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-02-17",
+    "Branch": "Mumbai",
+    "TotalSales": 660713,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-02-18",
+    "Branch": "Chennai",
+    "TotalSales": 751738,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-02-18",
+    "Branch": "Bangalore",
+    "TotalSales": 532340,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-02-18",
+    "Branch": "Mumbai",
+    "TotalSales": 489085,
+    "Orders": 77
+  },
+  {
+    "Date": "2026-02-19",
+    "Branch": "Chennai",
+    "TotalSales": 602626,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-02-19",
+    "Branch": "Bangalore",
+    "TotalSales": 560462,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-02-19",
+    "Branch": "Mumbai",
+    "TotalSales": 662920,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-02-20",
+    "Branch": "Chennai",
+    "TotalSales": 681034,
+    "Orders": 57
+  },
+  {
+    "Date": "2026-02-20",
+    "Branch": "Bangalore",
+    "TotalSales": 252308,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-02-20",
+    "Branch": "Mumbai",
+    "TotalSales": 506601,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-02-21",
+    "Branch": "Chennai",
+    "TotalSales": 221775,
+    "Orders": 22
+  },
+  {
+    "Date": "2026-02-21",
+    "Branch": "Bangalore",
+    "TotalSales": 308317,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-02-21",
+    "Branch": "Mumbai",
+    "TotalSales": 106758,
+    "Orders": 21
+  },
+  {
+    "Date": "2026-02-22",
+    "Branch": "Chennai",
+    "TotalSales": 300169,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-02-22",
+    "Branch": "Bangalore",
+    "TotalSales": 256371,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-02-22",
+    "Branch": "Mumbai",
+    "TotalSales": 188203,
+    "Orders": 22
+  },
+  {
+    "Date": "2026-02-23",
+    "Branch": "Chennai",
+    "TotalSales": 737137,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-02-23",
+    "Branch": "Bangalore",
+    "TotalSales": 272006,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-02-23",
+    "Branch": "Mumbai",
+    "TotalSales": 437586,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-02-24",
+    "Branch": "Chennai",
+    "TotalSales": 482057,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-02-24",
+    "Branch": "Bangalore",
+    "TotalSales": 672121,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-02-24",
+    "Branch": "Mumbai",
+    "TotalSales": 385101,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-02-25",
+    "Branch": "Chennai",
+    "TotalSales": 563496,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-02-25",
+    "Branch": "Bangalore",
+    "TotalSales": 257958,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-02-25",
+    "Branch": "Mumbai",
+    "TotalSales": 783191,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-02-26",
+    "Branch": "Chennai",
+    "TotalSales": 694637,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-02-26",
+    "Branch": "Bangalore",
+    "TotalSales": 453251,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-02-26",
+    "Branch": "Mumbai",
+    "TotalSales": 578266,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-02-27",
+    "Branch": "Chennai",
+    "TotalSales": 780426,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-02-27",
+    "Branch": "Bangalore",
+    "TotalSales": 644835,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-02-27",
+    "Branch": "Mumbai",
+    "TotalSales": 688062,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-02-28",
+    "Branch": "Chennai",
+    "TotalSales": 104262,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-02-28",
+    "Branch": "Bangalore",
+    "TotalSales": 317567,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-02-28",
+    "Branch": "Mumbai",
+    "TotalSales": 265061,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-03-01",
+    "Branch": "Chennai",
+    "TotalSales": 221097,
+    "Orders": 30
+  },
+  {
+    "Date": "2026-03-01",
+    "Branch": "Bangalore",
+    "TotalSales": 151319,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-03-01",
+    "Branch": "Mumbai",
+    "TotalSales": 100069,
+    "Orders": 31
+  },
+  {
+    "Date": "2026-03-02",
+    "Branch": "Chennai",
+    "TotalSales": 718897,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-03-02",
+    "Branch": "Bangalore",
+    "TotalSales": 402082,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-03-02",
+    "Branch": "Mumbai",
+    "TotalSales": 548770,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-03-03",
+    "Branch": "Chennai",
+    "TotalSales": 785276,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-03-03",
+    "Branch": "Bangalore",
+    "TotalSales": 374803,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-03-03",
+    "Branch": "Mumbai",
+    "TotalSales": 320147,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-03-04",
+    "Branch": "Chennai",
+    "TotalSales": 443073,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-03-04",
+    "Branch": "Bangalore",
+    "TotalSales": 503402,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-03-04",
+    "Branch": "Mumbai",
+    "TotalSales": 681470,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-03-05",
+    "Branch": "Chennai",
+    "TotalSales": 369955,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-03-05",
+    "Branch": "Bangalore",
+    "TotalSales": 540126,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-03-05",
+    "Branch": "Mumbai",
+    "TotalSales": 427409,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-03-06",
+    "Branch": "Chennai",
+    "TotalSales": 582379,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-03-06",
+    "Branch": "Bangalore",
+    "TotalSales": 262368,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-03-06",
+    "Branch": "Mumbai",
+    "TotalSales": 306790,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-03-07",
+    "Branch": "Chennai",
+    "TotalSales": 334955,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-03-07",
+    "Branch": "Bangalore",
+    "TotalSales": 161816,
+    "Orders": 28
+  },
+  {
+    "Date": "2026-03-07",
+    "Branch": "Mumbai",
+    "TotalSales": 224500,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-03-08",
+    "Branch": "Chennai",
+    "TotalSales": 141058,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-03-08",
+    "Branch": "Bangalore",
+    "TotalSales": 142326,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-03-08",
+    "Branch": "Mumbai",
+    "TotalSales": 175407,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-03-09",
+    "Branch": "Chennai",
+    "TotalSales": 797360,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-03-09",
+    "Branch": "Bangalore",
+    "TotalSales": 467809,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-03-09",
+    "Branch": "Mumbai",
+    "TotalSales": 444219,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-03-10",
+    "Branch": "Chennai",
+    "TotalSales": 282285,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-03-10",
+    "Branch": "Bangalore",
+    "TotalSales": 679538,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-03-10",
+    "Branch": "Mumbai",
+    "TotalSales": 430767,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-03-11",
+    "Branch": "Chennai",
+    "TotalSales": 652680,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-03-11",
+    "Branch": "Bangalore",
+    "TotalSales": 670762,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-03-11",
+    "Branch": "Mumbai",
+    "TotalSales": 471648,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-03-12",
+    "Branch": "Chennai",
+    "TotalSales": 555690,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-03-12",
+    "Branch": "Bangalore",
+    "TotalSales": 455532,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-03-12",
+    "Branch": "Mumbai",
+    "TotalSales": 606978,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-03-13",
+    "Branch": "Chennai",
+    "TotalSales": 495715,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-03-13",
+    "Branch": "Bangalore",
+    "TotalSales": 771023,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-03-13",
+    "Branch": "Mumbai",
+    "TotalSales": 383652,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-03-14",
+    "Branch": "Chennai",
+    "TotalSales": 168304,
+    "Orders": 21
+  },
+  {
+    "Date": "2026-03-14",
+    "Branch": "Bangalore",
+    "TotalSales": 306584,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-03-14",
+    "Branch": "Mumbai",
+    "TotalSales": 284228,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-03-15",
+    "Branch": "Chennai",
+    "TotalSales": 309758,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-03-15",
+    "Branch": "Bangalore",
+    "TotalSales": 249174,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-03-15",
+    "Branch": "Mumbai",
+    "TotalSales": 208727,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-03-16",
+    "Branch": "Chennai",
+    "TotalSales": 525706,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-03-16",
+    "Branch": "Bangalore",
+    "TotalSales": 464452,
+    "Orders": 68
+  },
+  {
+    "Date": "2026-03-16",
+    "Branch": "Mumbai",
+    "TotalSales": 367345,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-03-17",
+    "Branch": "Chennai",
+    "TotalSales": 467199,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-03-17",
+    "Branch": "Bangalore",
+    "TotalSales": 484973,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-03-17",
+    "Branch": "Mumbai",
+    "TotalSales": 336805,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-03-18",
+    "Branch": "Chennai",
+    "TotalSales": 457747,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-03-18",
+    "Branch": "Bangalore",
+    "TotalSales": 594199,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-03-18",
+    "Branch": "Mumbai",
+    "TotalSales": 338332,
+    "Orders": 68
+  },
+  {
+    "Date": "2026-03-19",
+    "Branch": "Chennai",
+    "TotalSales": 736304,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-03-19",
+    "Branch": "Bangalore",
+    "TotalSales": 355849,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-03-19",
+    "Branch": "Mumbai",
+    "TotalSales": 523937,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-03-20",
+    "Branch": "Chennai",
+    "TotalSales": 776685,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-03-20",
+    "Branch": "Bangalore",
+    "TotalSales": 654929,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-03-20",
+    "Branch": "Mumbai",
+    "TotalSales": 553784,
+    "Orders": 57
+  },
+  {
+    "Date": "2026-03-21",
+    "Branch": "Chennai",
+    "TotalSales": 288850,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-03-21",
+    "Branch": "Bangalore",
+    "TotalSales": 100409,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-03-21",
+    "Branch": "Mumbai",
+    "TotalSales": 260140,
+    "Orders": 15
+  },
+  {
+    "Date": "2026-03-22",
+    "Branch": "Chennai",
+    "TotalSales": 232021,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-03-22",
+    "Branch": "Bangalore",
+    "TotalSales": 315575,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-03-22",
+    "Branch": "Mumbai",
+    "TotalSales": 347841,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-03-23",
+    "Branch": "Chennai",
+    "TotalSales": 403737,
+    "Orders": 68
+  },
+  {
+    "Date": "2026-03-23",
+    "Branch": "Bangalore",
+    "TotalSales": 570597,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-03-23",
+    "Branch": "Mumbai",
+    "TotalSales": 311939,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-03-24",
+    "Branch": "Chennai",
+    "TotalSales": 459281,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-03-24",
+    "Branch": "Bangalore",
+    "TotalSales": 354874,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-03-24",
+    "Branch": "Mumbai",
+    "TotalSales": 584612,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-03-25",
+    "Branch": "Chennai",
+    "TotalSales": 487163,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-03-25",
+    "Branch": "Bangalore",
+    "TotalSales": 316367,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-03-25",
+    "Branch": "Mumbai",
+    "TotalSales": 441360,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-03-26",
+    "Branch": "Chennai",
+    "TotalSales": 645776,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-03-26",
+    "Branch": "Bangalore",
+    "TotalSales": 413839,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-03-26",
+    "Branch": "Mumbai",
+    "TotalSales": 731203,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-03-27",
+    "Branch": "Chennai",
+    "TotalSales": 427429,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-03-27",
+    "Branch": "Bangalore",
+    "TotalSales": 799158,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-03-27",
+    "Branch": "Mumbai",
+    "TotalSales": 729202,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-03-28",
+    "Branch": "Chennai",
+    "TotalSales": 278511,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-03-28",
+    "Branch": "Bangalore",
+    "TotalSales": 249198,
+    "Orders": 22
+  },
+  {
+    "Date": "2026-03-28",
+    "Branch": "Mumbai",
+    "TotalSales": 164454,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-03-29",
+    "Branch": "Chennai",
+    "TotalSales": 257921,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-03-29",
+    "Branch": "Bangalore",
+    "TotalSales": 226190,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-03-29",
+    "Branch": "Mumbai",
+    "TotalSales": 342678,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-03-30",
+    "Branch": "Chennai",
+    "TotalSales": 778591,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-03-30",
+    "Branch": "Bangalore",
+    "TotalSales": 349333,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-03-30",
+    "Branch": "Mumbai",
+    "TotalSales": 381742,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-03-31",
+    "Branch": "Chennai",
+    "TotalSales": 324987,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-03-31",
+    "Branch": "Bangalore",
+    "TotalSales": 695677,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-03-31",
+    "Branch": "Mumbai",
+    "TotalSales": 566742,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-04-01",
+    "Branch": "Chennai",
+    "TotalSales": 736392,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-04-01",
+    "Branch": "Bangalore",
+    "TotalSales": 368501,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-04-01",
+    "Branch": "Mumbai",
+    "TotalSales": 738114,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-04-02",
+    "Branch": "Chennai",
+    "TotalSales": 665128,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-04-02",
+    "Branch": "Bangalore",
+    "TotalSales": 367780,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-04-02",
+    "Branch": "Mumbai",
+    "TotalSales": 593789,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-04-03",
+    "Branch": "Chennai",
+    "TotalSales": 587996,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-04-03",
+    "Branch": "Bangalore",
+    "TotalSales": 630507,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-04-03",
+    "Branch": "Mumbai",
+    "TotalSales": 564833,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-04-04",
+    "Branch": "Chennai",
+    "TotalSales": 239443,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-04-04",
+    "Branch": "Bangalore",
+    "TotalSales": 194235,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-04-04",
+    "Branch": "Mumbai",
+    "TotalSales": 221096,
+    "Orders": 15
+  },
+  {
+    "Date": "2026-04-05",
+    "Branch": "Chennai",
+    "TotalSales": 140307,
+    "Orders": 29
+  },
+  {
+    "Date": "2026-04-05",
+    "Branch": "Bangalore",
+    "TotalSales": 345743,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-04-05",
+    "Branch": "Mumbai",
+    "TotalSales": 321518,
+    "Orders": 33
+  },
+  {
+    "Date": "2026-04-06",
+    "Branch": "Chennai",
+    "TotalSales": 549423,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-04-06",
+    "Branch": "Bangalore",
+    "TotalSales": 506285,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-04-06",
+    "Branch": "Mumbai",
+    "TotalSales": 544070,
+    "Orders": 70
+  },
+  {
+    "Date": "2026-04-07",
+    "Branch": "Chennai",
+    "TotalSales": 710203,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-04-07",
+    "Branch": "Bangalore",
+    "TotalSales": 400887,
+    "Orders": 62
+  },
+  {
+    "Date": "2026-04-07",
+    "Branch": "Mumbai",
+    "TotalSales": 661761,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-04-08",
+    "Branch": "Chennai",
+    "TotalSales": 731270,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-04-08",
+    "Branch": "Bangalore",
+    "TotalSales": 394332,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-04-08",
+    "Branch": "Mumbai",
+    "TotalSales": 392687,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-04-09",
+    "Branch": "Chennai",
+    "TotalSales": 252780,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-04-09",
+    "Branch": "Bangalore",
+    "TotalSales": 414371,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-04-09",
+    "Branch": "Mumbai",
+    "TotalSales": 384869,
+    "Orders": 74
+  },
+  {
+    "Date": "2026-04-10",
+    "Branch": "Chennai",
+    "TotalSales": 489167,
+    "Orders": 56
+  },
+  {
+    "Date": "2026-04-10",
+    "Branch": "Bangalore",
+    "TotalSales": 588868,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-04-10",
+    "Branch": "Mumbai",
+    "TotalSales": 716569,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-04-11",
+    "Branch": "Chennai",
+    "TotalSales": 261609,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-04-11",
+    "Branch": "Bangalore",
+    "TotalSales": 111437,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-04-11",
+    "Branch": "Mumbai",
+    "TotalSales": 154238,
+    "Orders": 21
+  },
+  {
+    "Date": "2026-04-12",
+    "Branch": "Chennai",
+    "TotalSales": 153973,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-04-12",
+    "Branch": "Bangalore",
+    "TotalSales": 162739,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-04-12",
+    "Branch": "Mumbai",
+    "TotalSales": 314980,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-04-13",
+    "Branch": "Chennai",
+    "TotalSales": 580664,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-04-13",
+    "Branch": "Bangalore",
+    "TotalSales": 264221,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-04-13",
+    "Branch": "Mumbai",
+    "TotalSales": 397530,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-04-14",
+    "Branch": "Chennai",
+    "TotalSales": 631181,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-04-14",
+    "Branch": "Bangalore",
+    "TotalSales": 631243,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-04-14",
+    "Branch": "Mumbai",
+    "TotalSales": 403927,
+    "Orders": 66
+  },
+  {
+    "Date": "2026-04-15",
+    "Branch": "Chennai",
+    "TotalSales": 382468,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-04-15",
+    "Branch": "Bangalore",
+    "TotalSales": 667023,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-04-15",
+    "Branch": "Mumbai",
+    "TotalSales": 447087,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-04-16",
+    "Branch": "Chennai",
+    "TotalSales": 582845,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-04-16",
+    "Branch": "Bangalore",
+    "TotalSales": 414046,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-04-16",
+    "Branch": "Mumbai",
+    "TotalSales": 252117,
+    "Orders": 66
+  },
+  {
+    "Date": "2026-04-17",
+    "Branch": "Chennai",
+    "TotalSales": 340532,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-04-17",
+    "Branch": "Bangalore",
+    "TotalSales": 751211,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-04-17",
+    "Branch": "Mumbai",
+    "TotalSales": 602109,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-04-18",
+    "Branch": "Chennai",
+    "TotalSales": 155324,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-04-18",
+    "Branch": "Bangalore",
+    "TotalSales": 239245,
+    "Orders": 21
+  },
+  {
+    "Date": "2026-04-18",
+    "Branch": "Mumbai",
+    "TotalSales": 141395,
+    "Orders": 33
+  },
+  {
+    "Date": "2026-04-19",
+    "Branch": "Chennai",
+    "TotalSales": 306094,
+    "Orders": 28
+  },
+  {
+    "Date": "2026-04-19",
+    "Branch": "Bangalore",
+    "TotalSales": 112791,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-04-19",
+    "Branch": "Mumbai",
+    "TotalSales": 272534,
+    "Orders": 24
+  },
+  {
+    "Date": "2026-04-20",
+    "Branch": "Chennai",
+    "TotalSales": 518639,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-04-20",
+    "Branch": "Bangalore",
+    "TotalSales": 309413,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-04-20",
+    "Branch": "Mumbai",
+    "TotalSales": 621930,
+    "Orders": 62
+  },
+  {
+    "Date": "2026-04-21",
+    "Branch": "Chennai",
+    "TotalSales": 592754,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-04-21",
+    "Branch": "Bangalore",
+    "TotalSales": 297864,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-04-21",
+    "Branch": "Mumbai",
+    "TotalSales": 289982,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-04-22",
+    "Branch": "Chennai",
+    "TotalSales": 344069,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-04-22",
+    "Branch": "Bangalore",
+    "TotalSales": 761810,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-04-22",
+    "Branch": "Mumbai",
+    "TotalSales": 782699,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-04-23",
+    "Branch": "Chennai",
+    "TotalSales": 538730,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-04-23",
+    "Branch": "Bangalore",
+    "TotalSales": 278621,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-04-23",
+    "Branch": "Mumbai",
+    "TotalSales": 501724,
+    "Orders": 77
+  },
+  {
+    "Date": "2026-04-24",
+    "Branch": "Chennai",
+    "TotalSales": 475134,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-04-24",
+    "Branch": "Bangalore",
+    "TotalSales": 764334,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-04-24",
+    "Branch": "Mumbai",
+    "TotalSales": 252232,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-04-25",
+    "Branch": "Chennai",
+    "TotalSales": 171476,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-04-25",
+    "Branch": "Bangalore",
+    "TotalSales": 100039,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-04-25",
+    "Branch": "Mumbai",
+    "TotalSales": 252256,
+    "Orders": 31
+  },
+  {
+    "Date": "2026-04-26",
+    "Branch": "Chennai",
+    "TotalSales": 308985,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-04-26",
+    "Branch": "Bangalore",
+    "TotalSales": 292176,
+    "Orders": 28
+  },
+  {
+    "Date": "2026-04-26",
+    "Branch": "Mumbai",
+    "TotalSales": 151198,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-04-27",
+    "Branch": "Chennai",
+    "TotalSales": 390846,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-04-27",
+    "Branch": "Bangalore",
+    "TotalSales": 525842,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-04-27",
+    "Branch": "Mumbai",
+    "TotalSales": 698984,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-04-28",
+    "Branch": "Chennai",
+    "TotalSales": 604980,
+    "Orders": 66
+  },
+  {
+    "Date": "2026-04-28",
+    "Branch": "Bangalore",
+    "TotalSales": 398751,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-04-28",
+    "Branch": "Mumbai",
+    "TotalSales": 642681,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-04-29",
+    "Branch": "Chennai",
+    "TotalSales": 655759,
+    "Orders": 57
+  },
+  {
+    "Date": "2026-04-29",
+    "Branch": "Bangalore",
+    "TotalSales": 292933,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-04-29",
+    "Branch": "Mumbai",
+    "TotalSales": 674470,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-04-30",
+    "Branch": "Chennai",
+    "TotalSales": 285087,
+    "Orders": 62
+  },
+  {
+    "Date": "2026-04-30",
+    "Branch": "Bangalore",
+    "TotalSales": 499188,
+    "Orders": 56
+  },
+  {
+    "Date": "2026-04-30",
+    "Branch": "Mumbai",
+    "TotalSales": 567975,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-05-01",
+    "Branch": "Chennai",
+    "TotalSales": 746524,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-05-01",
+    "Branch": "Bangalore",
+    "TotalSales": 475920,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-05-01",
+    "Branch": "Mumbai",
+    "TotalSales": 559435,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-05-02",
+    "Branch": "Chennai",
+    "TotalSales": 213011,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-05-02",
+    "Branch": "Bangalore",
+    "TotalSales": 176120,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-05-02",
+    "Branch": "Mumbai",
+    "TotalSales": 196856,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-05-03",
+    "Branch": "Chennai",
+    "TotalSales": 297583,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-05-03",
+    "Branch": "Bangalore",
+    "TotalSales": 334838,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-05-03",
+    "Branch": "Mumbai",
+    "TotalSales": 186876,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-05-04",
+    "Branch": "Chennai",
+    "TotalSales": 772787,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-05-04",
+    "Branch": "Bangalore",
+    "TotalSales": 537739,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-05-04",
+    "Branch": "Mumbai",
+    "TotalSales": 690399,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-05-05",
+    "Branch": "Chennai",
+    "TotalSales": 616837,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-05-05",
+    "Branch": "Bangalore",
+    "TotalSales": 517889,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-05-05",
+    "Branch": "Mumbai",
+    "TotalSales": 630289,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-05-06",
+    "Branch": "Chennai",
+    "TotalSales": 600167,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-05-06",
+    "Branch": "Bangalore",
+    "TotalSales": 329231,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-05-06",
+    "Branch": "Mumbai",
+    "TotalSales": 795908,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-05-07",
+    "Branch": "Chennai",
+    "TotalSales": 380487,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-05-07",
+    "Branch": "Bangalore",
+    "TotalSales": 716766,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-05-07",
+    "Branch": "Mumbai",
+    "TotalSales": 747170,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-05-08",
+    "Branch": "Chennai",
+    "TotalSales": 735413,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-05-08",
+    "Branch": "Bangalore",
+    "TotalSales": 268402,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-05-08",
+    "Branch": "Mumbai",
+    "TotalSales": 315658,
+    "Orders": 62
+  },
+  {
+    "Date": "2026-05-09",
+    "Branch": "Chennai",
+    "TotalSales": 113099,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-05-09",
+    "Branch": "Bangalore",
+    "TotalSales": 243329,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-05-09",
+    "Branch": "Mumbai",
+    "TotalSales": 314570,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-05-10",
+    "Branch": "Chennai",
+    "TotalSales": 262888,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-05-10",
+    "Branch": "Bangalore",
+    "TotalSales": 260267,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-05-10",
+    "Branch": "Mumbai",
+    "TotalSales": 142985,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-05-11",
+    "Branch": "Chennai",
+    "TotalSales": 488504,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-05-11",
+    "Branch": "Bangalore",
+    "TotalSales": 699979,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-05-11",
+    "Branch": "Mumbai",
+    "TotalSales": 558632,
+    "Orders": 77
+  },
+  {
+    "Date": "2026-05-12",
+    "Branch": "Chennai",
+    "TotalSales": 428868,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-05-12",
+    "Branch": "Bangalore",
+    "TotalSales": 780341,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-05-12",
+    "Branch": "Mumbai",
+    "TotalSales": 671242,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-05-13",
+    "Branch": "Chennai",
+    "TotalSales": 784859,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-05-13",
+    "Branch": "Bangalore",
+    "TotalSales": 483272,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-05-13",
+    "Branch": "Mumbai",
+    "TotalSales": 727145,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-05-14",
+    "Branch": "Chennai",
+    "TotalSales": 510894,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-05-14",
+    "Branch": "Bangalore",
+    "TotalSales": 441563,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-05-14",
+    "Branch": "Mumbai",
+    "TotalSales": 680776,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-05-15",
+    "Branch": "Chennai",
+    "TotalSales": 682659,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-05-15",
+    "Branch": "Bangalore",
+    "TotalSales": 443785,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-05-15",
+    "Branch": "Mumbai",
+    "TotalSales": 416630,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-05-16",
+    "Branch": "Chennai",
+    "TotalSales": 136389,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-05-16",
+    "Branch": "Bangalore",
+    "TotalSales": 294108,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-05-16",
+    "Branch": "Mumbai",
+    "TotalSales": 190244,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-05-17",
+    "Branch": "Chennai",
+    "TotalSales": 113819,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-05-17",
+    "Branch": "Bangalore",
+    "TotalSales": 167699,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-05-17",
+    "Branch": "Mumbai",
+    "TotalSales": 293517,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-05-18",
+    "Branch": "Chennai",
+    "TotalSales": 637113,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-05-18",
+    "Branch": "Bangalore",
+    "TotalSales": 787506,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-05-18",
+    "Branch": "Mumbai",
+    "TotalSales": 373926,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-05-19",
+    "Branch": "Chennai",
+    "TotalSales": 542049,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-05-19",
+    "Branch": "Bangalore",
+    "TotalSales": 589022,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-05-19",
+    "Branch": "Mumbai",
+    "TotalSales": 563308,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-05-20",
+    "Branch": "Chennai",
+    "TotalSales": 350526,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-05-20",
+    "Branch": "Bangalore",
+    "TotalSales": 796464,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-05-20",
+    "Branch": "Mumbai",
+    "TotalSales": 631633,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-05-21",
+    "Branch": "Chennai",
+    "TotalSales": 309315,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-05-21",
+    "Branch": "Bangalore",
+    "TotalSales": 296944,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-05-21",
+    "Branch": "Mumbai",
+    "TotalSales": 654065,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-05-22",
+    "Branch": "Chennai",
+    "TotalSales": 568212,
+    "Orders": 74
+  },
+  {
+    "Date": "2026-05-22",
+    "Branch": "Bangalore",
+    "TotalSales": 685354,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-05-22",
+    "Branch": "Mumbai",
+    "TotalSales": 431889,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-05-23",
+    "Branch": "Chennai",
+    "TotalSales": 344629,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-05-23",
+    "Branch": "Bangalore",
+    "TotalSales": 256449,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-05-23",
+    "Branch": "Mumbai",
+    "TotalSales": 221342,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-05-24",
+    "Branch": "Chennai",
+    "TotalSales": 136071,
+    "Orders": 15
+  },
+  {
+    "Date": "2026-05-24",
+    "Branch": "Bangalore",
+    "TotalSales": 277663,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-05-24",
+    "Branch": "Mumbai",
+    "TotalSales": 252562,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-05-25",
+    "Branch": "Chennai",
+    "TotalSales": 557423,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-05-25",
+    "Branch": "Bangalore",
+    "TotalSales": 282169,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-05-25",
+    "Branch": "Mumbai",
+    "TotalSales": 579169,
+    "Orders": 74
+  },
+  {
+    "Date": "2026-05-26",
+    "Branch": "Chennai",
+    "TotalSales": 470131,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-05-26",
+    "Branch": "Bangalore",
+    "TotalSales": 610847,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-05-26",
+    "Branch": "Mumbai",
+    "TotalSales": 596834,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-05-27",
+    "Branch": "Chennai",
+    "TotalSales": 632029,
+    "Orders": 61
+  },
+  {
+    "Date": "2026-05-27",
+    "Branch": "Bangalore",
+    "TotalSales": 674955,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-05-27",
+    "Branch": "Mumbai",
+    "TotalSales": 266050,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-05-28",
+    "Branch": "Chennai",
+    "TotalSales": 662237,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-05-28",
+    "Branch": "Bangalore",
+    "TotalSales": 254418,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-05-28",
+    "Branch": "Mumbai",
+    "TotalSales": 776966,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-05-29",
+    "Branch": "Chennai",
+    "TotalSales": 409655,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-05-29",
+    "Branch": "Bangalore",
+    "TotalSales": 453273,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-05-29",
+    "Branch": "Mumbai",
+    "TotalSales": 656323,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-05-30",
+    "Branch": "Chennai",
+    "TotalSales": 166811,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-05-30",
+    "Branch": "Bangalore",
+    "TotalSales": 130130,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-05-30",
+    "Branch": "Mumbai",
+    "TotalSales": 117144,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-05-31",
+    "Branch": "Chennai",
+    "TotalSales": 341287,
+    "Orders": 21
+  },
+  {
+    "Date": "2026-05-31",
+    "Branch": "Bangalore",
+    "TotalSales": 122750,
+    "Orders": 21
+  },
+  {
+    "Date": "2026-05-31",
+    "Branch": "Mumbai",
+    "TotalSales": 245734,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-06-01",
+    "Branch": "Chennai",
+    "TotalSales": 292676,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-06-01",
+    "Branch": "Bangalore",
+    "TotalSales": 362186,
+    "Orders": 77
+  },
+  {
+    "Date": "2026-06-01",
+    "Branch": "Mumbai",
+    "TotalSales": 306986,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-06-02",
+    "Branch": "Chennai",
+    "TotalSales": 533429,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-06-02",
+    "Branch": "Bangalore",
+    "TotalSales": 326689,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-06-02",
+    "Branch": "Mumbai",
+    "TotalSales": 268670,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-06-03",
+    "Branch": "Chennai",
+    "TotalSales": 348793,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-06-03",
+    "Branch": "Bangalore",
+    "TotalSales": 255093,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-06-03",
+    "Branch": "Mumbai",
+    "TotalSales": 460562,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-06-04",
+    "Branch": "Chennai",
+    "TotalSales": 365460,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-06-04",
+    "Branch": "Bangalore",
+    "TotalSales": 261758,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-06-04",
+    "Branch": "Mumbai",
+    "TotalSales": 358221,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-06-05",
+    "Branch": "Chennai",
+    "TotalSales": 690476,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-06-05",
+    "Branch": "Bangalore",
+    "TotalSales": 743976,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-06-05",
+    "Branch": "Mumbai",
+    "TotalSales": 635338,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-06-06",
+    "Branch": "Chennai",
+    "TotalSales": 260263,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-06-06",
+    "Branch": "Bangalore",
+    "TotalSales": 197813,
+    "Orders": 29
+  },
+  {
+    "Date": "2026-06-06",
+    "Branch": "Mumbai",
+    "TotalSales": 265753,
+    "Orders": 30
+  },
+  {
+    "Date": "2026-06-07",
+    "Branch": "Chennai",
+    "TotalSales": 167701,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-06-07",
+    "Branch": "Bangalore",
+    "TotalSales": 262393,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-06-07",
+    "Branch": "Mumbai",
+    "TotalSales": 167964,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-06-08",
+    "Branch": "Chennai",
+    "TotalSales": 662178,
+    "Orders": 77
+  },
+  {
+    "Date": "2026-06-08",
+    "Branch": "Bangalore",
+    "TotalSales": 250177,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-06-08",
+    "Branch": "Mumbai",
+    "TotalSales": 565376,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-06-09",
+    "Branch": "Chennai",
+    "TotalSales": 269733,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-06-09",
+    "Branch": "Bangalore",
+    "TotalSales": 782264,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-06-09",
+    "Branch": "Mumbai",
+    "TotalSales": 685933,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-06-10",
+    "Branch": "Chennai",
+    "TotalSales": 796638,
+    "Orders": 57
+  },
+  {
+    "Date": "2026-06-10",
+    "Branch": "Bangalore",
+    "TotalSales": 470245,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-06-10",
+    "Branch": "Mumbai",
+    "TotalSales": 506146,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-06-11",
+    "Branch": "Chennai",
+    "TotalSales": 634571,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-06-11",
+    "Branch": "Bangalore",
+    "TotalSales": 693159,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-06-11",
+    "Branch": "Mumbai",
+    "TotalSales": 664502,
+    "Orders": 66
+  },
+  {
+    "Date": "2026-06-12",
+    "Branch": "Chennai",
+    "TotalSales": 632856,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-06-12",
+    "Branch": "Bangalore",
+    "TotalSales": 542028,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-06-12",
+    "Branch": "Mumbai",
+    "TotalSales": 536501,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-06-13",
+    "Branch": "Chennai",
+    "TotalSales": 116191,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-06-13",
+    "Branch": "Bangalore",
+    "TotalSales": 300579,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-06-13",
+    "Branch": "Mumbai",
+    "TotalSales": 343673,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-06-14",
+    "Branch": "Chennai",
+    "TotalSales": 282619,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-06-14",
+    "Branch": "Bangalore",
+    "TotalSales": 121518,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-06-14",
+    "Branch": "Mumbai",
+    "TotalSales": 220042,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-06-15",
+    "Branch": "Chennai",
+    "TotalSales": 626157,
+    "Orders": 62
+  },
+  {
+    "Date": "2026-06-15",
+    "Branch": "Bangalore",
+    "TotalSales": 280244,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-06-15",
+    "Branch": "Mumbai",
+    "TotalSales": 582541,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-06-16",
+    "Branch": "Chennai",
+    "TotalSales": 536917,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-06-16",
+    "Branch": "Bangalore",
+    "TotalSales": 525933,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-06-16",
+    "Branch": "Mumbai",
+    "TotalSales": 738311,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-06-17",
+    "Branch": "Chennai",
+    "TotalSales": 561525,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-06-17",
+    "Branch": "Bangalore",
+    "TotalSales": 278038,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-06-17",
+    "Branch": "Mumbai",
+    "TotalSales": 725267,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-06-18",
+    "Branch": "Chennai",
+    "TotalSales": 665887,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-06-18",
+    "Branch": "Bangalore",
+    "TotalSales": 293475,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-06-18",
+    "Branch": "Mumbai",
+    "TotalSales": 401883,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-06-19",
+    "Branch": "Chennai",
+    "TotalSales": 534245,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-06-19",
+    "Branch": "Bangalore",
+    "TotalSales": 616333,
+    "Orders": 70
+  },
+  {
+    "Date": "2026-06-19",
+    "Branch": "Mumbai",
+    "TotalSales": 372767,
+    "Orders": 77
+  },
+  {
+    "Date": "2026-06-20",
+    "Branch": "Chennai",
+    "TotalSales": 240884,
+    "Orders": 24
+  },
+  {
+    "Date": "2026-06-20",
+    "Branch": "Bangalore",
+    "TotalSales": 225217,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-06-20",
+    "Branch": "Mumbai",
+    "TotalSales": 129605,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-06-21",
+    "Branch": "Chennai",
+    "TotalSales": 213895,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-06-21",
+    "Branch": "Bangalore",
+    "TotalSales": 197974,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-06-21",
+    "Branch": "Mumbai",
+    "TotalSales": 123543,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-06-22",
+    "Branch": "Chennai",
+    "TotalSales": 502166,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-06-22",
+    "Branch": "Bangalore",
+    "TotalSales": 517077,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-06-22",
+    "Branch": "Mumbai",
+    "TotalSales": 375958,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-06-23",
+    "Branch": "Chennai",
+    "TotalSales": 350886,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-06-23",
+    "Branch": "Bangalore",
+    "TotalSales": 462491,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-06-23",
+    "Branch": "Mumbai",
+    "TotalSales": 310532,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-06-24",
+    "Branch": "Chennai",
+    "TotalSales": 315085,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-06-24",
+    "Branch": "Bangalore",
+    "TotalSales": 257703,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-06-24",
+    "Branch": "Mumbai",
+    "TotalSales": 427477,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-06-25",
+    "Branch": "Chennai",
+    "TotalSales": 785263,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-06-25",
+    "Branch": "Bangalore",
+    "TotalSales": 453321,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-06-25",
+    "Branch": "Mumbai",
+    "TotalSales": 608708,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-06-26",
+    "Branch": "Chennai",
+    "TotalSales": 658772,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-06-26",
+    "Branch": "Bangalore",
+    "TotalSales": 721765,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-06-26",
+    "Branch": "Mumbai",
+    "TotalSales": 682927,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-06-27",
+    "Branch": "Chennai",
+    "TotalSales": 216276,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-06-27",
+    "Branch": "Bangalore",
+    "TotalSales": 218322,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-06-27",
+    "Branch": "Mumbai",
+    "TotalSales": 286457,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-06-28",
+    "Branch": "Chennai",
+    "TotalSales": 200182,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-06-28",
+    "Branch": "Bangalore",
+    "TotalSales": 175938,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-06-28",
+    "Branch": "Mumbai",
+    "TotalSales": 176945,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-06-29",
+    "Branch": "Chennai",
+    "TotalSales": 610822,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-06-29",
+    "Branch": "Bangalore",
+    "TotalSales": 507178,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-06-29",
+    "Branch": "Mumbai",
+    "TotalSales": 380185,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-06-30",
+    "Branch": "Chennai",
+    "TotalSales": 375952,
+    "Orders": 56
+  },
+  {
+    "Date": "2026-06-30",
+    "Branch": "Bangalore",
+    "TotalSales": 391878,
+    "Orders": 70
+  },
+  {
+    "Date": "2026-06-30",
+    "Branch": "Mumbai",
+    "TotalSales": 330173,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-07-01",
+    "Branch": "Chennai",
+    "TotalSales": 461238,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-07-01",
+    "Branch": "Bangalore",
+    "TotalSales": 729268,
+    "Orders": 74
+  },
+  {
+    "Date": "2026-07-01",
+    "Branch": "Mumbai",
+    "TotalSales": 345981,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-07-02",
+    "Branch": "Chennai",
+    "TotalSales": 744292,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-07-02",
+    "Branch": "Bangalore",
+    "TotalSales": 521179,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-07-02",
+    "Branch": "Mumbai",
+    "TotalSales": 451339,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-07-03",
+    "Branch": "Chennai",
+    "TotalSales": 306676,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-07-03",
+    "Branch": "Bangalore",
+    "TotalSales": 790485,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-07-03",
+    "Branch": "Mumbai",
+    "TotalSales": 605488,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-07-04",
+    "Branch": "Chennai",
+    "TotalSales": 100027,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-07-04",
+    "Branch": "Bangalore",
+    "TotalSales": 338498,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-07-04",
+    "Branch": "Mumbai",
+    "TotalSales": 340113,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-07-05",
+    "Branch": "Chennai",
+    "TotalSales": 191974,
+    "Orders": 22
+  },
+  {
+    "Date": "2026-07-05",
+    "Branch": "Bangalore",
+    "TotalSales": 219336,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-07-05",
+    "Branch": "Mumbai",
+    "TotalSales": 168053,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-07-06",
+    "Branch": "Chennai",
+    "TotalSales": 281536,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-07-06",
+    "Branch": "Bangalore",
+    "TotalSales": 693162,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-07-06",
+    "Branch": "Mumbai",
+    "TotalSales": 481948,
+    "Orders": 62
+  },
+  {
+    "Date": "2026-07-07",
+    "Branch": "Chennai",
+    "TotalSales": 732886,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-07-07",
+    "Branch": "Bangalore",
+    "TotalSales": 391064,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-07-07",
+    "Branch": "Mumbai",
+    "TotalSales": 760702,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-07-08",
+    "Branch": "Chennai",
+    "TotalSales": 633486,
+    "Orders": 74
+  },
+  {
+    "Date": "2026-07-08",
+    "Branch": "Bangalore",
+    "TotalSales": 593043,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-07-08",
+    "Branch": "Mumbai",
+    "TotalSales": 733341,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-07-09",
+    "Branch": "Chennai",
+    "TotalSales": 516309,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-07-09",
+    "Branch": "Bangalore",
+    "TotalSales": 591340,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-07-09",
+    "Branch": "Mumbai",
+    "TotalSales": 676856,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-07-10",
+    "Branch": "Chennai",
+    "TotalSales": 592921,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-07-10",
+    "Branch": "Bangalore",
+    "TotalSales": 612471,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-07-10",
+    "Branch": "Mumbai",
+    "TotalSales": 720038,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-07-11",
+    "Branch": "Chennai",
+    "TotalSales": 214889,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-07-11",
+    "Branch": "Bangalore",
+    "TotalSales": 328468,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-07-11",
+    "Branch": "Mumbai",
+    "TotalSales": 233151,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-07-12",
+    "Branch": "Chennai",
+    "TotalSales": 323814,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-07-12",
+    "Branch": "Bangalore",
+    "TotalSales": 338549,
+    "Orders": 30
+  },
+  {
+    "Date": "2026-07-12",
+    "Branch": "Mumbai",
+    "TotalSales": 181174,
+    "Orders": 27
+  },
+  {
+    "Date": "2026-07-13",
+    "Branch": "Chennai",
+    "TotalSales": 488502,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-07-13",
+    "Branch": "Bangalore",
+    "TotalSales": 747681,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-07-13",
+    "Branch": "Mumbai",
+    "TotalSales": 568049,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-07-14",
+    "Branch": "Chennai",
+    "TotalSales": 562424,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-07-14",
+    "Branch": "Bangalore",
+    "TotalSales": 276343,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-07-14",
+    "Branch": "Mumbai",
+    "TotalSales": 320175,
+    "Orders": 57
+  },
+  {
+    "Date": "2026-07-15",
+    "Branch": "Chennai",
+    "TotalSales": 621888,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-07-15",
+    "Branch": "Bangalore",
+    "TotalSales": 372715,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-07-15",
+    "Branch": "Mumbai",
+    "TotalSales": 535621,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-07-16",
+    "Branch": "Chennai",
+    "TotalSales": 422796,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-07-16",
+    "Branch": "Bangalore",
+    "TotalSales": 598524,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-07-16",
+    "Branch": "Mumbai",
+    "TotalSales": 372358,
+    "Orders": 56
+  },
+  {
+    "Date": "2026-07-17",
+    "Branch": "Chennai",
+    "TotalSales": 639276,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-07-17",
+    "Branch": "Bangalore",
+    "TotalSales": 648772,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-07-17",
+    "Branch": "Mumbai",
+    "TotalSales": 301082,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-07-18",
+    "Branch": "Chennai",
+    "TotalSales": 297876,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-07-18",
+    "Branch": "Bangalore",
+    "TotalSales": 193211,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-07-18",
+    "Branch": "Mumbai",
+    "TotalSales": 143593,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-07-19",
+    "Branch": "Chennai",
+    "TotalSales": 332687,
+    "Orders": 27
+  },
+  {
+    "Date": "2026-07-19",
+    "Branch": "Bangalore",
+    "TotalSales": 218304,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-07-19",
+    "Branch": "Mumbai",
+    "TotalSales": 231022,
+    "Orders": 27
+  },
+  {
+    "Date": "2026-07-20",
+    "Branch": "Chennai",
+    "TotalSales": 615867,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-07-20",
+    "Branch": "Bangalore",
+    "TotalSales": 684372,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-07-20",
+    "Branch": "Mumbai",
+    "TotalSales": 620250,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-07-21",
+    "Branch": "Chennai",
+    "TotalSales": 626055,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-07-21",
+    "Branch": "Bangalore",
+    "TotalSales": 440341,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-07-21",
+    "Branch": "Mumbai",
+    "TotalSales": 540859,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-07-22",
+    "Branch": "Chennai",
+    "TotalSales": 263943,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-07-22",
+    "Branch": "Bangalore",
+    "TotalSales": 452792,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-07-22",
+    "Branch": "Mumbai",
+    "TotalSales": 476597,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-07-23",
+    "Branch": "Chennai",
+    "TotalSales": 536284,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-07-23",
+    "Branch": "Bangalore",
+    "TotalSales": 783008,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-07-23",
+    "Branch": "Mumbai",
+    "TotalSales": 618742,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-07-24",
+    "Branch": "Chennai",
+    "TotalSales": 401369,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-07-24",
+    "Branch": "Bangalore",
+    "TotalSales": 715865,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-07-24",
+    "Branch": "Mumbai",
+    "TotalSales": 439093,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-07-25",
+    "Branch": "Chennai",
+    "TotalSales": 258082,
+    "Orders": 29
+  },
+  {
+    "Date": "2026-07-25",
+    "Branch": "Bangalore",
+    "TotalSales": 163874,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-07-25",
+    "Branch": "Mumbai",
+    "TotalSales": 247976,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-07-26",
+    "Branch": "Chennai",
+    "TotalSales": 327818,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-07-26",
+    "Branch": "Bangalore",
+    "TotalSales": 319304,
+    "Orders": 33
+  },
+  {
+    "Date": "2026-07-26",
+    "Branch": "Mumbai",
+    "TotalSales": 332799,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-07-27",
+    "Branch": "Chennai",
+    "TotalSales": 657351,
+    "Orders": 74
+  },
+  {
+    "Date": "2026-07-27",
+    "Branch": "Bangalore",
+    "TotalSales": 441526,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-07-27",
+    "Branch": "Mumbai",
+    "TotalSales": 750087,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-07-28",
+    "Branch": "Chennai",
+    "TotalSales": 400516,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-07-28",
+    "Branch": "Bangalore",
+    "TotalSales": 329477,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-07-28",
+    "Branch": "Mumbai",
+    "TotalSales": 255170,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-07-29",
+    "Branch": "Chennai",
+    "TotalSales": 639553,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-07-29",
+    "Branch": "Bangalore",
+    "TotalSales": 628003,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-07-29",
+    "Branch": "Mumbai",
+    "TotalSales": 726605,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-07-30",
+    "Branch": "Chennai",
+    "TotalSales": 404554,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-07-30",
+    "Branch": "Bangalore",
+    "TotalSales": 487460,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-07-30",
+    "Branch": "Mumbai",
+    "TotalSales": 489268,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-07-31",
+    "Branch": "Chennai",
+    "TotalSales": 428898,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-07-31",
+    "Branch": "Bangalore",
+    "TotalSales": 352861,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-07-31",
+    "Branch": "Mumbai",
+    "TotalSales": 756666,
+    "Orders": 68
+  },
+  {
+    "Date": "2026-08-01",
+    "Branch": "Chennai",
+    "TotalSales": 120702,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-08-01",
+    "Branch": "Bangalore",
+    "TotalSales": 149531,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-08-01",
+    "Branch": "Mumbai",
+    "TotalSales": 330213,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-08-02",
+    "Branch": "Chennai",
+    "TotalSales": 242818,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-08-02",
+    "Branch": "Bangalore",
+    "TotalSales": 225962,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-08-02",
+    "Branch": "Mumbai",
+    "TotalSales": 322203,
+    "Orders": 22
+  },
+  {
+    "Date": "2026-08-03",
+    "Branch": "Chennai",
+    "TotalSales": 728257,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-08-03",
+    "Branch": "Bangalore",
+    "TotalSales": 679091,
+    "Orders": 87
+  },
+  {
+    "Date": "2026-08-03",
+    "Branch": "Mumbai",
+    "TotalSales": 725823,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-08-04",
+    "Branch": "Chennai",
+    "TotalSales": 535216,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-08-04",
+    "Branch": "Bangalore",
+    "TotalSales": 288956,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-08-04",
+    "Branch": "Mumbai",
+    "TotalSales": 592962,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-08-05",
+    "Branch": "Chennai",
+    "TotalSales": 591331,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-08-05",
+    "Branch": "Bangalore",
+    "TotalSales": 739962,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-08-05",
+    "Branch": "Mumbai",
+    "TotalSales": 422255,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-08-06",
+    "Branch": "Chennai",
+    "TotalSales": 326743,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-08-06",
+    "Branch": "Bangalore",
+    "TotalSales": 616991,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-08-06",
+    "Branch": "Mumbai",
+    "TotalSales": 556901,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-08-07",
+    "Branch": "Chennai",
+    "TotalSales": 659679,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-08-07",
+    "Branch": "Bangalore",
+    "TotalSales": 633910,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-08-07",
+    "Branch": "Mumbai",
+    "TotalSales": 745697,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-08-08",
+    "Branch": "Chennai",
+    "TotalSales": 219342,
+    "Orders": 15
+  },
+  {
+    "Date": "2026-08-08",
+    "Branch": "Bangalore",
+    "TotalSales": 323562,
+    "Orders": 31
+  },
+  {
+    "Date": "2026-08-08",
+    "Branch": "Mumbai",
+    "TotalSales": 164188,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-08-09",
+    "Branch": "Chennai",
+    "TotalSales": 336944,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-08-09",
+    "Branch": "Bangalore",
+    "TotalSales": 278246,
+    "Orders": 19
+  },
+  {
+    "Date": "2026-08-09",
+    "Branch": "Mumbai",
+    "TotalSales": 208898,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-08-10",
+    "Branch": "Chennai",
+    "TotalSales": 291573,
+    "Orders": 61
+  },
+  {
+    "Date": "2026-08-10",
+    "Branch": "Bangalore",
+    "TotalSales": 692192,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-08-10",
+    "Branch": "Mumbai",
+    "TotalSales": 414762,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-08-11",
+    "Branch": "Chennai",
+    "TotalSales": 625421,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-08-11",
+    "Branch": "Bangalore",
+    "TotalSales": 321265,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-08-11",
+    "Branch": "Mumbai",
+    "TotalSales": 741922,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-08-12",
+    "Branch": "Chennai",
+    "TotalSales": 623025,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-08-12",
+    "Branch": "Bangalore",
+    "TotalSales": 617826,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-08-12",
+    "Branch": "Mumbai",
+    "TotalSales": 702540,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-08-13",
+    "Branch": "Chennai",
+    "TotalSales": 425717,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-08-13",
+    "Branch": "Bangalore",
+    "TotalSales": 755255,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-08-13",
+    "Branch": "Mumbai",
+    "TotalSales": 532749,
+    "Orders": 70
+  },
+  {
+    "Date": "2026-08-14",
+    "Branch": "Chennai",
+    "TotalSales": 391520,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-08-14",
+    "Branch": "Bangalore",
+    "TotalSales": 655818,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-08-14",
+    "Branch": "Mumbai",
+    "TotalSales": 622377,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-08-15",
+    "Branch": "Chennai",
+    "TotalSales": 333222,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-08-15",
+    "Branch": "Bangalore",
+    "TotalSales": 269589,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-08-15",
+    "Branch": "Mumbai",
+    "TotalSales": 282585,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-08-16",
+    "Branch": "Chennai",
+    "TotalSales": 329243,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-08-16",
+    "Branch": "Bangalore",
+    "TotalSales": 114085,
+    "Orders": 30
+  },
+  {
+    "Date": "2026-08-16",
+    "Branch": "Mumbai",
+    "TotalSales": 326474,
+    "Orders": 32
+  },
+  {
+    "Date": "2026-08-17",
+    "Branch": "Chennai",
+    "TotalSales": 648366,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-08-17",
+    "Branch": "Bangalore",
+    "TotalSales": 681774,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-08-17",
+    "Branch": "Mumbai",
+    "TotalSales": 502728,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-08-18",
+    "Branch": "Chennai",
+    "TotalSales": 784761,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-08-18",
+    "Branch": "Bangalore",
+    "TotalSales": 790506,
+    "Orders": 70
+  },
+  {
+    "Date": "2026-08-18",
+    "Branch": "Mumbai",
+    "TotalSales": 592688,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-08-19",
+    "Branch": "Chennai",
+    "TotalSales": 329035,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-08-19",
+    "Branch": "Bangalore",
+    "TotalSales": 753924,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-08-19",
+    "Branch": "Mumbai",
+    "TotalSales": 609717,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-08-20",
+    "Branch": "Chennai",
+    "TotalSales": 322285,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-08-20",
+    "Branch": "Bangalore",
+    "TotalSales": 464139,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-08-20",
+    "Branch": "Mumbai",
+    "TotalSales": 600458,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-08-21",
+    "Branch": "Chennai",
+    "TotalSales": 306186,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-08-21",
+    "Branch": "Bangalore",
+    "TotalSales": 411239,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-08-21",
+    "Branch": "Mumbai",
+    "TotalSales": 796119,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-08-22",
+    "Branch": "Chennai",
+    "TotalSales": 333987,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-08-22",
+    "Branch": "Bangalore",
+    "TotalSales": 152529,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-08-22",
+    "Branch": "Mumbai",
+    "TotalSales": 312911,
+    "Orders": 22
+  },
+  {
+    "Date": "2026-08-23",
+    "Branch": "Chennai",
+    "TotalSales": 159971,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-08-23",
+    "Branch": "Bangalore",
+    "TotalSales": 142581,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-08-23",
+    "Branch": "Mumbai",
+    "TotalSales": 149023,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-08-24",
+    "Branch": "Chennai",
+    "TotalSales": 257780,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-08-24",
+    "Branch": "Bangalore",
+    "TotalSales": 256188,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-08-24",
+    "Branch": "Mumbai",
+    "TotalSales": 596391,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-08-25",
+    "Branch": "Chennai",
+    "TotalSales": 446301,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-08-25",
+    "Branch": "Bangalore",
+    "TotalSales": 561705,
+    "Orders": 61
+  },
+  {
+    "Date": "2026-08-25",
+    "Branch": "Mumbai",
+    "TotalSales": 253497,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-08-26",
+    "Branch": "Chennai",
+    "TotalSales": 378736,
+    "Orders": 62
+  },
+  {
+    "Date": "2026-08-26",
+    "Branch": "Bangalore",
+    "TotalSales": 349844,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-08-26",
+    "Branch": "Mumbai",
+    "TotalSales": 297279,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-08-27",
+    "Branch": "Chennai",
+    "TotalSales": 636580,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-08-27",
+    "Branch": "Bangalore",
+    "TotalSales": 574810,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-08-27",
+    "Branch": "Mumbai",
+    "TotalSales": 406280,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-08-28",
+    "Branch": "Chennai",
+    "TotalSales": 267303,
+    "Orders": 74
+  },
+  {
+    "Date": "2026-08-28",
+    "Branch": "Bangalore",
+    "TotalSales": 489705,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-08-28",
+    "Branch": "Mumbai",
+    "TotalSales": 433375,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-08-29",
+    "Branch": "Chennai",
+    "TotalSales": 246539,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-08-29",
+    "Branch": "Bangalore",
+    "TotalSales": 302545,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-08-29",
+    "Branch": "Mumbai",
+    "TotalSales": 160560,
+    "Orders": 27
+  },
+  {
+    "Date": "2026-08-30",
+    "Branch": "Chennai",
+    "TotalSales": 220649,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-08-30",
+    "Branch": "Bangalore",
+    "TotalSales": 284158,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-08-30",
+    "Branch": "Mumbai",
+    "TotalSales": 162148,
+    "Orders": 26
+  },
+  {
+    "Date": "2026-08-31",
+    "Branch": "Chennai",
+    "TotalSales": 751418,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-08-31",
+    "Branch": "Bangalore",
+    "TotalSales": 430582,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-08-31",
+    "Branch": "Mumbai",
+    "TotalSales": 342615,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-09-01",
+    "Branch": "Chennai",
+    "TotalSales": 709798,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-09-01",
+    "Branch": "Bangalore",
+    "TotalSales": 785741,
+    "Orders": 79
+  },
+  {
+    "Date": "2026-09-01",
+    "Branch": "Mumbai",
+    "TotalSales": 293277,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-09-02",
+    "Branch": "Chennai",
+    "TotalSales": 362968,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-09-02",
+    "Branch": "Bangalore",
+    "TotalSales": 372639,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-09-02",
+    "Branch": "Mumbai",
+    "TotalSales": 542650,
+    "Orders": 74
+  },
+  {
+    "Date": "2026-09-03",
+    "Branch": "Chennai",
+    "TotalSales": 385929,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-09-03",
+    "Branch": "Bangalore",
+    "TotalSales": 397656,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-09-03",
+    "Branch": "Mumbai",
+    "TotalSales": 498043,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-09-04",
+    "Branch": "Chennai",
+    "TotalSales": 581741,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-09-04",
+    "Branch": "Bangalore",
+    "TotalSales": 267194,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-09-04",
+    "Branch": "Mumbai",
+    "TotalSales": 343361,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-09-05",
+    "Branch": "Chennai",
+    "TotalSales": 336032,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-09-05",
+    "Branch": "Bangalore",
+    "TotalSales": 280097,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-09-05",
+    "Branch": "Mumbai",
+    "TotalSales": 179036,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-09-06",
+    "Branch": "Chennai",
+    "TotalSales": 219574,
+    "Orders": 29
+  },
+  {
+    "Date": "2026-09-06",
+    "Branch": "Bangalore",
+    "TotalSales": 346350,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-09-06",
+    "Branch": "Mumbai",
+    "TotalSales": 221106,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-09-07",
+    "Branch": "Chennai",
+    "TotalSales": 587922,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-09-07",
+    "Branch": "Bangalore",
+    "TotalSales": 629293,
+    "Orders": 77
+  },
+  {
+    "Date": "2026-09-07",
+    "Branch": "Mumbai",
+    "TotalSales": 578660,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-09-08",
+    "Branch": "Chennai",
+    "TotalSales": 629140,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-09-08",
+    "Branch": "Bangalore",
+    "TotalSales": 663310,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-09-08",
+    "Branch": "Mumbai",
+    "TotalSales": 488044,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-09-09",
+    "Branch": "Chennai",
+    "TotalSales": 277686,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-09-09",
+    "Branch": "Bangalore",
+    "TotalSales": 676447,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-09-09",
+    "Branch": "Mumbai",
+    "TotalSales": 498186,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-09-10",
+    "Branch": "Chennai",
+    "TotalSales": 500139,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-09-10",
+    "Branch": "Bangalore",
+    "TotalSales": 429399,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-09-10",
+    "Branch": "Mumbai",
+    "TotalSales": 723533,
+    "Orders": 53
+  },
+  {
+    "Date": "2026-09-11",
+    "Branch": "Chennai",
+    "TotalSales": 365238,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-09-11",
+    "Branch": "Bangalore",
+    "TotalSales": 250846,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-09-11",
+    "Branch": "Mumbai",
+    "TotalSales": 548487,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-09-12",
+    "Branch": "Chennai",
+    "TotalSales": 167026,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-09-12",
+    "Branch": "Bangalore",
+    "TotalSales": 269034,
+    "Orders": 29
+  },
+  {
+    "Date": "2026-09-12",
+    "Branch": "Mumbai",
+    "TotalSales": 316409,
+    "Orders": 27
+  },
+  {
+    "Date": "2026-09-13",
+    "Branch": "Chennai",
+    "TotalSales": 293634,
+    "Orders": 30
+  },
+  {
+    "Date": "2026-09-13",
+    "Branch": "Bangalore",
+    "TotalSales": 126026,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-09-13",
+    "Branch": "Mumbai",
+    "TotalSales": 303149,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-09-14",
+    "Branch": "Chennai",
+    "TotalSales": 642963,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-09-14",
+    "Branch": "Bangalore",
+    "TotalSales": 636938,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-09-14",
+    "Branch": "Mumbai",
+    "TotalSales": 330139,
+    "Orders": 85
+  },
+  {
+    "Date": "2026-09-15",
+    "Branch": "Chennai",
+    "TotalSales": 367061,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-09-15",
+    "Branch": "Bangalore",
+    "TotalSales": 389811,
+    "Orders": 68
+  },
+  {
+    "Date": "2026-09-15",
+    "Branch": "Mumbai",
+    "TotalSales": 686234,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-09-16",
+    "Branch": "Chennai",
+    "TotalSales": 536735,
+    "Orders": 44
+  },
+  {
+    "Date": "2026-09-16",
+    "Branch": "Bangalore",
+    "TotalSales": 507894,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-09-16",
+    "Branch": "Mumbai",
+    "TotalSales": 603944,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-09-17",
+    "Branch": "Chennai",
+    "TotalSales": 626823,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-09-17",
+    "Branch": "Bangalore",
+    "TotalSales": 352441,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-09-17",
+    "Branch": "Mumbai",
+    "TotalSales": 461827,
+    "Orders": 80
+  },
+  {
+    "Date": "2026-09-18",
+    "Branch": "Chennai",
+    "TotalSales": 496654,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-09-18",
+    "Branch": "Bangalore",
+    "TotalSales": 564422,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-09-18",
+    "Branch": "Mumbai",
+    "TotalSales": 494047,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-09-19",
+    "Branch": "Chennai",
+    "TotalSales": 112493,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-09-19",
+    "Branch": "Bangalore",
+    "TotalSales": 290995,
+    "Orders": 32
+  },
+  {
+    "Date": "2026-09-19",
+    "Branch": "Mumbai",
+    "TotalSales": 287996,
+    "Orders": 28
+  },
+  {
+    "Date": "2026-09-20",
+    "Branch": "Chennai",
+    "TotalSales": 307664,
+    "Orders": 29
+  },
+  {
+    "Date": "2026-09-20",
+    "Branch": "Bangalore",
+    "TotalSales": 286773,
+    "Orders": 23
+  },
+  {
+    "Date": "2026-09-20",
+    "Branch": "Mumbai",
+    "TotalSales": 229216,
+    "Orders": 21
+  },
+  {
+    "Date": "2026-09-21",
+    "Branch": "Chennai",
+    "TotalSales": 642230,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-09-21",
+    "Branch": "Bangalore",
+    "TotalSales": 545399,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-09-21",
+    "Branch": "Mumbai",
+    "TotalSales": 765734,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-09-22",
+    "Branch": "Chennai",
+    "TotalSales": 612026,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-09-22",
+    "Branch": "Bangalore",
+    "TotalSales": 389859,
+    "Orders": 61
+  },
+  {
+    "Date": "2026-09-22",
+    "Branch": "Mumbai",
+    "TotalSales": 274962,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-09-23",
+    "Branch": "Chennai",
+    "TotalSales": 471171,
+    "Orders": 61
+  },
+  {
+    "Date": "2026-09-23",
+    "Branch": "Bangalore",
+    "TotalSales": 723838,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-09-23",
+    "Branch": "Mumbai",
+    "TotalSales": 780882,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-09-24",
+    "Branch": "Chennai",
+    "TotalSales": 725165,
+    "Orders": 56
+  },
+  {
+    "Date": "2026-09-24",
+    "Branch": "Bangalore",
+    "TotalSales": 788253,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-09-24",
+    "Branch": "Mumbai",
+    "TotalSales": 440986,
+    "Orders": 66
+  },
+  {
+    "Date": "2026-09-25",
+    "Branch": "Chennai",
+    "TotalSales": 336180,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-09-25",
+    "Branch": "Bangalore",
+    "TotalSales": 640638,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-09-25",
+    "Branch": "Mumbai",
+    "TotalSales": 652292,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-09-26",
+    "Branch": "Chennai",
+    "TotalSales": 236771,
+    "Orders": 22
+  },
+  {
+    "Date": "2026-09-26",
+    "Branch": "Bangalore",
+    "TotalSales": 124700,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-09-26",
+    "Branch": "Mumbai",
+    "TotalSales": 219151,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-09-27",
+    "Branch": "Chennai",
+    "TotalSales": 213718,
+    "Orders": 15
+  },
+  {
+    "Date": "2026-09-27",
+    "Branch": "Bangalore",
+    "TotalSales": 277899,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-09-27",
+    "Branch": "Mumbai",
+    "TotalSales": 143239,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-09-28",
+    "Branch": "Chennai",
+    "TotalSales": 709927,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-09-28",
+    "Branch": "Bangalore",
+    "TotalSales": 778511,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-09-28",
+    "Branch": "Mumbai",
+    "TotalSales": 531118,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-09-29",
+    "Branch": "Chennai",
+    "TotalSales": 714586,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-09-29",
+    "Branch": "Bangalore",
+    "TotalSales": 454115,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-09-29",
+    "Branch": "Mumbai",
+    "TotalSales": 602772,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-09-30",
+    "Branch": "Chennai",
+    "TotalSales": 395054,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-09-30",
+    "Branch": "Bangalore",
+    "TotalSales": 673445,
+    "Orders": 82
+  },
+  {
+    "Date": "2026-09-30",
+    "Branch": "Mumbai",
+    "TotalSales": 725045,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-10-01",
+    "Branch": "Chennai",
+    "TotalSales": 430912,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-10-01",
+    "Branch": "Bangalore",
+    "TotalSales": 494686,
+    "Orders": 90
+  },
+  {
+    "Date": "2026-10-01",
+    "Branch": "Mumbai",
+    "TotalSales": 500806,
+    "Orders": 83
+  },
+  {
+    "Date": "2026-10-02",
+    "Branch": "Chennai",
+    "TotalSales": 357071,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-10-02",
+    "Branch": "Bangalore",
+    "TotalSales": 699373,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-10-02",
+    "Branch": "Mumbai",
+    "TotalSales": 763381,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-10-03",
+    "Branch": "Chennai",
+    "TotalSales": 314503,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-10-03",
+    "Branch": "Bangalore",
+    "TotalSales": 290146,
+    "Orders": 29
+  },
+  {
+    "Date": "2026-10-03",
+    "Branch": "Mumbai",
+    "TotalSales": 132396,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-10-04",
+    "Branch": "Chennai",
+    "TotalSales": 131920,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-10-04",
+    "Branch": "Bangalore",
+    "TotalSales": 248093,
+    "Orders": 31
+  },
+  {
+    "Date": "2026-10-04",
+    "Branch": "Mumbai",
+    "TotalSales": 126630,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-10-05",
+    "Branch": "Chennai",
+    "TotalSales": 795398,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-10-05",
+    "Branch": "Bangalore",
+    "TotalSales": 344855,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-10-05",
+    "Branch": "Mumbai",
+    "TotalSales": 483757,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-10-06",
+    "Branch": "Chennai",
+    "TotalSales": 724109,
+    "Orders": 65
+  },
+  {
+    "Date": "2026-10-06",
+    "Branch": "Bangalore",
+    "TotalSales": 376925,
+    "Orders": 81
+  },
+  {
+    "Date": "2026-10-06",
+    "Branch": "Mumbai",
+    "TotalSales": 564351,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-10-07",
+    "Branch": "Chennai",
+    "TotalSales": 570025,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-10-07",
+    "Branch": "Bangalore",
+    "TotalSales": 415026,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-10-07",
+    "Branch": "Mumbai",
+    "TotalSales": 628879,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-10-08",
+    "Branch": "Chennai",
+    "TotalSales": 658365,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-10-08",
+    "Branch": "Bangalore",
+    "TotalSales": 366721,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-10-08",
+    "Branch": "Mumbai",
+    "TotalSales": 749752,
+    "Orders": 60
+  },
+  {
+    "Date": "2026-10-09",
+    "Branch": "Chennai",
+    "TotalSales": 340671,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-10-09",
+    "Branch": "Bangalore",
+    "TotalSales": 504525,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-10-09",
+    "Branch": "Mumbai",
+    "TotalSales": 478852,
+    "Orders": 72
+  },
+  {
+    "Date": "2026-10-10",
+    "Branch": "Chennai",
+    "TotalSales": 264246,
+    "Orders": 34
+  },
+  {
+    "Date": "2026-10-10",
+    "Branch": "Bangalore",
+    "TotalSales": 236980,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-10-10",
+    "Branch": "Mumbai",
+    "TotalSales": 252359,
+    "Orders": 17
+  },
+  {
+    "Date": "2026-10-11",
+    "Branch": "Chennai",
+    "TotalSales": 118702,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-10-11",
+    "Branch": "Bangalore",
+    "TotalSales": 102848,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-10-11",
+    "Branch": "Mumbai",
+    "TotalSales": 307617,
+    "Orders": 32
+  },
+  {
+    "Date": "2026-10-12",
+    "Branch": "Chennai",
+    "TotalSales": 602734,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-10-12",
+    "Branch": "Bangalore",
+    "TotalSales": 729101,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-10-12",
+    "Branch": "Mumbai",
+    "TotalSales": 799199,
+    "Orders": 86
+  },
+  {
+    "Date": "2026-10-13",
+    "Branch": "Chennai",
+    "TotalSales": 394462,
+    "Orders": 55
+  },
+  {
+    "Date": "2026-10-13",
+    "Branch": "Bangalore",
+    "TotalSales": 472234,
+    "Orders": 50
+  },
+  {
+    "Date": "2026-10-13",
+    "Branch": "Mumbai",
+    "TotalSales": 264201,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-10-14",
+    "Branch": "Chennai",
+    "TotalSales": 448853,
+    "Orders": 89
+  },
+  {
+    "Date": "2026-10-14",
+    "Branch": "Bangalore",
+    "TotalSales": 677057,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-10-14",
+    "Branch": "Mumbai",
+    "TotalSales": 700940,
+    "Orders": 48
+  },
+  {
+    "Date": "2026-10-15",
+    "Branch": "Chennai",
+    "TotalSales": 676600,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-10-15",
+    "Branch": "Bangalore",
+    "TotalSales": 283508,
+    "Orders": 67
+  },
+  {
+    "Date": "2026-10-15",
+    "Branch": "Mumbai",
+    "TotalSales": 470539,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-10-16",
+    "Branch": "Chennai",
+    "TotalSales": 466759,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-10-16",
+    "Branch": "Bangalore",
+    "TotalSales": 693439,
+    "Orders": 69
+  },
+  {
+    "Date": "2026-10-16",
+    "Branch": "Mumbai",
+    "TotalSales": 747440,
+    "Orders": 54
+  },
+  {
+    "Date": "2026-10-17",
+    "Branch": "Chennai",
+    "TotalSales": 233571,
+    "Orders": 16
+  },
+  {
+    "Date": "2026-10-17",
+    "Branch": "Bangalore",
+    "TotalSales": 118547,
+    "Orders": 28
+  },
+  {
+    "Date": "2026-10-17",
+    "Branch": "Mumbai",
+    "TotalSales": 273438,
+    "Orders": 32
+  },
+  {
+    "Date": "2026-10-18",
+    "Branch": "Chennai",
+    "TotalSales": 290739,
+    "Orders": 15
+  },
+  {
+    "Date": "2026-10-18",
+    "Branch": "Bangalore",
+    "TotalSales": 300436,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-10-18",
+    "Branch": "Mumbai",
+    "TotalSales": 330065,
+    "Orders": 18
+  },
+  {
+    "Date": "2026-10-19",
+    "Branch": "Chennai",
+    "TotalSales": 594340,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-10-19",
+    "Branch": "Bangalore",
+    "TotalSales": 403342,
+    "Orders": 71
+  },
+  {
+    "Date": "2026-10-19",
+    "Branch": "Mumbai",
+    "TotalSales": 333072,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-10-20",
+    "Branch": "Chennai",
+    "TotalSales": 477034,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-10-20",
+    "Branch": "Bangalore",
+    "TotalSales": 426854,
+    "Orders": 52
+  },
+  {
+    "Date": "2026-10-20",
+    "Branch": "Mumbai",
+    "TotalSales": 545140,
+    "Orders": 35
+  },
+  {
+    "Date": "2026-10-21",
+    "Branch": "Chennai",
+    "TotalSales": 796995,
+    "Orders": 75
+  },
+  {
+    "Date": "2026-10-21",
+    "Branch": "Bangalore",
+    "TotalSales": 782968,
+    "Orders": 46
+  },
+  {
+    "Date": "2026-10-21",
+    "Branch": "Mumbai",
+    "TotalSales": 673562,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-10-22",
+    "Branch": "Chennai",
+    "TotalSales": 456659,
+    "Orders": 58
+  },
+  {
+    "Date": "2026-10-22",
+    "Branch": "Bangalore",
+    "TotalSales": 255814,
+    "Orders": 62
+  },
+  {
+    "Date": "2026-10-22",
+    "Branch": "Mumbai",
+    "TotalSales": 498663,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-10-23",
+    "Branch": "Chennai",
+    "TotalSales": 425840,
+    "Orders": 84
+  },
+  {
+    "Date": "2026-10-23",
+    "Branch": "Bangalore",
+    "TotalSales": 329630,
+    "Orders": 56
+  },
+  {
+    "Date": "2026-10-23",
+    "Branch": "Mumbai",
+    "TotalSales": 679322,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-10-24",
+    "Branch": "Chennai",
+    "TotalSales": 268824,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-10-24",
+    "Branch": "Bangalore",
+    "TotalSales": 339102,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-10-24",
+    "Branch": "Mumbai",
+    "TotalSales": 185380,
+    "Orders": 20
+  },
+  {
+    "Date": "2026-10-25",
+    "Branch": "Chennai",
+    "TotalSales": 177362,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-10-25",
+    "Branch": "Bangalore",
+    "TotalSales": 228183,
+    "Orders": 25
+  },
+  {
+    "Date": "2026-10-25",
+    "Branch": "Mumbai",
+    "TotalSales": 327002,
+    "Orders": 42
+  },
+  {
+    "Date": "2026-10-26",
+    "Branch": "Chennai",
+    "TotalSales": 451002,
+    "Orders": 49
+  },
+  {
+    "Date": "2026-10-26",
+    "Branch": "Bangalore",
+    "TotalSales": 713255,
+    "Orders": 64
+  },
+  {
+    "Date": "2026-10-26",
+    "Branch": "Mumbai",
+    "TotalSales": 688537,
+    "Orders": 57
+  },
+  {
+    "Date": "2026-10-27",
+    "Branch": "Chennai",
+    "TotalSales": 532548,
+    "Orders": 66
+  },
+  {
+    "Date": "2026-10-27",
+    "Branch": "Bangalore",
+    "TotalSales": 603461,
+    "Orders": 51
+  },
+  {
+    "Date": "2026-10-27",
+    "Branch": "Mumbai",
+    "TotalSales": 295288,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-10-28",
+    "Branch": "Chennai",
+    "TotalSales": 579209,
+    "Orders": 43
+  },
+  {
+    "Date": "2026-10-28",
+    "Branch": "Bangalore",
+    "TotalSales": 469778,
+    "Orders": 78
+  },
+  {
+    "Date": "2026-10-28",
+    "Branch": "Mumbai",
+    "TotalSales": 258727,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-10-29",
+    "Branch": "Chennai",
+    "TotalSales": 599101,
+    "Orders": 47
+  },
+  {
+    "Date": "2026-10-29",
+    "Branch": "Bangalore",
+    "TotalSales": 547042,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-10-29",
+    "Branch": "Mumbai",
+    "TotalSales": 594689,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-10-30",
+    "Branch": "Chennai",
+    "TotalSales": 677766,
+    "Orders": 63
+  },
+  {
+    "Date": "2026-10-30",
+    "Branch": "Bangalore",
+    "TotalSales": 782766,
+    "Orders": 56
+  },
+  {
+    "Date": "2026-10-30",
+    "Branch": "Mumbai",
+    "TotalSales": 507444,
+    "Orders": 37
+  },
+  {
+    "Date": "2026-10-31",
+    "Branch": "Chennai",
+    "TotalSales": 257057,
+    "Orders": 31
+  },
+  {
+    "Date": "2026-10-31",
+    "Branch": "Bangalore",
+    "TotalSales": 333965,
+    "Orders": 41
+  },
+  {
+    "Date": "2026-10-31",
+    "Branch": "Mumbai",
+    "TotalSales": 308329,
+    "Orders": 36
+  },
+  {
+    "Date": "2026-11-01",
+    "Branch": "Chennai",
+    "TotalSales": 207994,
+    "Orders": 32
+  },
+  {
+    "Date": "2026-11-01",
+    "Branch": "Bangalore",
+    "TotalSales": 141413,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-11-01",
+    "Branch": "Mumbai",
+    "TotalSales": 148400,
+    "Orders": 45
+  },
+  {
+    "Date": "2026-11-02",
+    "Branch": "Chennai",
+    "TotalSales": 494851,
+    "Orders": 39
+  },
+  {
+    "Date": "2026-11-02",
+    "Branch": "Bangalore",
+    "TotalSales": 290636,
+    "Orders": 76
+  },
+  {
+    "Date": "2026-11-02",
+    "Branch": "Mumbai",
+    "TotalSales": 720291,
+    "Orders": 38
+  },
+  {
+    "Date": "2026-11-03",
+    "Branch": "Chennai",
+    "TotalSales": 758996,
+    "Orders": 40
+  },
+  {
+    "Date": "2026-11-03",
+    "Branch": "Bangalore",
+    "TotalSales": 649024,
+    "Orders": 88
+  },
+  {
+    "Date": "2026-11-03",
+    "Branch": "Mumbai",
+    "TotalSales": 655739,
+    "Orders": 73
+  },
+  {
+    "Date": "2026-11-04",
+    "Branch": "Chennai",
+    "TotalSales": 458407,
+    "Orders": 68
+  },
+  {
+    "Date": "2026-11-04",
+    "Branch": "Bangalore",
+    "TotalSales": 578251,
+    "Orders": 59
+  },
+  {
+    "Date": "2026-11-04",
+    "Branch": "Mumbai",
+    "TotalSales": 754561,
+    "Orders": 75
+  }
+]
