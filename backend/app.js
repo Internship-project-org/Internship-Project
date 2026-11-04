@@ -1,7 +1,9 @@
-
 const express = require("express");
 const cors = require("cors");
+
 const queryRoutes = require("./routes/queryRoutes");
+const connectionRoutes = require("./routes/connectionRoutes");
+
 const errorHandler = require("./middleware/errorHandler");
 
 const app = express();
@@ -26,6 +28,9 @@ app.get("/api/health", (req, res) => {
 
 // Query Management API - Rohit's module
 app.use("/api/queries", queryRoutes);
+
+// Database Connection Management API - Minhaj's module
+app.use("/api/connections", connectionRoutes);
 
 // Central error handler - must be registered last
 app.use(errorHandler);
