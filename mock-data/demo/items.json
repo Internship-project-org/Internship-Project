@@ -1,0 +1,22 @@
+[
+  { "ItemCode": "ITEM-001", "ItemName": "Hydraulic Pump A200", "QtyAvailable": 3, "ReorderLevel": 10 },
+  { "ItemCode": "ITEM-002", "ItemName": "Steel Bearing 6205", "QtyAvailable": 5, "ReorderLevel": 20 },
+  { "ItemCode": "ITEM-003", "ItemName": "Copper Wire 2.5mm", "QtyAvailable": 50, "ReorderLevel": 30 },
+  { "ItemCode": "ITEM-004", "ItemName": "Filter Element F400", "QtyAvailable": 2, "ReorderLevel": 15 },
+  { "ItemCode": "ITEM-005", "ItemName": "Drive Belt B72", "QtyAvailable": 100, "ReorderLevel": 25 },
+  { "ItemCode": "ITEM-006", "ItemName": "Pressure Gauge PG10", "QtyAvailable": 7, "ReorderLevel": 10 },
+  { "ItemCode": "ITEM-007", "ItemName": "Valve Seat VS300", "QtyAvailable": 1, "ReorderLevel": 8 },
+  { "ItemCode": "ITEM-008", "ItemName": "Piston Ring PR45", "QtyAvailable": 200, "ReorderLevel": 50 },
+  { "ItemCode": "ITEM-009", "ItemName": "Oil Seal OS22", "QtyAvailable": 4, "ReorderLevel": 12 },
+  { "ItemCode": "ITEM-010", "ItemName": "Gasket Set GS100", "QtyAvailable": 80, "ReorderLevel": 20 },
+  { "ItemCode": "ITEM-011", "ItemName": "Coolant Hose CH55", "QtyAvailable": 6, "ReorderLevel": 15 },
+  { "ItemCode": "ITEM-012", "ItemName": "Spark Plug SP14", "QtyAvailable": 500, "ReorderLevel": 100 },
+  { "ItemCode": "ITEM-013", "ItemName": "Air Filter AF30", "QtyAvailable": 3, "ReorderLevel": 10 },
+  { "ItemCode": "ITEM-014", "ItemName": "Fuel Injector FI90", "QtyAvailable": 12, "ReorderLevel": 10 },
+  { "ItemCode": "ITEM-015", "ItemName": "Timing Chain TC20", "QtyAvailable": 0, "ReorderLevel": 5 },
+  { "ItemCode": "ITEM-016", "ItemName": "Radiator Cap RC11", "QtyAvailable": 25, "ReorderLevel": 10 },
+  { "ItemCode": "ITEM-017", "ItemName": "Brake Pad BP400", "QtyAvailable": 8, "ReorderLevel": 20 },
+  { "ItemCode": "ITEM-018", "ItemName": "Crankshaft Seal CS60", "QtyAvailable": 150, "ReorderLevel": 30 },
+  { "ItemCode": "ITEM-019", "ItemName": "Turbo Charger TC500", "QtyAvailable": 2, "ReorderLevel": 5 },
+  { "ItemCode": "ITEM-020", "ItemName": "Engine Mount EM70", "QtyAvailable": 60, "ReorderLevel": 15 }
+]
