@@ -2,6 +2,7 @@ const test = require("node:test");
 const assert = require("node:assert/strict");
 const path = require("node:path");
 
+// Load environment variables
 require("dotenv").config({
   path: path.join(__dirname, "..", ".env")
 });
@@ -15,21 +16,33 @@ const {
   decryptPassword
 } = require("../security/crypto");
 
+// Run the database test only when explicitly enabled.
+const runIntegrationTest =
+  process.env.RUN_MONGO_INTEGRATION_TEST === "true";
+
 test("Save and retrieve an encrypted connection from MongoDB", {
-  timeout: 30000
+  timeout: 30000,
+  skip: runIntegrationTest
+    ? false
+    : "Set RUN_MONGO_INTEGRATION_TEST=true to enable database testing"
 }, async () => {
+
   // Verify required environment configuration.
   if (!process.env.MONGO_URI) {
     throw new Error("MONGO_URI is not configured");
   }
 
   if (!/^[0-9a-fA-F]{64}$/.test(process.env.ENCRYPTION_KEY || "")) {
-    throw new Error("ENCRYPTION_KEY must be 64 hexadecimal characters");
+    throw new Error(
+      "ENCRYPTION_KEY must be 64 hexadecimal characters"
+    );
   }
 
   // Prevent running this test in production mode.
   if (process.env.NODE_ENV === "production") {
-    throw new Error("Integration test must not run in production");
+    throw new Error(
+      "Integration test must not run in production"
+    );
   }
 
   let createdId;
@@ -65,6 +78,7 @@ test("Save and retrieve an encrypted connection from MongoDB", {
       .select("+passwordEncrypted")
       .lean();
 
+    // Verify that the connection exists.
     assert.ok(storedConnection);
 
     // Verify that the stored password is encrypted.
@@ -80,19 +94,30 @@ test("Save and retrieve an encrypted connection from MongoDB", {
     );
 
     // Verify that ordinary queries exclude the password.
-    const safeConnection = await Connection.findById(createdId).lean();
+    const safeConnection = await Connection.findById(createdId)
+      .lean();
 
-    assert.equal(safeConnection.passwordEncrypted, undefined);
+    assert.ok(safeConnection);
+
+    assert.equal(
+      safeConnection.passwordEncrypted,
+      undefined
+    );
 
     console.log("Encryption and retrieval verified");
+
   } finally {
     try {
       // Remove only the temporary record created by this test.
       if (createdId && mongoose.connection.readyState === 1) {
-        await Connection.deleteOne({ _id: createdId });
+        await Connection.deleteOne({
+          _id: createdId
+        });
+
         console.log("Temporary test connection removed");
       }
     } finally {
+      // Close MongoDB connection.
       await mongoose.disconnect();
     }
   }
