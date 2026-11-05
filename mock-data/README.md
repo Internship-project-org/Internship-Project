@@ -135,3 +135,4 @@ Do not commit generated large files if they are too big for the repo — check w
 2. **Never hardcode data** in connectors — always load from this folder
 3. **Column names are fixed** — do not rename without telling all connector owners
 4. All dates use ISO format: `YYYY-MM-DD`
+
