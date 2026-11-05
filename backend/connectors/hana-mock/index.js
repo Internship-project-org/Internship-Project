@@ -1,109 +1,95 @@
 /**
- * HANA Mock Engine — in-memory HANA-style SQL using better-sqlite3
+ * HANA Mock Engine — in-memory HANA-style SQL using pure JavaScript (alasql)
  * Story 3.1, sub-tasks #79–#82 | Owner: Swarnalakshmi Perumal | Sprint 1
  *
  * Simulates SAP HANA SQL behaviour so the app works without a real HANA instance.
+ * Built using alasql (100% pure JavaScript - zero C++ compiler / python requirements).
+ *
  * Supports:
- *   - CURRENT_DATE  (sub-task #81)
- *   - DAYS_BETWEEN(a, b)  (sub-task #81)
- *   - Quoted "SCHEMA"."TABLE" names  (sub-task #82)
- *   - LIMIT n  (sub-task #82)
- *   - ? parameters  (sub-task #82)
+ *   - CURRENT_DATE / CURRENT_DATE() (sub-task #81)
+ *   - DAYS_BETWEEN(a, b)            (sub-task #81)
+ *   - Quoted "SCHEMA"."TABLE"       (sub-task #82)
+ *   - LIMIT n                       (sub-task #82)
+ *   - ? parameters                  (sub-task #82)
  *
  * Data is loaded from the shared mock-data/demo/ folder (sub-task #80).
  */
 
-const Database = require("better-sqlite3");
-const path     = require("path");
-const fs       = require("fs");
+const alasql = require("alasql");
+const path   = require("path");
+const fs     = require("fs");
 
 const MOCK_DATA_DIR = path.resolve(__dirname, "../../../mock-data/demo");
 
-let db; // singleton in-memory DB
+let initialised = false;
 
 /**
- * Returns the singleton in-memory SQLite DB, creating and seeding it on first call.
+ * Initialises the mock database and loads the JSON datasets.
  */
-function getDb() {
-  if (db) return db;
+function initDb() {
+  if (initialised) return;
 
-  // ── Create in-memory DB ───────────────────────────────────────────────────
-  db = new Database(":memory:");
+  // ── Register custom HANA functions ──────────────────────────────────────────
 
-  // ── Register HANA-compatible custom functions ─────────────────────────────
+  // CURRENT_DATE / CURRENT_DATE() → YYYY-MM-DD
+  alasql.fn.CURRENT_DATE = () => new Date().toISOString().slice(0, 10);
+  alasql.fn.HANA_CURRENT_DATE = () => new Date().toISOString().slice(0, 10);
 
-  // CURRENT_DATE() → today's date as YYYY-MM-DD string (sub-task #81)
-  // SQLite has a built-in CURRENT_DATE keyword (no parentheses) that returns
-  // the same value. We register HANA_CURRENT_DATE as the actual UDF and rewrite
-  // CURRENT_DATE() calls in normaliseQuery() so they hit this function.
-  db.function("HANA_CURRENT_DATE", () => new Date().toISOString().slice(0, 10));
-
-  // DAYS_BETWEEN(start, end) → integer day difference (sub-task #81)
-  db.function("DAYS_BETWEEN", (start, end) => {
+  // DAYS_BETWEEN(start, end) → integer difference in days
+  alasql.fn.DAYS_BETWEEN = (start, end) => {
     if (!start || !end) return null;
     const msPerDay = 86400000;
     return Math.floor((new Date(end) - new Date(start)) / msPerDay);
-  });
+  };
 
-  // ── Create tables matching FR-23 schema ──────────────────────────────────
-  // NOTE: SQLite does not support "SCHEMA"."TABLE" syntax (no attached database).
-  // We create plain tables and strip the "DEMO". prefix in normaliseQuery() at
-  // query time, so HANA SQL like SELECT * FROM "DEMO"."INVOICES" works transparently.
-  db.exec(`
-    CREATE TABLE IF NOT EXISTS "INVOICES" (
-      InvoiceNo     TEXT,
-      CustomerCode  TEXT,
-      CustomerName  TEXT,
-      Email         TEXT,
-      DueDate       TEXT,
-      Amount        REAL,
-      Paid          INTEGER
+  // ── Create in-memory tables ───────────────────────────────────────────────
+  alasql(`
+    CREATE TABLE IF NOT EXISTS INVOICES (
+      InvoiceNo STRING,
+      CustomerCode STRING,
+      CustomerName STRING,
+      Email STRING,
+      DueDate STRING,
+      Amount FLOAT,
+      Paid INT
     );
 
-    CREATE TABLE IF NOT EXISTS "PURCHASEORDERS" (
-      PONumber      TEXT,
-      SupplierName  TEXT,
-      Email         TEXT,
-      PromisedDate  TEXT,
-      Status        TEXT
+    CREATE TABLE IF NOT EXISTS PURCHASEORDERS (
+      PONumber STRING,
+      SupplierName STRING,
+      Email STRING,
+      PromisedDate STRING,
+      Status STRING
     );
 
-    CREATE TABLE IF NOT EXISTS "ITEMS" (
-      ItemCode      TEXT,
-      ItemName      TEXT,
-      QtyAvailable  REAL,
-      ReorderLevel  REAL
+    CREATE TABLE IF NOT EXISTS ITEMS (
+      ItemCode STRING,
+      ItemName STRING,
+      QtyAvailable FLOAT,
+      ReorderLevel FLOAT
     );
 
-    CREATE TABLE IF NOT EXISTS "SALESSUMMARY" (
-      Date          TEXT,
-      Branch        TEXT,
-      TotalSales    REAL,
-      Orders        INTEGER
+    CREATE TABLE IF NOT EXISTS SALESSUMMARY (
+      Date STRING,
+      Branch STRING,
+      TotalSales FLOAT,
+      Orders INT
     );
   `);
 
-  // ── Load from shared mock-data folder (sub-task #80) ─────────────────────
-  _loadTable("INVOICES",       "invoices.json",       [
-    "InvoiceNo","CustomerCode","CustomerName","Email","DueDate","Amount","Paid"
-  ]);
-  _loadTable("PURCHASEORDERS", "purchaseOrders.json",  [
-    "PONumber","SupplierName","Email","PromisedDate","Status"
-  ]);
-  _loadTable("ITEMS",          "items.json",           [
-    "ItemCode","ItemName","QtyAvailable","ReorderLevel"
-  ]);
-  _loadTable("SALESSUMMARY",   "salesSummary.json",    [
-    "Date","Branch","TotalSales","Orders"
-  ]);
+  // ── Seed data from mock-data/demo/ ─────────────────────────────────────────
+  _loadTable("INVOICES", "invoices.json");
+  _loadTable("PURCHASEORDERS", "purchaseOrders.json");
+  _loadTable("ITEMS", "items.json");
+  _loadTable("SALESSUMMARY", "salesSummary.json");
 
-  return db;
+  initialised = true;
 }
 
 /**
- * Loads a JSON file from mock-data/demo/ and inserts rows into the in-memory table.
+ * Loads a JSON file from mock-data/demo/ into an alasql table.
  */
-function _loadTable(tableName, fileName, columns) {
+function _loadTable(tableName, fileName) {
   const filePath = path.join(MOCK_DATA_DIR, fileName);
 
   if (!fs.existsSync(filePath)) {
@@ -112,91 +98,87 @@ function _loadTable(tableName, fileName, columns) {
   }
 
   const rows = JSON.parse(fs.readFileSync(filePath, "utf8"));
-  const placeholders = columns.map(() => "?").join(", ");
-  const insert = db.prepare(
-    `INSERT INTO "${tableName}" (${columns.join(", ")}) VALUES (${placeholders})`
-  );
-
-  const insertMany = db.transaction((data) => {
-    for (const row of data) {
-      const values = columns.map((col) => {
-        const val = row[col];
-        // SQLite stores booleans as integers
-        if (typeof val === "boolean") return val ? 1 : 0;
-        return val !== undefined ? val : null;
-      });
-      insert.run(values);
+  // Convert boolean fields to integers if any
+  const sanitized = rows.map((row) => {
+    const copy = { ...row };
+    for (const [key, val] of Object.entries(copy)) {
+      if (typeof val === "boolean") copy[key] = val ? 1 : 0;
     }
+    return copy;
   });
 
-  insertMany(rows);
-  console.log(`[HANA Mock] Loaded ${rows.length} rows into ${tableName}`);
+  alasql.tables[tableName].data = sanitized;
+  console.log(`[HANA Mock] Loaded ${sanitized.length} rows into ${tableName}`);
 }
 
 /**
- * Translates HANA-style SQL to SQLite-compatible SQL.
- *
- * Transformations applied (sub-task #82):
- *  1. Strip "DEMO". schema prefix — SQLite has no schema concept; tables are plain.
- *     "DEMO"."INVOICES" → "INVOICES"
- *  2. Rewrite CURRENT_DATE / CURRENT_DATE() → HANA_CURRENT_DATE() so the registered
- *     SQLite UDF is called correctly (SQLite's built-in CURRENT_DATE keyword cannot
- *     be overridden as a user function).
- *
- * sub-task #82
+ * Translates HANA-style SQL to alasql-compatible SQL.
  */
 function normaliseQuery(sql) {
-  // 1. Remove schema prefix: "DEMO"."TABLE" → "TABLE"  (or DEMO."TABLE" → "TABLE")
-  let result = sql.replace(/"DEMO"\."([^"]+)"/g, '"$1"');
-  result     = result.replace(/\bDEMO\."([^"]+)"/g, '"$1"');
-  // 2. CURRENT_DATE() or bare CURRENT_DATE → HANA_CURRENT_DATE()
-  result = result.replace(/\bCURRENT_DATE\s*\(\s*\)/g, "HANA_CURRENT_DATE()");
-  result = result.replace(/\bCURRENT_DATE\b/g, "HANA_CURRENT_DATE()");
+  if (!sql) return "";
+  let result = sql;
+
+  // 1. Strip "DEMO". or DEMO. schema prefix: "DEMO"."INVOICES" -> INVOICES
+  result = result.replace(/"DEMO"\."([^"]+)"/gi, "$1");
+  result = result.replace(/\bDEMO\."([^"]+)"/gi, "$1");
+  result = result.replace(/"DEMO"\.([a-zA-Z0-9_]+)/gi, "$1");
+  result = result.replace(/\bDEMO\.([a-zA-Z0-9_]+)/gi, "$1");
+
+  // 2. Unquote double quoted identifiers: "INVOICES" -> INVOICES
+  result = result.replace(/"([a-zA-Z0-9_]+)"/g, "$1");
+
+  // 3. Normalise CURRENT_DATE / CURRENT_DATE() to function call
+  result = result.replace(/\bCURRENT_DATE\s*\(\s*\)/gi, "CURRENT_DATE()");
+  result = result.replace(/\bCURRENT_DATE\b(?!\s*\()/gi, "CURRENT_DATE()");
+
   return result;
 }
 
 /**
- * Executes a HANA-style SQL query on the in-memory mock database.
+ * Executes a query on the in-memory mock database.
  *
- * @param {string}   sql    - SQL text (may contain ?, CURRENT_DATE, DAYS_BETWEEN, quoted names)
- * @param {any[]}    params - Values for ? placeholders (sub-task #82)
- * @param {number}   limit  - Max rows to return
+ * @param {string} sql - SQL string
+ * @param {any[]} params - Parameter values
+ * @param {number} limit - Row limit
  * @returns {{ columns: string[], rows: any[][] }}
  */
 function query(sql, params = [], limit = 1000) {
-  const engine = getDb();
-  const normalisedSql = normaliseQuery(sql);
+  initDb();
+  let normalisedSql = normaliseQuery(sql);
 
-  // Apply LIMIT if not already in query (sub-task #82)
-  const hasLimit = /\bLIMIT\b/i.test(normalisedSql);
-  const finalSql = hasLimit ? normalisedSql : `${normalisedSql} LIMIT ${limit}`;
+  // Apply LIMIT if not present
+  if (!/\bLIMIT\b/i.test(normalisedSql)) {
+    normalisedSql = `${normalisedSql} LIMIT ${limit}`;
+  }
 
-  const stmt = engine.prepare(finalSql);
-  const rawRows = stmt.all(...params);
+  let rawRows;
+  try {
+    rawRows = alasql(normalisedSql, params);
+  } catch (err) {
+    throw new Error(`HANA Mock SQL error: ${err.message}`);
+  }
 
-  if (rawRows.length === 0) {
-    // Return empty result with correct column names
-    const cols = stmt.columns ? stmt.columns().map((c) => c.name) : [];
-    return { columns: cols, rows: [] };
+  if (!rawRows || !Array.isArray(rawRows) || rawRows.length === 0) {
+    return { columns: [], rows: [] };
   }
 
   const columns = Object.keys(rawRows[0]);
-  const rows    = rawRows.map((row) => columns.map((col) => row[col]));
+  const rows = rawRows.map((row) => columns.map((col) => (row[col] !== undefined ? row[col] : null)));
 
   return { columns, rows };
 }
 
 /**
- * Tests whether the mock engine is reachable (always true for in-memory DB).
+ * Tests whether the mock engine is reachable.
  * @returns {{ ok: boolean, message: string }}
  */
 function testConnection() {
   try {
-    getDb(); // triggers seeding if not done yet
+    initDb();
     return { ok: true, message: "HANA mock engine is running." };
   } catch (err) {
     return { ok: false, message: `HANA mock error: ${err.message}` };
   }
 }
 
-module.exports = { query, testConnection, getDb };
+module.exports = { query, testConnection, initDb };
