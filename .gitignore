@@ -1,0 +1,11 @@
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+coverage/
+*.log
+
+# Generated report files - never commit these
+backend/reports/output/
+reports/output/
